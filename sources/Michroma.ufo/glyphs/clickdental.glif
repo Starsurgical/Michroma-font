@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clickdental" format="2">
+  <advance width="448"/>
+  <unicode hex="01C0"/>
+  <outline>
+    <component base="bar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

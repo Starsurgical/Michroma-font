@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+  <advance width="448"/>
+  <unicode hex="0307"/>
+  <anchor x="224" y="1152" name="_top"/>
+  <anchor x="224" y="1442" name="top"/>
+  <outline>
+    <contour>
+      <point x="320" y="1344" type="line"/>
+      <point x="320" y="1536" type="line"/>
+      <point x="128" y="1536" type="line"/>
+      <point x="128" y="1344" type="line"/>
+    </contour>
+  </outline>
+</glyph>

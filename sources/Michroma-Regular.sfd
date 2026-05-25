@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779686639
+ModificationTime: 1779688583
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -6356,34 +6356,34 @@ Encoding: 125 82 125
 GlifName: R_
 Width: 2087
 VWidth: 0
-Flags: W
+Flags: HWO
 AnchorPoint: "bottom" 1044 0 basechar 0
 AnchorPoint: "top" 1004 1536 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-196 0 m 257
- 388 0 l 257
- 388 621 l 257
- 1267 621 l 258
- 1297 621 1326 621 1353 622 c 257
+1872 360 m 0
+ 1872 160 1872 0 1872 0 c 257
  1680 0 l 257
- 1872 0 l 257
- 1538 636 l 257
- 1855 680 1916 817 1916 1058 c 258
- 1916 1098 l 258
- 1916 1445 1824 1536 1224 1536 c 258
- 196 1536 l 257
+ 1680 0 1680 180 1680 360 c 257
+ 1680 640 1395 621 1267 621 c 258
+ 388 621 l 257
+ 388 0 l 257
  196 0 l 257
-388 1370 m 257
- 1187 1370 l 258
- 1664 1370 1724 1352 1724 1098 c 258
- 1724 1058 l 258
- 1724 835 1694 787 1237 787 c 258
- 388 787 l 257
- 388 1370 l 257
+ 196 1536 l 257
+ 1224 1536 l 258
+ 1824 1536 1916 1445 1916 1098 c 258
+ 1916 1058 l 258
+ 1916 817 1750 672 1550 672 c 257
+ 1810 672 1872 520 1872 360 c 0
+388 1370 m 1
+ 388 787 l 1
+ 1237 787 l 2
+ 1694 787 1724 835 1724 1058 c 2
+ 1724 1098 l 2
+ 1724 1352 1664 1370 1187 1370 c 2
+ 388 1370 l 1
 EndSplineSet
-Validated: 9
 Substitution2: "'ss02' Style Set 2 in Latin lookup 19 subtable" R.ss02
 EndChar
 
@@ -6442,7 +6442,7 @@ Encoding: 127 340 127
 GlifName: R_acute
 Width: 2087
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6490,7 +6490,6 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 588 384 2
-Validated: 9
 EndChar
 
 StartChar: Rcaron
@@ -6498,7 +6497,7 @@ Encoding: 128 344 128
 GlifName: R_caron
 Width: 2087
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6549,7 +6548,6 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 220 780 N 1 0 0 1 460 384 2
-Validated: 9
 EndChar
 
 StartChar: Rcommaaccent
@@ -6557,7 +6555,7 @@ Encoding: 129 342 129
 GlifName: R_commaaccent
 Width: 2087
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6605,7 +6603,6 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 235 806 N 1 0 0 1 820 0 2
-Validated: 9
 EndChar
 
 StartChar: Rdblgrave
@@ -6613,7 +6610,7 @@ Encoding: 130 528 130
 GlifName: R_dblgrave
 Width: 2087
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6655,7 +6652,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar
 
 StartChar: Rinvertedbreve
@@ -6663,7 +6659,7 @@ Encoding: 131 530 131
 GlifName: R_invertedbreve
 Width: 2087
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6715,7 +6711,6 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 214 785 N 1 0 0 1 364 384 2
-Validated: 9
 EndChar
 
 StartChar: S

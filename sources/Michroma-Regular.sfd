@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779737129
+ModificationTime: 1779737709
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -8844,16 +8844,16 @@ GlifName: acutecomb
 Width: 960
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 219.517 1221.72 mark 0
-AnchorPoint: "top" 601.245 1888.9 basechar 0
+AnchorPoint: "top" 219.517 995.72 mark 0
+AnchorPoint: "top" 601.245 1662.9 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-839 1588 m 261
- 804 1794 l 261
- 79 1603 l 261
- 97 1489 l 261
- 839 1588 l 261
+839 1362 m 261
+ 804 1568 l 261
+ 79 1377 l 261
+ 97 1263 l 261
+ 839 1362 l 261
 EndSplineSet
 EndChar
 
@@ -9219,7 +9219,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 177 97 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 386 60 2
+Refer: 298 768 S 1 0 0 1 386 0 2
 EndChar
 
 StartChar: ainvertedbreve
@@ -12187,7 +12187,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 254 101 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 366 60 2
+Refer: 298 768 S 1 0 0 1 366 0 2
 EndChar
 
 StartChar: eight
@@ -13718,17 +13718,17 @@ Encoding: 298 768 298
 GlifName: gravecomb
 Width: 960
 VWidth: 0
-Flags: HWO
-AnchorPoint: "top" 625.443 1108.28 mark 0
-AnchorPoint: "top" 358.755 1826.9 basechar 0
+Flags: HW
+AnchorPoint: "top" 625.443 944.282 mark 0
+AnchorPoint: "top" 358.755 1662.9 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-881 1541 m 261
- 156 1732 l 261
- 121 1526 l 261
- 863 1427 l 261
- 881 1541 l 261
+881 1377 m 261
+ 156 1568 l 261
+ 121 1362 l 261
+ 863 1263 l 261
+ 881 1377 l 261
 EndSplineSet
 EndChar
 
@@ -14253,7 +14253,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 320 305 N 1 0 0 1 0 0 2
-Refer: 184 769 N 1 0 0 1 -192 0 2
+Refer: 184 769 S 1 0 0 1 -192 -228 2
 EndChar
 
 StartChar: ibreve
@@ -14457,7 +14457,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 320 305 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 -194 60 2
+Refer: 298 768 S 1 0 0 1 -194 0 2
 EndChar
 
 StartChar: iinvertedbreve
@@ -15820,7 +15820,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 357 110 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 383 60 2
+Refer: 298 768 S 1 0 0 1 383 0 2
 EndChar
 
 StartChar: nine
@@ -16552,7 +16552,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 369 111 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 383 60 2
+Refer: 298 768 S 1 0 0 1 383 0 2
 EndChar
 
 StartChar: ohungarumlaut
@@ -20250,7 +20250,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 463 117 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 383 60 2
+Refer: 298 768 S 1 0 0 1 383 0 2
 EndChar
 
 StartChar: uhungarumlaut
@@ -20723,7 +20723,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 479 119 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 702 60 2
+Refer: 298 768 S 1 0 0 1 702 0 2
 EndChar
 
 StartChar: x
@@ -20977,7 +20977,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 485 121 N 1 0 0 1 0 0 2
-Refer: 298 768 N 1 0 0 1 366 60 2
+Refer: 298 768 S 1 0 0 1 366 0 2
 EndChar
 
 StartChar: ymacron

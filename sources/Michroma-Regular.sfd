@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779738023
+ModificationTime: 1779738240
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -15264,7 +15264,7 @@ Encoding: 346 172 346
 GlifName: logicalnot
 Width: 1400
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -15278,15 +15278,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1180 640 m 257
- 1180 1088 l 257
- 220 1088 l 257
- 220 928 l 257
- 988 928 l 257
- 988 640 l 257
- 1180 640 l 257
+1180 250 m 257
+ 1180 793 l 257
+ 220 793 l 257
+ 220 633 l 257
+ 988 633 l 257
+ 988 250 l 257
+ 1180 250 l 257
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: lozenge
@@ -16944,7 +16943,7 @@ Encoding: 391 170 391
 GlifName: ordfeminine
 Width: 1560
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "bottom" 757.119 1003.25 basechar 0
 AnchorPoint: "ogonek" 985.564 1012.87 basechar 0
 AnchorPoint: "top" 757.119 1557.58 basechar 0

@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779695442
+ModificationTime: 1779699681
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -231,8 +231,8 @@ GroupKern: "y" "o" -64
 GroupKern: "y" "q" -64
 GroupKern: "public.kern1.L_caron" "public.kern2.R_l" 150
 LangName: 1033 "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)" "" "" "" "" "Version 1.100" "" "Michroma is a trademark of Vernon Adams." "Vernon Adams" "Vernon Adams" "" "http://www.sansoxygen.com" "http://www.sansoxygen.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Michroma" "Regular"
-OtfFeatName: 'ss01' 1033 "ss01"
 OtfFeatName: 'ss02' 1033 "ss02"
+OtfFeatName: 'ss01' 1033 "ss01"
 PickledDataWithLists: "(dp0
 Vpublic.glyphOrder\\u000d
 p1
@@ -3476,6 +3476,7 @@ SplineSet
  1725 1402 1805 1395 1805 1077 c 257
  1997 1077 l 257
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Gacute
@@ -3533,6 +3534,7 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 673 384 2
+Validated: 5
 EndChar
 
 StartChar: Gbreve
@@ -3594,6 +3596,7 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 213 774 N 1 0 0 1 449 384 2
+Validated: 5
 EndChar
 
 StartChar: Gcaron
@@ -3654,6 +3657,7 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 220 780 N 1 0 0 1 545 384 2
+Validated: 5
 EndChar
 
 StartChar: Gcircumflex
@@ -3714,6 +3718,7 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 230 770 N 1 0 0 1 545 384 2
+Validated: 5
 EndChar
 
 StartChar: Gcommaaccent
@@ -3771,6 +3776,7 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 235 806 N 1 0 0 1 865 0 2
+Validated: 5
 EndChar
 
 StartChar: Gdotaccent
@@ -3828,6 +3834,7 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 251 775 N 1 0 0 1 865 384 2
+Validated: 5
 EndChar
 
 StartChar: Germandbls
@@ -6377,6 +6384,7 @@ SplineSet
  1724 1352 1664 1370 1187 1370 c 2
  388 1370 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "'ss02' Style Set 2 in Latin lookup 19 subtable" R.ss02
 EndChar
 
@@ -6483,6 +6491,7 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 588 384 2
+Validated: 9
 EndChar
 
 StartChar: Rcaron
@@ -6541,6 +6550,7 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 220 780 N 1 0 0 1 460 384 2
+Validated: 9
 EndChar
 
 StartChar: Rcommaaccent
@@ -6596,6 +6606,7 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 235 806 N 1 0 0 1 820 0 2
+Validated: 9
 EndChar
 
 StartChar: Rdblgrave
@@ -6645,6 +6656,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Rinvertedbreve
@@ -6704,6 +6716,7 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 214 785 N 1 0 0 1 364 384 2
+Validated: 1
 EndChar
 
 StartChar: S
@@ -9957,6 +9970,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 441 47 N -1 0 0 1 1563 0 2
+Validated: 17
 EndChar
 
 StartChar: bar
@@ -11004,6 +11018,7 @@ SplineSet
  448 633 493 479 702 432 c 256
  768 417 853 410 956 410 c 256
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: currency
@@ -13294,6 +13309,7 @@ SplineSet
  -389 0 l 257
  -197 0 l 257
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: g
@@ -15428,6 +15444,7 @@ SplineSet
  2157 0 l 257
  2349 0 l 257
 EndSplineSet
+Validated: 5
 Kerns2: 478 -64 "'kern' Horizontal Kerning lookup 0 subtable" 479 -64 "'kern' Horizontal Kerning lookup 0 subtable" 485 -64 "'kern' Horizontal Kerning lookup 0 subtable" 485 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 479 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 478 -64 "kernHorizontalKerninginLatinloo per glyph data 1"
 EndChar
 
@@ -15512,6 +15529,7 @@ EndSplineSet
 Fore
 Refer: 349 109 N 1 0 0 1 0 0 2
 Refer: 251 775 N 1 0 0 1 1013 0 2
+Validated: 5
 EndChar
 
 StartChar: micro
@@ -16721,9 +16739,9 @@ EndChar
 StartChar: one
 Encoding: 384 49 384
 GlifName: one
-Width: 938
+Width: 992
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -16745,14 +16763,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1194 0 m 257
- 1194 1536 l 257
- 938 1536 l 257
- 401 1037 l 257
- 502 915 l 257
- 1002 1376 l 257
- 1002 0 l 257
- 1194 0 l 257
+864 0 m 257
+ 864 1536 l 257
+ 608 1536 l 257
+ 71 1037 l 257
+ 172 915 l 257
+ 672 1376 l 257
+ 672 0 l 257
+ 864 0 l 257
 EndSplineSet
 Substitution2: "'dnom' Denominators in Latin lookup 12 subtable" one.dnom
 Substitution2: "'numr' Numerators in Latin lookup 11 subtable" one.numr
@@ -16854,6 +16872,7 @@ Fore
 Refer: 386 -1 N 1 0 0 1 0 0 2
 Refer: 288 8260 N 1 0 0 1 938 0 2
 Refer: 460 -1 N 1 0 0 1 1694 0 2
+Validated: 9
 LCarets2: 2 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash two
 EndChar
@@ -16901,6 +16920,7 @@ Fore
 Refer: 386 -1 N 1 0 0 1 0 0 2
 Refer: 288 8260 N 1 0 0 1 938 0 2
 Refer: 285 -1 N 1 0 0 1 1494 0 2
+Validated: 9
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash four
 EndChar
 
@@ -18098,6 +18118,7 @@ SplineSet
  1113 1014 1120 927 1120 694 c 257
  1280 694 l 257
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: racute
@@ -18128,6 +18149,7 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 296 0 2
+Validated: 5
 EndChar
 
 StartChar: radical
@@ -18193,6 +18215,7 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 220 780 N 1 0 0 1 168 0 2
+Validated: 5
 EndChar
 
 StartChar: rcommaaccent
@@ -18223,6 +18246,7 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 235 806 N 1 0 0 1 20 0 2
+Validated: 5
 EndChar
 
 StartChar: rdblgrave
@@ -18247,6 +18271,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: registered
@@ -18448,6 +18473,7 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 214 785 N 1 0 0 1 72 0 2
+Validated: 5
 EndChar
 
 StartChar: s
@@ -19074,6 +19100,7 @@ SplineSet
  -213 -261 l 257
  -21 -261 l 257
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: space
@@ -19228,6 +19255,7 @@ SplineSet
  178 416 l 2
  178 88 309 0 661 0 c 0
 EndSplineSet
+Validated: 9
 Kerns2: 177 -64 "'kern' Horizontal Kerning lookup 0 subtable" 217 -64 "'kern' Horizontal Kerning lookup 0 subtable" 239 -64 "'kern' Horizontal Kerning lookup 0 subtable" 254 -64 "'kern' Horizontal Kerning lookup 0 subtable" 289 -64 "'kern' Horizontal Kerning lookup 0 subtable" 369 -64 "'kern' Horizontal Kerning lookup 0 subtable" 409 -64 "'kern' Horizontal Kerning lookup 0 subtable" 409 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 369 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 289 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 254 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 239 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 217 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 177 -64 "kernHorizontalKerninginLatinloo per glyph data 1"
 EndChar
 
@@ -19370,6 +19398,7 @@ EndSplineSet
 Fore
 Refer: 445 116 N 1 0 0 1 0 0 2
 Refer: 251 775 N 1 0 0 1 400 275 2
+Validated: 9
 EndChar
 
 StartChar: thorn
@@ -19656,6 +19685,7 @@ Fore
 Refer: 453 -1 N 1 0 0 1 0 0 2
 Refer: 288 8260 N 1 0 0 1 1403 0 2
 Refer: 285 -1 N 1 0 0 1 2048 0 2
+Validated: 9
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" three slash four
 EndChar
 
@@ -19884,6 +19914,7 @@ SplineSet
  164.887171177 747.270834922 166 570 166 250 c 258
  166 0 l 257
 EndSplineSet
+Validated: 524329
 Substitution2: "'dnom' Denominators in Latin lookup 12 subtable" two.dnom
 Substitution2: "'numr' Numerators in Latin lookup 11 subtable" two.numr
 Substitution2: "'sups' Superscript in Latin lookup 10 subtable" twosuperior

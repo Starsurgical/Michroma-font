@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779734158
+ModificationTime: 1779736518
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -12848,7 +12848,7 @@ Encoding: 276 33 276
 GlifName: exclam
 Width: 568
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -13283,11 +13283,10 @@ Encoding: 287 8308 287
 GlifName: foursuperior
 Width: 1424
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Fore
-Refer: 285 -1 N 1 0 0 1 0 447 2
-Validated: 9
+Refer: 285 -1 S 0.519385 0 0 0.691347 364 793 2
 EndChar
 
 StartChar: fraction
@@ -16759,14 +16758,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-864 0 m 257
- 864 1536 l 257
- 608 1536 l 257
- 71 1037 l 257
- 172 915 l 257
- 672 1376 l 257
- 672 0 l 257
- 864 0 l 257
+864 0 m 261
+ 864 1536 l 261
+ 608 1536 l 261
+ 71 1037 l 261
+ 172 915 l 261
+ 672 1376 l 261
+ 672 0 l 261
+ 864 0 l 261
 EndSplineSet
 Substitution2: "'dnom' Denominators in Latin lookup 12 subtable" one.dnom
 Substitution2: "'numr' Numerators in Latin lookup 11 subtable" one.numr
@@ -16778,20 +16777,19 @@ Encoding: 385 -1 385
 GlifName: one.dnom
 Width: 938
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
 768 0 m 261
  768 1088 l 261
  512 1088 l 261
- 64 672 l 261
- 160 544 l 261
+ 192 793 l 261
+ 288 665 l 261
  576 928 l 261
  576 0 l 261
  768 0 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: one.numr
@@ -16799,7 +16797,7 @@ Encoding: 386 -1 386
 GlifName: one.numr
 Width: 938
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -16814,7 +16812,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 385 -1 S 1 0 0 1 0 447 2
-Validated: 9
 EndChar
 
 StartChar: onehalf
@@ -16868,7 +16865,6 @@ Fore
 Refer: 386 -1 N 1 0 0 1 0 0 2
 Refer: 288 8260 N 1 0 0 1 938 0 2
 Refer: 460 -1 N 1 0 0 1 1694 0 2
-Validated: 9
 LCarets2: 2 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash two
 EndChar
@@ -16916,7 +16912,7 @@ Fore
 Refer: 386 -1 N 1 0 0 1 0 0 2
 Refer: 288 8260 N 1 0 0 1 938 0 2
 Refer: 285 -1 N 1 0 0 1 1494 0 2
-Validated: 9
+LCarets2: 2 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash four
 EndChar
 
@@ -16925,7 +16921,7 @@ Encoding: 389 185 389
 GlifName: onesuperior
 Width: 938
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -16939,8 +16935,7 @@ SplineSet
  512 1536 l 257
 EndSplineSet
 Fore
-Refer: 385 -1 N 1 0 0 1 0 448 2
-Validated: 9
+Refer: 385 -1 S 0.721737 0 0 0.713566 142.916 793.373 2
 EndChar
 
 StartChar: oogonek
@@ -17030,7 +17025,7 @@ Encoding: 392 186 392
 GlifName: ordmasculine
 Width: 1664
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -17056,27 +17051,31 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-832 416 m 256
- 960 416 1069 425 1158 443 c 256
- 1428 497 1536 666 1536 992 c 256
- 1536 1104 1523 1197 1498 1271 c 256
- 1414 1517 1170 1568 832 1568 c 256
- 704 1568 595 1559 506 1541 c 256
- 236 1487 128 1318 128 992 c 256
- 128 880 141 787 166 713 c 256
- 250 467 494 416 832 416 c 256
-788 576 m 256
- 663 576 567 586 500 606 c 256
- 462 617 431 633 408 652 c 256
- 320 725 320 851 320 1020 c 256
- 320 1097 329 1164 346 1219 c 256
- 403 1402 586 1408 832 1408 c 256
- 928 1408 1009 1404 1074 1397 c 256
- 1292 1373 1344 1241 1344 992 c 256
- 1344 744 1291 611 1074 587 c 256
- 1009 580 913 576 788 576 c 256
+568 793 m 17
+ 568 825 568 841 568 873 c 9
+ 1096 873 l 17
+ 1096 843 1096 823 1096 793 c 9
+ 568 793 l 17
+832 992 m 256
+ 880 992 921 997 954 1006 c 256
+ 1055 1033 1096 1117 1096 1280 c 256
+ 1096 1336 1091 1383 1082 1420 c 256
+ 1050 1543 959 1568 832 1568 c 256
+ 784 1568 743 1563 710 1554 c 256
+ 609 1527 568 1443 568 1280 c 256
+ 568 1224 573 1177 582 1140 c 256
+ 614 1017 705 992 832 992 c 256
+816 1072 m 256
+ 769 1072 733 1077 708 1087 c 256
+ 694 1093 682 1100 673 1110 c 256
+ 640 1146 640 1210 640 1294 c 256
+ 640 1332 644 1366 650 1394 c 256
+ 671 1486 740 1488 832 1488 c 256
+ 868 1488 899 1486 923 1482 c 256
+ 1005 1470 1024 1404 1024 1280 c 256
+ 1024 1156 1004 1090 923 1078 c 256
+ 899 1074 863 1072 816 1072 c 256
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: oslash
@@ -19690,7 +19689,7 @@ Encoding: 455 179 455
 GlifName: threesuperior
 Width: 1403
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -19723,8 +19722,7 @@ SplineSet
  191 473 312 447 497 447 c 256
 EndSplineSet
 Fore
-Refer: 452 -1 N 1 0 0 1 0 447 2
-Validated: 9
+Refer: 452 -1 S 0.515106 0 0 0.691623 314 793 2
 EndChar
 
 StartChar: tilde
@@ -19994,7 +19992,7 @@ Encoding: 462 178 462
 GlifName: twosuperior
 Width: 1344
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20024,8 +20022,7 @@ SplineSet
  128 672 l 258
 EndSplineSet
 Fore
-Refer: 460 -1 N 1 0 0 1 0 449 2
-Validated: 9
+Refer: 460 -1 S 0.51863 0 0 0.691565 324 793 2
 EndChar
 
 StartChar: u

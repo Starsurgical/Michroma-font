@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779680640
+ModificationTime: 1779686150
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -15420,7 +15420,7 @@ Encoding: 349 109 349
 GlifName: m
 Width: 2474
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "bottom" 1237 0 basechar 0
 AnchorPoint: "top" 1237 1152 basechar 0
 LayerCount: 3
@@ -15449,7 +15449,6 @@ SplineSet
  2157 0 l 257
  2349 0 l 257
 EndSplineSet
-Validated: 5
 Kerns2: 478 -64 "'kern' Horizontal Kerning lookup 0 subtable" 479 -64 "'kern' Horizontal Kerning lookup 0 subtable" 485 -64 "'kern' Horizontal Kerning lookup 0 subtable" 485 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 479 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 478 -64 "kernHorizontalKerninginLatinloo per glyph data 1"
 EndChar
 
@@ -15498,7 +15497,7 @@ Encoding: 352 7745 352
 GlifName: mdotaccent
 Width: 2474
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15534,7 +15533,6 @@ EndSplineSet
 Fore
 Refer: 349 109 N 1 0 0 1 0 0 2
 Refer: 251 775 N 1 0 0 1 1013 0 2
-Validated: 5
 EndChar
 
 StartChar: micro
@@ -18109,34 +18107,35 @@ EndChar
 StartChar: r
 Encoding: 420 114 420
 GlifName: r
-Width: 986
+Width: 1601
 VWidth: 0
-Flags: W
+Flags: HWO
 AnchorPoint: "bottom" 244 0 basechar 0
 AnchorPoint: "top" 507 1152 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-340 0 m 257
- 340 704 l 258
- 340 946 342 1008 869 1008 c 257
- 869 1169 l 257
- 441 1168 418 1122 316 954 c 257
- 340 923 l 257
- 340 1152 l 257
- 148 1152 l 257
- 148 0 l 257
- 340 0 l 257
+1280 694 m 257
+ 1280 982 1234 1174 782 1174 c 256
+ 403 1174 389 1103 300 964 c 257
+ 324 913 l 257
+ 324 1152 l 257
+ 132 1152 l 257
+ 132 0 l 257
+ 324 0 l 257
+ 324 694 l 258
+ 324 920 364 1014 764 1014 c 256
+ 1113 1014 1120 927 1120 694 c 257
+ 1280 694 l 257
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: racute
 Encoding: 421 341 421
 GlifName: racute
-Width: 986
+Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -18159,7 +18158,6 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 91 0 2
-Validated: 5
 EndChar
 
 StartChar: radical
@@ -18197,9 +18195,9 @@ EndChar
 StartChar: rcaron
 Encoding: 423 345 423
 GlifName: rcaron
-Width: 986
+Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -18225,15 +18223,14 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 220 780 N 1 0 0 1 -37 0 2
-Validated: 5
 EndChar
 
 StartChar: rcommaaccent
 Encoding: 424 343 424
 GlifName: rcommaaccent
-Width: 986
+Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -18256,15 +18253,14 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 235 806 N 1 0 0 1 20 0 2
-Validated: 5
 EndChar
 
 StartChar: rdblgrave
 Encoding: 425 529 425
 GlifName: rdblgrave
-Width: 986
+Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -18281,7 +18277,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: registered
@@ -18454,9 +18449,9 @@ EndChar
 StartChar: rinvertedbreve
 Encoding: 429 531 429
 GlifName: rinvertedbreve
-Width: 986
+Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -18483,7 +18478,6 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 214 785 N 1 0 0 1 -133 0 2
-Validated: 5
 EndChar
 
 StartChar: s
@@ -19338,7 +19332,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 445 116 N 1 0 0 1 0 0 2
-Refer: 221 -1 N 1 0 0 1 424 129 2
+Refer: 221 -1 S 1 0 0 1 424 129 2
 Validated: 9
 EndChar
 
@@ -19381,7 +19375,7 @@ Encoding: 449 7787 449
 GlifName: tdotaccent
 Width: 1297
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -19406,8 +19400,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 445 116 N 1 0 0 1 0 0 2
-Refer: 251 775 N 1 0 0 1 435 275 2
-Validated: 9
+Refer: 251 775 N 1 0 0 1 400 275 2
 EndChar
 
 StartChar: thorn

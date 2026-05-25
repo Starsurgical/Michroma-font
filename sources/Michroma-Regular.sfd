@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779733212
+ModificationTime: 1779734158
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -11397,7 +11397,7 @@ Encoding: 245 176 245
 GlifName: degree
 Width: 1280
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -12848,22 +12848,21 @@ Encoding: 276 33 276
 GlifName: exclam
 Width: 568
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-332 448 m 257
- 380 1536 l 257
- 188 1536 l 257
- 236 448 l 257
- 332 448 l 257
-380 0 m 257
- 380 192 l 257
- 188 192 l 257
- 188 0 l 257
- 380 0 l 257
+380 448 m 257
+ 380 1568 l 257
+ 188 1568 l 257
+ 188 448 l 257
+ 380 448 l 257
+380 -32 m 257
+ 380 250 l 257
+ 188 250 l 257
+ 188 -32 l 257
+ 380 -32 l 257
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: exclamdown
@@ -12871,7 +12870,7 @@ Encoding: 277 161 277
 GlifName: exclamdown
 Width: 568
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -12888,7 +12887,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 276 33 N 1 0 0 -1 0 1249 2
-Validated: 17
 EndChar
 
 StartChar: f

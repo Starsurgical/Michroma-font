@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779739877
+ModificationTime: 1779744694
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -10622,7 +10622,7 @@ Encoding: 228 162 228
 GlifName: cent
 Width: 1601
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15472,11 +15472,10 @@ Encoding: 353 181 353
 GlifName: micro
 Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Fore
-Refer: 355 956 N 1 0 0 1 0 0 2
-Validated: 9
+Refer: 355 956 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: minus
@@ -15510,30 +15509,27 @@ Encoding: 355 956 355
 GlifName: mu
 Width: 1601
 VWidth: 0
-Flags: W
+Flags: HWO
+AnchorPoint: "top" 801 22 basechar 0
+AnchorPoint: "bottom" 861 1174 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-321 -384 m 257
- 321 33 l 257
- 409 -10 532 -32 690 -32 c 256
- 848 -32 977 -13 1076 24 c 256
- 1171 60 1241 111 1281 191 c 257
- 1281 0 l 257
- 1473 0 l 257
- 1473 1088 l 257
- 1281 1088 l 257
- 1281 448 l 258
- 1281 400 1274 356 1260 317 c 256
- 1214 191 1050 128 769 128 c 256
- 584 128 461 156 401 213 c 256
- 333 277 321 377 321 512 c 258
- 321 1088 l 257
- 129 1088 l 257
- 129 -384 l 257
- 321 -384 l 257
+384 1174 m 257
+ 384 521 l 258
+ 384 250 606 180 786 180 c 256
+ 966 180 1104 250 1104 521 c 258
+ 1104 1174 l 257
+ 1297 1174 l 257
+ 1297 521 l 258
+ 1297 107 1042 0 786 0 c 256
+ 530 0 376 121 356 185 c 257
+ 384 250 l 257
+ 384 -386 l 257
+ 192 -386 l 257
+ 192 1174 l 257
+ 384 1174 l 257
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: multiply
@@ -15589,20 +15585,20 @@ AnchorPoint: "top" 801 1152 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-324 0 m 257
- 324 694 l 258
- 324 920 446 1014 846 1014 c 256
- 1195 1014 1284 968 1284 653 c 258
- 1284 0 l 257
- 1477 0 l 257
- 1477 653 l 258
- 1477 1067 1332 1174 880 1174 c 256
- 501 1174 389 1103 300 964 c 257
- 324 913 l 257
- 324 1152 l 257
- 132 1152 l 257
- 132 0 l 257
- 324 0 l 257
+324 0 m 261
+ 324 694 l 262
+ 324 920 446 1014 846 1014 c 260
+ 1195 1014 1284 968 1284 653 c 262
+ 1284 0 l 261
+ 1477 0 l 261
+ 1477 653 l 262
+ 1477 1067 1332 1174 880 1174 c 260
+ 501 1174 389 1103 300 964 c 261
+ 324 913 l 261
+ 324 1152 l 261
+ 132 1152 l 261
+ 132 0 l 261
+ 324 0 l 261
 EndSplineSet
 Validated: 5
 EndChar

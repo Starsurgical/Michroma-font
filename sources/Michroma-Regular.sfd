@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779688583
+ModificationTime: 1779691684
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -3432,7 +3432,7 @@ Encoding: 55 71 55
 GlifName: G_
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "bottom" 1089 0 basechar 0
 AnchorPoint: "top" 1089 1536 basechar 0
 LayerCount: 3
@@ -3476,7 +3476,6 @@ SplineSet
  1725 1402 1805 1395 1805 1077 c 257
  1997 1077 l 257
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: Gacute
@@ -3484,7 +3483,7 @@ Encoding: 56 500 56
 GlifName: G_acute
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3534,7 +3533,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 673 384 2
-Validated: 5
 EndChar
 
 StartChar: Gbreve
@@ -3542,7 +3540,7 @@ Encoding: 57 286 57
 GlifName: G_breve
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3596,7 +3594,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 213 774 N 1 0 0 1 449 384 2
-Validated: 5
 EndChar
 
 StartChar: Gcaron
@@ -3604,7 +3601,7 @@ Encoding: 58 486 58
 GlifName: G_caron
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3657,7 +3654,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 220 780 N 1 0 0 1 545 384 2
-Validated: 5
 EndChar
 
 StartChar: Gcircumflex
@@ -3665,7 +3661,7 @@ Encoding: 59 284 59
 GlifName: G_circumflex
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3718,7 +3714,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 230 770 N 1 0 0 1 545 384 2
-Validated: 5
 EndChar
 
 StartChar: Gcommaaccent
@@ -3726,7 +3721,7 @@ Encoding: 60 290 60
 GlifName: G_commaaccent
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3776,7 +3771,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 235 806 N 1 0 0 1 865 0 2
-Validated: 5
 EndChar
 
 StartChar: Gdotaccent
@@ -3784,7 +3778,7 @@ Encoding: 61 288 61
 GlifName: G_dotaccent
 Width: 2177
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3834,7 +3828,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 251 775 N 1 0 0 1 865 384 2
-Validated: 5
 EndChar
 
 StartChar: Germandbls
@@ -6356,7 +6349,7 @@ Encoding: 125 82 125
 GlifName: R_
 Width: 2087
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "bottom" 1044 0 basechar 0
 AnchorPoint: "top" 1004 1536 basechar 0
 LayerCount: 3
@@ -16737,9 +16730,9 @@ EndChar
 StartChar: one
 Encoding: 384 49 384
 GlifName: one
-Width: 1948
+Width: 938
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -16761,23 +16754,15 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1730 0 m 257
- 1730 160 l 257
- 1108 160 l 257
- 1194 74 l 257
+1194 0 m 257
  1194 1536 l 257
- 988 1536 l 257
- 368 1331 l 257
- 429 1183 l 257
- 1073 1398 l 257
- 1002 1435 l 257
- 1002 74 l 257
- 1088 160 l 257
- 388 160 l 257
- 388 0 l 257
- 1730 0 l 257
+ 938 1536 l 257
+ 401 1037 l 257
+ 502 915 l 257
+ 1002 1376 l 257
+ 1002 0 l 257
+ 1194 0 l 257
 EndSplineSet
-Validated: 5
 Substitution2: "'dnom' Denominators in Latin lookup 12 subtable" one.dnom
 Substitution2: "'numr' Numerators in Latin lookup 11 subtable" one.numr
 Substitution2: "'sups' Superscript in Latin lookup 10 subtable" onesuperior
@@ -16792,14 +16777,14 @@ Flags: W
 LayerCount: 3
 Fore
 SplineSet
-768 0 m 257
- 768 1088 l 257
- 512 1088 l 257
- 64 672 l 257
- 160 544 l 257
- 576 928 l 257
- 576 0 l 257
- 768 0 l 257
+768 0 m 261
+ 768 1088 l 261
+ 512 1088 l 261
+ 64 672 l 261
+ 160 544 l 261
+ 576 928 l 261
+ 576 0 l 261
+ 768 0 l 261
 EndSplineSet
 Validated: 9
 EndChar
@@ -16823,7 +16808,7 @@ SplineSet
  512 1536 l 257
 EndSplineSet
 Fore
-Refer: 385 -1 N 1 0 0 1 0 447 2
+Refer: 385 -1 S 1 0 0 1 0 447 2
 Validated: 9
 EndChar
 
@@ -16879,6 +16864,7 @@ Refer: 386 -1 N 1 0 0 1 0 0 2
 Refer: 288 8260 N 1 0 0 1 938 0 2
 Refer: 460 -1 N 1 0 0 1 1694 0 2
 Validated: 9
+LCarets2: 2 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash two
 EndChar
 

@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779691684
+ModificationTime: 1779692654
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -16732,7 +16732,7 @@ Encoding: 384 49 384
 GlifName: one
 Width: 938
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -19835,7 +19835,7 @@ Encoding: 459 50 459
 GlifName: two
 Width: 1948
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -19881,10 +19881,10 @@ SplineSet
  1768 0 l 257
  1768 160 l 257
  358 160 l 257
- 358 371 l 258
- 358 637 397 686 874 686 c 258
- 1314 686 l 258
- 1719 686 1829 795 1829 1132 c 256
+ 358 250 l 258
+ 358 490 360 605 708 631 c 260
+ 999.0188996 652.742791349 1314 686 1314 686 c 258
+ 1715.86767269 722.473138611 1829 795 1829 1132 c 256
  1829 1481 1706 1568 1127 1568 c 258
  889 1568 l 258
  289 1568 166 1481 166 1132 c 257
@@ -19892,12 +19892,11 @@ SplineSet
  358 1388 422 1402 899 1402 c 258
  1117 1402 l 258
  1573 1402 1637 1388 1637 1132 c 256
- 1637 886 1623 847 1207 847 c 258
- 849 847 l 258
- 262 845 166 727 166 371 c 258
+ 1637 886 1618.55337637 890.197396375 1207 847 c 258
+ 1207 847 961 816 683 792 c 256
+ 164.887171177 747.270834922 166 570 166 250 c 258
  166 0 l 257
 EndSplineSet
-Validated: 9
 Substitution2: "'dnom' Denominators in Latin lookup 12 subtable" two.dnom
 Substitution2: "'numr' Numerators in Latin lookup 11 subtable" two.numr
 Substitution2: "'sups' Superscript in Latin lookup 10 subtable" twosuperior

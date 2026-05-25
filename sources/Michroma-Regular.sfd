@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779736518
+ModificationTime: 1779737129
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1371,7 +1371,7 @@ Encoding: 3 508 3
 GlifName: A_E_acute
 Width: 3072
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -1405,7 +1405,6 @@ EndSplineSet
 Fore
 Refer: 2 198 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 1830 384 2
-Validated: 9
 EndChar
 
 StartChar: AEmacron
@@ -1455,7 +1454,7 @@ Encoding: 5 193 5
 GlifName: A_acute
 Width: 2176
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -1481,7 +1480,6 @@ EndSplineSet
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 672 384 2
-Validated: 9
 EndChar
 
 StartChar: Abreve
@@ -1702,7 +1700,7 @@ Encoding: 12 192 12
 GlifName: A_grave
 Width: 2176
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -1728,7 +1726,6 @@ EndSplineSet
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 670 444 2
-Validated: 9
 EndChar
 
 StartChar: Ainvertedbreve
@@ -1887,7 +1884,7 @@ Encoding: 17 506 17
 GlifName: A_ringacute
 Width: 2176
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -1926,7 +1923,6 @@ Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 428 778 N 1 0 0 1 448 384 2
 Refer: 184 769 N 1 0 0 1 672 1122 2
-Validated: 9
 EndChar
 
 StartChar: Atilde
@@ -2085,7 +2081,7 @@ Encoding: 22 262 22
 GlifName: C_acute
 Width: 2145
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -2128,7 +2124,6 @@ EndSplineSet
 Fore
 Refer: 21 67 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 647 384 2
-Validated: 9
 EndChar
 
 StartChar: Ccaron
@@ -2822,7 +2817,7 @@ Encoding: 38 201 38
 GlifName: E_acute
 Width: 1792
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -2848,7 +2843,6 @@ EndSplineSet
 Fore
 Refer: 37 69 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 540 384 2
-Validated: 9
 EndChar
 
 StartChar: Ebreve
@@ -3109,7 +3103,7 @@ Encoding: 46 200 46
 GlifName: E_grave
 Width: 1792
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -3135,7 +3129,6 @@ EndSplineSet
 Fore
 Refer: 37 69 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 538 444 2
-Validated: 9
 EndChar
 
 StartChar: Einvertedbreve
@@ -3534,7 +3527,6 @@ EndSplineSet
 Fore
 Refer: 55 71 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 673 384 2
-Validated: 5
 EndChar
 
 StartChar: Gbreve
@@ -4065,7 +4057,7 @@ Encoding: 69 205 69
 GlifName: I_acute
 Width: 576
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -4083,7 +4075,6 @@ EndSplineSet
 Fore
 Refer: 67 73 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 -128 384 2
-Validated: 9
 EndChar
 
 StartChar: Ibreve
@@ -4256,7 +4247,7 @@ Encoding: 76 204 76
 GlifName: I_grave
 Width: 576
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -4274,7 +4265,6 @@ EndSplineSet
 Fore
 Refer: 67 73 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 -130 444 2
-Validated: 9
 EndChar
 
 StartChar: Iinvertedbreve
@@ -4654,7 +4644,7 @@ Encoding: 88 313 88
 GlifName: L_acute
 Width: 1664
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -4674,7 +4664,6 @@ EndSplineSet
 Fore
 Refer: 86 76 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 416 384 2
-Validated: 9
 EndChar
 
 StartChar: Lcaron
@@ -4983,7 +4972,7 @@ Encoding: 98 323 98
 GlifName: N_acute
 Width: 2321
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -5009,7 +4998,6 @@ EndSplineSet
 Fore
 Refer: 96 78 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 745 384 2
-Validated: 9
 EndChar
 
 StartChar: Ncaron
@@ -5088,7 +5076,7 @@ Encoding: 101 504 101
 GlifName: N_grave
 Width: 2321
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -5114,7 +5102,6 @@ EndSplineSet
 Fore
 Refer: 96 78 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 743 444 2
-Validated: 9
 EndChar
 
 StartChar: Nj
@@ -5299,7 +5286,7 @@ Encoding: 106 211 106
 GlifName: O_acute
 Width: 2145
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -5344,7 +5331,6 @@ EndSplineSet
 Fore
 Refer: 104 79 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 657 384 2
-Validated: 9
 EndChar
 
 StartChar: Obreve
@@ -5679,7 +5665,7 @@ Encoding: 113 210 113
 GlifName: O_grave
 Width: 2145
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -5724,7 +5710,6 @@ EndSplineSet
 Fore
 Refer: 104 79 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 655 444 2
-Validated: 9
 EndChar
 
 StartChar: Ohungarumlaut
@@ -6082,7 +6067,7 @@ Encoding: 120 510 120
 GlifName: O_slashacute
 Width: 2145
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6132,7 +6117,6 @@ EndSplineSet
 Fore
 Refer: 119 216 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 657 384 2
-Validated: 5
 EndChar
 
 StartChar: Otilde
@@ -6491,7 +6475,6 @@ EndSplineSet
 Fore
 Refer: 125 82 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 588 384 2
-Validated: 9
 EndChar
 
 StartChar: Rcaron
@@ -6760,7 +6743,7 @@ Encoding: 133 346 133
 GlifName: S_acute
 Width: 2142
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -6810,7 +6793,6 @@ EndSplineSet
 Fore
 Refer: 132 83 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 655 384 2
-Validated: 9
 EndChar
 
 StartChar: Scaron
@@ -7350,7 +7332,7 @@ Encoding: 146 218 146
 GlifName: U_acute
 Width: 2120
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -7389,7 +7371,6 @@ EndSplineSet
 Fore
 Refer: 145 85 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 644 384 2
-Validated: 9
 EndChar
 
 StartChar: Ubreve
@@ -7641,7 +7622,7 @@ Encoding: 152 217 152
 GlifName: U_grave
 Width: 2120
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -7680,7 +7661,6 @@ EndSplineSet
 Fore
 Refer: 145 85 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 642 444 2
-Validated: 9
 EndChar
 
 StartChar: Uhungarumlaut
@@ -8054,7 +8034,7 @@ Encoding: 161 7810 161
 GlifName: W_acute
 Width: 3328
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8084,7 +8064,6 @@ EndSplineSet
 Fore
 Refer: 160 87 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 1248 384 2
-Validated: 5
 EndChar
 
 StartChar: Wcircumflex
@@ -8176,7 +8155,7 @@ Encoding: 164 7808 164
 GlifName: W_grave
 Width: 3328
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8206,7 +8185,6 @@ EndSplineSet
 Fore
 Refer: 160 87 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 1246 444 2
-Validated: 5
 EndChar
 
 StartChar: X
@@ -8270,7 +8248,7 @@ Encoding: 167 221 167
 GlifName: Y_acute
 Width: 2176
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8293,7 +8271,6 @@ EndSplineSet
 Fore
 Refer: 166 89 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 672 384 2
-Validated: 9
 EndChar
 
 StartChar: Ycircumflex
@@ -8371,7 +8348,7 @@ Encoding: 170 7922 170
 GlifName: Y_grave
 Width: 2176
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8394,7 +8371,6 @@ EndSplineSet
 Fore
 Refer: 166 89 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 670 444 2
-Validated: 9
 EndChar
 
 StartChar: Ymacron
@@ -8498,7 +8474,7 @@ Encoding: 174 377 174
 GlifName: Z_acute
 Width: 2046
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8522,7 +8498,6 @@ EndSplineSet
 Fore
 Refer: 173 90 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 607 384 2
-Validated: 9
 EndChar
 
 StartChar: Zcaron
@@ -8672,7 +8647,7 @@ Encoding: 179 225 179
 GlifName: aacute
 Width: 1560
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8706,7 +8681,6 @@ EndSplineSet
 Fore
 Refer: 177 97 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 388 0 2
-Validated: 5
 EndChar
 
 StartChar: abreve
@@ -8850,7 +8824,7 @@ Encoding: 183 180 183
 GlifName: acute
 Width: 960
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -8862,7 +8836,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 184 769 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar
 
 StartChar: acutecomb
@@ -8870,19 +8843,18 @@ Encoding: 184 769 184
 GlifName: acutecomb
 Width: 960
 VWidth: 0
-Flags: W
-AnchorPoint: "top" 416 1152 mark 0
-AnchorPoint: "top" 480 1918 basechar 0
+Flags: HW
+AnchorPoint: "top" 219.517 1221.72 mark 0
+AnchorPoint: "top" 601.245 1888.9 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-822 1746 m 257
- 704 1918 l 257
- 128 1438 l 257
- 192 1342 l 257
- 822 1746 l 257
+839 1588 m 261
+ 804 1794 l 261
+ 79 1603 l 261
+ 97 1489 l 261
+ 839 1588 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: adblgrave
@@ -9077,7 +9049,7 @@ Encoding: 189 509 189
 GlifName: aeacute
 Width: 2752
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -9138,7 +9110,6 @@ EndSplineSet
 Fore
 Refer: 188 230 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 970 0 2
-Validated: 9
 EndChar
 
 StartChar: aemacron
@@ -9215,7 +9186,7 @@ Encoding: 191 224 191
 GlifName: agrave
 Width: 1560
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -9249,7 +9220,6 @@ EndSplineSet
 Fore
 Refer: 177 97 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 386 60 2
-Validated: 5
 EndChar
 
 StartChar: ainvertedbreve
@@ -9586,7 +9556,7 @@ Encoding: 198 507 198
 GlifName: aringacute
 Width: 1560
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -9633,7 +9603,6 @@ Fore
 Refer: 177 97 N 1 0 0 1 0 0 2
 Refer: 428 778 N 1 0 0 1 164 0 2
 Refer: 184 769 N 1 0 0 1 388 738 2
-Validated: 5
 EndChar
 
 StartChar: asciicircum
@@ -10313,7 +10282,7 @@ Encoding: 218 263 218
 GlifName: cacute
 Width: 1571
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -10346,7 +10315,6 @@ EndSplineSet
 Fore
 Refer: 217 99 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 370 0 2
-Validated: 9
 EndChar
 
 StartChar: caron
@@ -11782,7 +11750,7 @@ Encoding: 255 233 255
 GlifName: eacute
 Width: 1567
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -11822,7 +11790,6 @@ EndSplineSet
 Fore
 Refer: 254 101 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 368 0 2
-Validated: 5
 EndChar
 
 StartChar: ebreve
@@ -12181,7 +12148,7 @@ Encoding: 263 232 263
 GlifName: egrave
 Width: 1567
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -12221,7 +12188,6 @@ EndSplineSet
 Fore
 Refer: 254 101 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 366 60 2
-Validated: 5
 EndChar
 
 StartChar: eight
@@ -13346,7 +13312,7 @@ Encoding: 290 501 290
 GlifName: gacute
 Width: 1612
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -13393,7 +13359,6 @@ EndSplineSet
 Fore
 Refer: 289 103 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 390 0 2
-Validated: 9
 EndChar
 
 StartChar: gbreve
@@ -13734,7 +13699,7 @@ Encoding: 297 96 297
 GlifName: grave
 Width: 960
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -13746,7 +13711,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 298 768 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar
 
 StartChar: gravecomb
@@ -13754,19 +13718,18 @@ Encoding: 298 768 298
 GlifName: gravecomb
 Width: 960
 VWidth: 0
-Flags: W
-AnchorPoint: "top" 418 1092 mark 0
-AnchorPoint: "top" 480 1856 basechar 0
+Flags: HWO
+AnchorPoint: "top" 625.443 1108.28 mark 0
+AnchorPoint: "top" 358.755 1826.9 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-832 1376 m 257
- 256 1856 l 257
- 138 1684 l 257
- 768 1280 l 257
- 832 1376 l 257
+881 1541 m 261
+ 156 1732 l 261
+ 121 1526 l 261
+ 863 1427 l 261
+ 881 1541 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: greater
@@ -14273,7 +14236,7 @@ Encoding: 313 237 313
 GlifName: iacute
 Width: 448
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -14291,7 +14254,6 @@ EndSplineSet
 Fore
 Refer: 320 305 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 -192 0 2
-Validated: 9
 EndChar
 
 StartChar: ibreve
@@ -14478,7 +14440,7 @@ Encoding: 321 236 321
 GlifName: igrave
 Width: 448
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -14496,7 +14458,6 @@ EndSplineSet
 Fore
 Refer: 320 305 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 -194 60 2
-Validated: 9
 EndChar
 
 StartChar: iinvertedbreve
@@ -15089,7 +15050,7 @@ Encoding: 339 314 339
 GlifName: lacute
 Width: 576
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15107,7 +15068,6 @@ EndSplineSet
 Fore
 Refer: 338 108 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 28 313 2
-Validated: 9
 EndChar
 
 StartChar: lcaron
@@ -15672,7 +15632,7 @@ Encoding: 358 324 358
 GlifName: nacute
 Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15699,7 +15659,6 @@ EndSplineSet
 Fore
 Refer: 357 110 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 385 0 2
-Validated: 5
 EndChar
 
 StartChar: napostrophe
@@ -15835,7 +15794,7 @@ Encoding: 363 505 363
 GlifName: ngrave
 Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15862,7 +15821,6 @@ EndSplineSet
 Fore
 Refer: 357 110 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 383 60 2
-Validated: 5
 EndChar
 
 StartChar: nine
@@ -16166,7 +16124,7 @@ Encoding: 370 243 370
 GlifName: oacute
 Width: 1602
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -16199,7 +16157,6 @@ EndSplineSet
 Fore
 Refer: 369 111 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 385 0 2
-Validated: 9
 EndChar
 
 StartChar: obreve
@@ -16563,7 +16520,7 @@ Encoding: 380 242 380
 GlifName: ograve
 Width: 1602
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -16596,7 +16553,6 @@ EndSplineSet
 Fore
 Refer: 369 111 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 383 60 2
-Validated: 9
 EndChar
 
 StartChar: ohungarumlaut
@@ -17025,7 +16981,7 @@ Encoding: 392 186 392
 GlifName: ordmasculine
 Width: 1664
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -17130,7 +17086,7 @@ Encoding: 394 511 394
 GlifName: oslashacute
 Width: 1602
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -17168,7 +17124,6 @@ EndSplineSet
 Fore
 Refer: 393 248 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 385 0 2
-Validated: 5
 EndChar
 
 StartChar: otilde
@@ -18144,7 +18099,6 @@ EndSplineSet
 Fore
 Refer: 420 114 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 296 0 2
-Validated: 5
 EndChar
 
 StartChar: radical
@@ -18508,7 +18462,7 @@ Encoding: 431 347 431
 GlifName: sacute
 Width: 1589
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -18550,7 +18504,6 @@ EndSplineSet
 Fore
 Refer: 430 115 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 379 0 2
-Validated: 9
 EndChar
 
 StartChar: scaron
@@ -20060,7 +20013,7 @@ Encoding: 464 250 464
 GlifName: uacute
 Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20086,7 +20039,6 @@ EndSplineSet
 Fore
 Refer: 463 117 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 385 0 2
-Validated: 9
 EndChar
 
 StartChar: ubreve
@@ -20273,7 +20225,7 @@ Encoding: 470 249 470
 GlifName: ugrave
 Width: 1601
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20299,7 +20251,6 @@ EndSplineSet
 Fore
 Refer: 463 117 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 383 60 2
-Validated: 9
 EndChar
 
 StartChar: uhungarumlaut
@@ -20622,7 +20573,7 @@ Encoding: 480 7811 480
 GlifName: wacute
 Width: 2240
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20652,7 +20603,6 @@ EndSplineSet
 Fore
 Refer: 479 119 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 704 0 2
-Validated: 9
 EndChar
 
 StartChar: wcircumflex
@@ -20744,7 +20694,7 @@ Encoding: 483 7809 483
 GlifName: wgrave
 Width: 2240
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20774,7 +20724,6 @@ EndSplineSet
 Fore
 Refer: 479 119 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 702 60 2
-Validated: 9
 EndChar
 
 StartChar: x
@@ -20838,7 +20787,7 @@ Encoding: 486 253 486
 GlifName: yacute
 Width: 1568
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20862,7 +20811,6 @@ EndSplineSet
 Fore
 Refer: 485 121 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 368 0 2
-Validated: 9
 EndChar
 
 StartChar: ycircumflex
@@ -21006,7 +20954,7 @@ Encoding: 490 7923 490
 GlifName: ygrave
 Width: 1568
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -21030,7 +20978,6 @@ EndSplineSet
 Fore
 Refer: 485 121 N 1 0 0 1 0 0 2
 Refer: 298 768 N 1 0 0 1 366 60 2
-Validated: 9
 EndChar
 
 StartChar: ymacron
@@ -21136,7 +21083,7 @@ Encoding: 494 378 494
 GlifName: zacute
 Width: 1472
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -21160,7 +21107,6 @@ EndSplineSet
 Fore
 Refer: 493 122 N 1 0 0 1 0 0 2
 Refer: 184 769 N 1 0 0 1 320 0 2
-Validated: 9
 EndChar
 
 StartChar: zcaron

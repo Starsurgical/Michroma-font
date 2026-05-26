@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779746397
+ModificationTime: 1779825314
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1268,7 +1268,7 @@ NamedP: "f3"
  2048 793 l 1024
 EndSplineSet
 AnchorClass2: "caret_1"""  "topright"""  "topleft"""  "center"""  "top"""  "ogonek"""  "bottom""" 
-BeginChars: 498 498
+BeginChars: 530 500
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -2232,7 +2232,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 21 67 N 1 0 0 1 0 0 2
-Refer: 227 807 N 1 0 0 1 835 0 2
+Refer: 227 807 S 1 0 0 1 835 0 2
 Validated: 5
 EndChar
 
@@ -10478,7 +10478,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 217 99 N 1 0 0 1 0 0 2
-Refer: 227 807 N 1 0 0 1 579 0 2
+Refer: 227 807 S 1 0 0 1 579 0 2
 Validated: 5
 EndChar
 
@@ -20740,7 +20740,7 @@ Encoding: 485 121 485
 GlifName: y
 Width: 1568
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "bottom" 784 226 basechar 0
 AnchorPoint: "top" 784 1152 basechar 0
 LayerCount: 3
@@ -21229,6 +21229,28 @@ SplineSet
  1077 -32 l 257
 EndSplineSet
 Validated: 5
+EndChar
+
+StartChar: Tcedilla
+Encoding: 498 354 498
+Width: 1916
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 227 807 S 1 0 0 1 765 0 2
+Refer: 139 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tcedilla
+Encoding: 499 355 499
+Width: 1297
+VWidth: 0
+Flags: HWO
+LayerCount: 3
+Fore
+Refer: 227 807 S 1 0 0 1 489 0 2
+Refer: 445 116 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

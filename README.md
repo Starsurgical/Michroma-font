@@ -1,8 +1,5 @@
-# Michroma Font Project
-by Vernon Adams
-
-
-![Sample of Michroma.](documentation/image1.png)
+## MichromaCraft
+A fork of Michroma to create characters similar to the ones found in hit 1998 game StarCraft's largest game font. Probably has issues.
 
 ## Michroma
 

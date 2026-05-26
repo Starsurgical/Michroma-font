@@ -1234,7 +1234,7 @@ p499
 aVogonek\\u000d
 p500
 as."
-Encoding: Custom
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -1268,10 +1268,10 @@ NamedP: "f3"
  2048 793 l 1024
 EndSplineSet
 AnchorClass2: "caret_1"""  "topright"""  "topleft"""  "center"""  "top"""  "ogonek"""  "bottom""" 
-BeginChars: 502 502
+BeginChars: 1114125 502
 
 StartChar: .notdef
-Encoding: 0 -1 0
+Encoding: 1114112 -1 0
 GlifName: _notdef
 Width: 1792
 VWidth: 0
@@ -1300,7 +1300,7 @@ s."
 EndChar
 
 StartChar: A
-Encoding: 1 65 1
+Encoding: 65 65 1
 GlifName: A_
 Width: 2176
 VWidth: 0
@@ -1331,7 +1331,7 @@ Substitution2: "Single Substitution lookup 15 subtable" ordfeminine
 EndChar
 
 StartChar: AE
-Encoding: 2 198 2
+Encoding: 198 198 2
 GlifName: A_E_
 Width: 3072
 VWidth: 0
@@ -1367,7 +1367,7 @@ Validated: 9
 EndChar
 
 StartChar: AEacute
-Encoding: 3 508 3
+Encoding: 508 508 3
 GlifName: A_E_acute
 Width: 3072
 VWidth: 0
@@ -1408,7 +1408,7 @@ Refer: 184 769 N 1 0 0 1 1830 384 2
 EndChar
 
 StartChar: AEmacron
-Encoding: 4 482 4
+Encoding: 482 482 4
 GlifName: A_E_macron
 Width: 3072
 VWidth: 0
@@ -1450,7 +1450,7 @@ Validated: 9
 EndChar
 
 StartChar: Aacute
-Encoding: 5 193 5
+Encoding: 193 193 5
 GlifName: A_acute
 Width: 2176
 VWidth: 0
@@ -1483,7 +1483,7 @@ Refer: 184 769 N 1 0 0 1 672 384 2
 EndChar
 
 StartChar: Abreve
-Encoding: 6 258 6
+Encoding: 258 258 6
 GlifName: A_breve
 Width: 2176
 VWidth: 0
@@ -1521,7 +1521,7 @@ Validated: 9
 EndChar
 
 StartChar: Acaron
-Encoding: 7 461 7
+Encoding: 461 461 7
 GlifName: A_caron
 Width: 2176
 VWidth: 0
@@ -1558,7 +1558,7 @@ Validated: 9
 EndChar
 
 StartChar: Acircumflex
-Encoding: 8 194 8
+Encoding: 194 194 8
 GlifName: A_circumflex
 Width: 2176
 VWidth: 0
@@ -1595,7 +1595,7 @@ Validated: 9
 EndChar
 
 StartChar: Adblgrave
-Encoding: 9 512 9
+Encoding: 512 512 9
 GlifName: A_dblgrave
 Width: 2176
 VWidth: 0
@@ -1623,7 +1623,7 @@ Validated: 9
 EndChar
 
 StartChar: Adieresis
-Encoding: 10 196 10
+Encoding: 196 196 10
 GlifName: A_dieresis
 Width: 2176
 VWidth: 0
@@ -1662,7 +1662,7 @@ Validated: 9
 EndChar
 
 StartChar: Adotaccent
-Encoding: 11 550 11
+Encoding: 550 550 11
 GlifName: A_dotaccent
 Width: 2176
 VWidth: 0
@@ -1696,7 +1696,7 @@ Validated: 9
 EndChar
 
 StartChar: Agrave
-Encoding: 12 192 12
+Encoding: 192 192 12
 GlifName: A_grave
 Width: 2176
 VWidth: 0
@@ -1729,7 +1729,7 @@ Refer: 298 768 N 1 0 0 1 670 444 2
 EndChar
 
 StartChar: Ainvertedbreve
-Encoding: 13 514 13
+Encoding: 514 514 13
 GlifName: A_invertedbreve
 Width: 2176
 VWidth: 0
@@ -1767,7 +1767,7 @@ Validated: 9
 EndChar
 
 StartChar: Amacron
-Encoding: 14 256 14
+Encoding: 256 256 14
 GlifName: A_macron
 Width: 2176
 VWidth: 0
@@ -1801,7 +1801,7 @@ Validated: 9
 EndChar
 
 StartChar: Aogonek
-Encoding: 15 260 15
+Encoding: 260 260 15
 GlifName: A_ogonek
 Width: 2176
 VWidth: 0
@@ -1839,7 +1839,7 @@ Validated: 5
 EndChar
 
 StartChar: Aring
-Encoding: 16 197 16
+Encoding: 197 197 16
 GlifName: A_ring
 Width: 2176
 VWidth: 0
@@ -1880,7 +1880,7 @@ Validated: 9
 EndChar
 
 StartChar: Aringacute
-Encoding: 17 506 17
+Encoding: 506 506 17
 GlifName: A_ringacute
 Width: 2176
 VWidth: 0
@@ -1926,7 +1926,7 @@ Refer: 184 769 N 1 0 0 1 672 1122 2
 EndChar
 
 StartChar: Atilde
-Encoding: 18 195 18
+Encoding: 195 195 18
 GlifName: A_tilde
 Width: 2176
 VWidth: 0
@@ -1967,7 +1967,7 @@ Validated: 9
 EndChar
 
 StartChar: B
-Encoding: 19 66 19
+Encoding: 66 66 19
 GlifName: B_
 Width: 2112
 VWidth: 0
@@ -2003,7 +2003,7 @@ Validated: 9
 EndChar
 
 StartChar: Bdotaccent
-Encoding: 20 7682 20
+Encoding: 7682 7682 20
 GlifName: B_dotaccent
 Width: 2112
 VWidth: 0
@@ -2044,7 +2044,7 @@ Validated: 9
 EndChar
 
 StartChar: C
-Encoding: 21 67 21
+Encoding: 67 67 21
 GlifName: C_
 Width: 2145
 VWidth: 0
@@ -2077,7 +2077,7 @@ Kerns2: 177 -64 "'kern' Horizontal Kerning lookup 0 subtable" 217 -64 "'kern' Ho
 EndChar
 
 StartChar: Cacute
-Encoding: 22 262 22
+Encoding: 262 262 22
 GlifName: C_acute
 Width: 2145
 VWidth: 0
@@ -2127,7 +2127,7 @@ Refer: 184 769 N 1 0 0 1 647 384 2
 EndChar
 
 StartChar: Ccaron
-Encoding: 23 268 23
+Encoding: 268 268 23
 GlifName: C_caron
 Width: 2145
 VWidth: 0
@@ -2181,7 +2181,7 @@ Validated: 9
 EndChar
 
 StartChar: Ccedilla
-Encoding: 24 199 24
+Encoding: 199 199 24
 GlifName: C_cedilla
 Width: 2145
 VWidth: 0
@@ -2237,7 +2237,7 @@ Validated: 5
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 25 264 25
+Encoding: 264 264 25
 GlifName: C_circumflex
 Width: 2145
 VWidth: 0
@@ -2291,7 +2291,7 @@ Validated: 9
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 26 266 26
+Encoding: 266 266 26
 GlifName: C_dotaccent
 Width: 2145
 VWidth: 0
@@ -2342,7 +2342,7 @@ Validated: 9
 EndChar
 
 StartChar: D
-Encoding: 27 68 27
+Encoding: 68 68 27
 GlifName: D_
 Width: 2207
 VWidth: 0
@@ -2372,7 +2372,7 @@ Validated: 9
 EndChar
 
 StartChar: DZ
-Encoding: 28 497 28
+Encoding: 497 497 28
 GlifName: D_Z_
 Width: 4253
 VWidth: 0
@@ -2424,7 +2424,7 @@ Validated: 9
 EndChar
 
 StartChar: DZcaron
-Encoding: 29 452 29
+Encoding: 452 452 29
 GlifName: D_Z_caron
 Width: 4253
 VWidth: 0
@@ -2485,7 +2485,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" D Zcaron
 EndChar
 
 StartChar: Dcaron
-Encoding: 30 270 30
+Encoding: 270 270 30
 GlifName: D_caron
 Width: 2207
 VWidth: 0
@@ -2534,7 +2534,7 @@ Validated: 9
 EndChar
 
 StartChar: Dcroat
-Encoding: 31 272 31
+Encoding: 272 272 31
 GlifName: D_croat
 Width: 2112
 VWidth: 0
@@ -2578,7 +2578,7 @@ Validated: 9
 EndChar
 
 StartChar: Ddotaccent
-Encoding: 32 7690 32
+Encoding: 7690 7690 32
 GlifName: D_dotaccent
 Width: 2207
 VWidth: 0
@@ -2624,7 +2624,7 @@ Validated: 9
 EndChar
 
 StartChar: Delta
-Encoding: 33 916 33
+Encoding: 916 916 33
 GlifName: D_elta
 Width: 1664
 VWidth: 0
@@ -2658,7 +2658,7 @@ Validated: 9
 EndChar
 
 StartChar: Dtail
-Encoding: 34 393 34
+Encoding: 393 393 34
 GlifName: D_tail
 Width: 2112
 VWidth: 0
@@ -2670,7 +2670,7 @@ Validated: 9
 EndChar
 
 StartChar: Dz
-Encoding: 35 498 35
+Encoding: 498 498 35
 GlifName: D_z
 Width: 3679
 VWidth: 0
@@ -2722,7 +2722,7 @@ Validated: 9
 EndChar
 
 StartChar: Dzcaron
-Encoding: 36 453 36
+Encoding: 453 453 36
 GlifName: D_zcaron
 Width: 3679
 VWidth: 0
@@ -2783,7 +2783,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" D zcaron
 EndChar
 
 StartChar: E
-Encoding: 37 69 37
+Encoding: 69 69 37
 GlifName: E_
 Width: 1792
 VWidth: 0
@@ -2813,7 +2813,7 @@ Validated: 9
 EndChar
 
 StartChar: Eacute
-Encoding: 38 201 38
+Encoding: 201 201 38
 GlifName: E_acute
 Width: 1792
 VWidth: 0
@@ -2846,7 +2846,7 @@ Refer: 184 769 N 1 0 0 1 540 384 2
 EndChar
 
 StartChar: Ebreve
-Encoding: 39 276 39
+Encoding: 276 276 39
 GlifName: E_breve
 Width: 1792
 VWidth: 0
@@ -2884,7 +2884,7 @@ Validated: 9
 EndChar
 
 StartChar: Ecaron
-Encoding: 40 282 40
+Encoding: 282 282 40
 GlifName: E_caron
 Width: 1792
 VWidth: 0
@@ -2921,7 +2921,7 @@ Validated: 9
 EndChar
 
 StartChar: Ecedilla
-Encoding: 41 552 41
+Encoding: 552 552 41
 GlifName: E_cedilla
 Width: 1792
 VWidth: 0
@@ -2961,7 +2961,7 @@ Validated: 5
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 42 202 42
+Encoding: 202 202 42
 GlifName: E_circumflex
 Width: 1792
 VWidth: 0
@@ -2998,7 +2998,7 @@ Validated: 9
 EndChar
 
 StartChar: Edblgrave
-Encoding: 43 516 43
+Encoding: 516 516 43
 GlifName: E_dblgrave
 Width: 1792
 VWidth: 0
@@ -3026,7 +3026,7 @@ Validated: 9
 EndChar
 
 StartChar: Edieresis
-Encoding: 44 203 44
+Encoding: 203 203 44
 GlifName: E_dieresis
 Width: 1792
 VWidth: 0
@@ -3065,7 +3065,7 @@ Validated: 9
 EndChar
 
 StartChar: Edotaccent
-Encoding: 45 278 45
+Encoding: 278 278 45
 GlifName: E_dotaccent
 Width: 1792
 VWidth: 0
@@ -3099,7 +3099,7 @@ Validated: 9
 EndChar
 
 StartChar: Egrave
-Encoding: 46 200 46
+Encoding: 200 200 46
 GlifName: E_grave
 Width: 1792
 VWidth: 0
@@ -3132,7 +3132,7 @@ Refer: 298 768 N 1 0 0 1 538 444 2
 EndChar
 
 StartChar: Einvertedbreve
-Encoding: 47 518 47
+Encoding: 518 518 47
 GlifName: E_invertedbreve
 Width: 1792
 VWidth: 0
@@ -3170,7 +3170,7 @@ Validated: 9
 EndChar
 
 StartChar: Emacron
-Encoding: 48 274 48
+Encoding: 274 274 48
 GlifName: E_macron
 Width: 1792
 VWidth: 0
@@ -3204,7 +3204,7 @@ Validated: 9
 EndChar
 
 StartChar: Eng
-Encoding: 49 330 49
+Encoding: 330 330 49
 GlifName: E_ng
 Width: 1601
 VWidth: 0
@@ -3242,7 +3242,7 @@ Validated: 5
 EndChar
 
 StartChar: Eogonek
-Encoding: 50 280 50
+Encoding: 280 280 50
 GlifName: E_ogonek
 Width: 1792
 VWidth: 0
@@ -3280,7 +3280,7 @@ Validated: 5
 EndChar
 
 StartChar: Eth
-Encoding: 51 208 51
+Encoding: 208 208 51
 GlifName: E_th
 Width: 2112
 VWidth: 0
@@ -3322,7 +3322,7 @@ Validated: 9
 EndChar
 
 StartChar: Etilde
-Encoding: 52 7868 52
+Encoding: 7868 7868 52
 GlifName: E_tilde
 Width: 1792
 VWidth: 0
@@ -3363,7 +3363,7 @@ Validated: 9
 EndChar
 
 StartChar: F
-Encoding: 53 70 53
+Encoding: 70 70 53
 GlifName: F_
 Width: 1728
 VWidth: 0
@@ -3389,7 +3389,7 @@ Validated: 9
 EndChar
 
 StartChar: Fdotaccent
-Encoding: 54 7710 54
+Encoding: 7710 7710 54
 GlifName: F_dotaccent
 Width: 1728
 VWidth: 0
@@ -3421,7 +3421,7 @@ Validated: 9
 EndChar
 
 StartChar: G
-Encoding: 55 71 55
+Encoding: 71 71 55
 GlifName: G_
 Width: 2177
 VWidth: 0
@@ -3473,7 +3473,7 @@ Validated: 5
 EndChar
 
 StartChar: Gacute
-Encoding: 56 500 56
+Encoding: 500 500 56
 GlifName: G_acute
 Width: 2177
 VWidth: 0
@@ -3530,7 +3530,7 @@ Refer: 184 769 N 1 0 0 1 673 384 2
 EndChar
 
 StartChar: Gbreve
-Encoding: 57 286 57
+Encoding: 286 286 57
 GlifName: G_breve
 Width: 2177
 VWidth: 0
@@ -3592,7 +3592,7 @@ Validated: 5
 EndChar
 
 StartChar: Gcaron
-Encoding: 58 486 58
+Encoding: 486 486 58
 GlifName: G_caron
 Width: 2177
 VWidth: 0
@@ -3653,7 +3653,7 @@ Validated: 5
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 59 284 59
+Encoding: 284 284 59
 GlifName: G_circumflex
 Width: 2177
 VWidth: 0
@@ -3714,7 +3714,7 @@ Validated: 5
 EndChar
 
 StartChar: Gcommaaccent
-Encoding: 60 290 60
+Encoding: 290 290 60
 GlifName: G_commaaccent
 Width: 2177
 VWidth: 0
@@ -3772,7 +3772,7 @@ Validated: 5
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 61 288 61
+Encoding: 288 288 61
 GlifName: G_dotaccent
 Width: 2177
 VWidth: 0
@@ -3830,7 +3830,7 @@ Validated: 5
 EndChar
 
 StartChar: Germandbls
-Encoding: 62 7838 62
+Encoding: 7838 7838 62
 GlifName: G_ermandbls
 Width: 1792
 VWidth: 0
@@ -3848,7 +3848,7 @@ s."
 EndChar
 
 StartChar: H
-Encoding: 63 72 63
+Encoding: 72 72 63
 GlifName: H_
 Width: 2184
 VWidth: 0
@@ -3878,7 +3878,7 @@ Validated: 9
 EndChar
 
 StartChar: Hbar
-Encoding: 64 294 64
+Encoding: 294 294 64
 GlifName: H_bar
 Width: 2176
 VWidth: 0
@@ -3920,7 +3920,7 @@ Validated: 9
 EndChar
 
 StartChar: Hcaron
-Encoding: 65 542 65
+Encoding: 542 542 65
 GlifName: H_caron
 Width: 2184
 VWidth: 0
@@ -3957,7 +3957,7 @@ Validated: 9
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 66 292 66
+Encoding: 292 292 66
 GlifName: H_circumflex
 Width: 2184
 VWidth: 0
@@ -3994,7 +3994,7 @@ Validated: 9
 EndChar
 
 StartChar: I
-Encoding: 67 73 67
+Encoding: 73 73 67
 GlifName: I_
 Width: 576
 VWidth: 0
@@ -4016,7 +4016,7 @@ Validated: 9
 EndChar
 
 StartChar: IJ
-Encoding: 68 306 68
+Encoding: 306 306 68
 GlifName: I_J_
 Width: 2291
 VWidth: 0
@@ -4053,7 +4053,7 @@ Validated: 9
 EndChar
 
 StartChar: Iacute
-Encoding: 69 205 69
+Encoding: 205 205 69
 GlifName: I_acute
 Width: 576
 VWidth: 0
@@ -4078,7 +4078,7 @@ Refer: 184 769 N 1 0 0 1 -128 384 2
 EndChar
 
 StartChar: Ibreve
-Encoding: 70 300 70
+Encoding: 300 300 70
 GlifName: I_breve
 Width: 576
 VWidth: 0
@@ -4108,7 +4108,7 @@ Validated: 9
 EndChar
 
 StartChar: Icaron
-Encoding: 71 463 71
+Encoding: 463 463 71
 GlifName: I_caron
 Width: 576
 VWidth: 0
@@ -4137,7 +4137,7 @@ Validated: 9
 EndChar
 
 StartChar: Icircumflex
-Encoding: 72 206 72
+Encoding: 206 206 72
 GlifName: I_circumflex
 Width: 576
 VWidth: 0
@@ -4166,7 +4166,7 @@ Validated: 9
 EndChar
 
 StartChar: Idblgrave
-Encoding: 73 520 73
+Encoding: 520 520 73
 GlifName: I_dblgrave
 Width: 576
 VWidth: 0
@@ -4186,7 +4186,7 @@ Validated: 9
 EndChar
 
 StartChar: Idieresis
-Encoding: 74 207 74
+Encoding: 207 207 74
 GlifName: I_dieresis
 Width: 576
 VWidth: 0
@@ -4217,7 +4217,7 @@ Validated: 9
 EndChar
 
 StartChar: Idotaccent
-Encoding: 75 304 75
+Encoding: 304 304 75
 GlifName: I_dotaccent
 Width: 576
 VWidth: 0
@@ -4243,7 +4243,7 @@ Validated: 9
 EndChar
 
 StartChar: Igrave
-Encoding: 76 204 76
+Encoding: 204 204 76
 GlifName: I_grave
 Width: 576
 VWidth: 0
@@ -4268,7 +4268,7 @@ Refer: 298 768 N 1 0 0 1 -130 444 2
 EndChar
 
 StartChar: Iinvertedbreve
-Encoding: 77 522 77
+Encoding: 522 522 77
 GlifName: I_invertedbreve
 Width: 576
 VWidth: 0
@@ -4298,7 +4298,7 @@ Validated: 9
 EndChar
 
 StartChar: Imacron
-Encoding: 78 298 78
+Encoding: 298 298 78
 GlifName: I_macron
 Width: 576
 VWidth: 0
@@ -4324,7 +4324,7 @@ Validated: 9
 EndChar
 
 StartChar: Iogonek
-Encoding: 79 302 79
+Encoding: 302 302 79
 GlifName: I_ogonek
 Width: 576
 VWidth: 0
@@ -4354,7 +4354,7 @@ Validated: 5
 EndChar
 
 StartChar: Itilde
-Encoding: 80 296 80
+Encoding: 296 296 80
 GlifName: I_tilde
 Width: 576
 VWidth: 0
@@ -4387,7 +4387,7 @@ Validated: 9
 EndChar
 
 StartChar: J
-Encoding: 81 74 81
+Encoding: 74 74 81
 GlifName: J_
 Width: 1715
 VWidth: 0
@@ -4418,7 +4418,7 @@ Validated: 9
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 82 308 82
+Encoding: 308 308 82
 GlifName: J_circumflex
 Width: 1715
 VWidth: 0
@@ -4458,7 +4458,7 @@ Validated: 9
 EndChar
 
 StartChar: K
-Encoding: 83 75 83
+Encoding: 75 75 83
 GlifName: K_
 Width: 2016
 VWidth: 0
@@ -4492,7 +4492,7 @@ Validated: 5
 EndChar
 
 StartChar: Kcaron
-Encoding: 84 488 84
+Encoding: 488 488 84
 GlifName: K_caron
 Width: 2016
 VWidth: 0
@@ -4535,7 +4535,7 @@ Validated: 5
 EndChar
 
 StartChar: Kcommaaccent
-Encoding: 85 310 85
+Encoding: 310 310 85
 GlifName: K_commaaccent
 Width: 2016
 VWidth: 0
@@ -4575,7 +4575,7 @@ Validated: 5
 EndChar
 
 StartChar: L
-Encoding: 86 76 86
+Encoding: 76 76 86
 GlifName: L_
 Width: 1664
 VWidth: 0
@@ -4600,7 +4600,7 @@ Kerns2: 139 -359 "'kern' Horizontal Kerning lookup 0 subtable" 166 -290 "'kern' 
 EndChar
 
 StartChar: LJ
-Encoding: 87 455 87
+Encoding: 455 455 87
 GlifName: L_J_
 Width: 3379
 VWidth: 0
@@ -4640,7 +4640,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" L J
 EndChar
 
 StartChar: Lacute
-Encoding: 88 313 88
+Encoding: 313 313 88
 GlifName: L_acute
 Width: 1664
 VWidth: 0
@@ -4667,7 +4667,7 @@ Refer: 184 769 N 1 0 0 1 416 384 2
 EndChar
 
 StartChar: Lcaron
-Encoding: 89 317 89
+Encoding: 317 317 89
 GlifName: L_caron
 Width: 1664
 VWidth: 0
@@ -4695,7 +4695,7 @@ Validated: 9
 EndChar
 
 StartChar: Lcommaaccent
-Encoding: 90 315 90
+Encoding: 315 315 90
 GlifName: L_commaaccent
 Width: 1664
 VWidth: 0
@@ -4723,7 +4723,7 @@ Validated: 9
 EndChar
 
 StartChar: Ldot
-Encoding: 91 319 91
+Encoding: 319 319 91
 GlifName: L_dot
 Width: 1664
 VWidth: 0
@@ -4752,7 +4752,7 @@ Ligature2: "Ligature Substitution lookup 9 subtable" L periodcentered
 EndChar
 
 StartChar: Lj
-Encoding: 92 456 92
+Encoding: 456 456 92
 GlifName: L_j
 Width: 2336
 VWidth: 0
@@ -4790,7 +4790,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" L j
 EndChar
 
 StartChar: Lslash
-Encoding: 93 321 93
+Encoding: 321 321 93
 GlifName: L_slash
 Width: 1664
 VWidth: 0
@@ -4830,7 +4830,7 @@ Validated: 5
 EndChar
 
 StartChar: M
-Encoding: 94 77 94
+Encoding: 77 77 94
 GlifName: M_
 Width: 2808
 VWidth: 0
@@ -4859,7 +4859,7 @@ Validated: 9
 EndChar
 
 StartChar: Mdotaccent
-Encoding: 95 7744 95
+Encoding: 7744 7744 95
 GlifName: M_dotaccent
 Width: 2808
 VWidth: 0
@@ -4894,7 +4894,7 @@ Validated: 9
 EndChar
 
 StartChar: N
-Encoding: 96 78 96
+Encoding: 78 78 96
 GlifName: N_
 Width: 2321
 VWidth: 0
@@ -4922,7 +4922,7 @@ Validated: 9
 EndChar
 
 StartChar: NJ
-Encoding: 97 458 97
+Encoding: 458 458 97
 GlifName: N_J_
 Width: 4036
 VWidth: 0
@@ -4968,7 +4968,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" N J
 EndChar
 
 StartChar: Nacute
-Encoding: 98 323 98
+Encoding: 323 323 98
 GlifName: N_acute
 Width: 2321
 VWidth: 0
@@ -5001,7 +5001,7 @@ Refer: 184 769 N 1 0 0 1 745 384 2
 EndChar
 
 StartChar: Ncaron
-Encoding: 99 327 99
+Encoding: 327 327 99
 GlifName: N_caron
 Width: 2321
 VWidth: 0
@@ -5038,7 +5038,7 @@ Validated: 9
 EndChar
 
 StartChar: Ncommaaccent
-Encoding: 100 325 100
+Encoding: 325 325 100
 GlifName: N_commaaccent
 Width: 2321
 VWidth: 0
@@ -5072,7 +5072,7 @@ Validated: 9
 EndChar
 
 StartChar: Ngrave
-Encoding: 101 504 101
+Encoding: 504 504 101
 GlifName: N_grave
 Width: 2321
 VWidth: 0
@@ -5105,7 +5105,7 @@ Refer: 298 768 N 1 0 0 1 743 444 2
 EndChar
 
 StartChar: Nj
-Encoding: 102 459 102
+Encoding: 459 459 102
 GlifName: N_j
 Width: 2993
 VWidth: 0
@@ -5149,7 +5149,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" N j
 EndChar
 
 StartChar: Ntilde
-Encoding: 103 209 103
+Encoding: 209 209 103
 GlifName: N_tilde
 Width: 2321
 VWidth: 0
@@ -5190,7 +5190,7 @@ Validated: 9
 EndChar
 
 StartChar: O
-Encoding: 104 79 104
+Encoding: 79 79 104
 GlifName: O_
 Width: 2145
 VWidth: 0
@@ -5229,7 +5229,7 @@ Substitution2: "Single Substitution lookup 16 subtable" ordmasculine
 EndChar
 
 StartChar: OE
-Encoding: 105 338 105
+Encoding: 338 338 105
 GlifName: O_E_
 Width: 3520
 VWidth: 0
@@ -5282,7 +5282,7 @@ Validated: 9
 EndChar
 
 StartChar: Oacute
-Encoding: 106 211 106
+Encoding: 211 211 106
 GlifName: O_acute
 Width: 2145
 VWidth: 0
@@ -5334,7 +5334,7 @@ Refer: 184 769 N 1 0 0 1 657 384 2
 EndChar
 
 StartChar: Obreve
-Encoding: 107 334 107
+Encoding: 334 334 107
 GlifName: O_breve
 Width: 2145
 VWidth: 0
@@ -5391,7 +5391,7 @@ Validated: 9
 EndChar
 
 StartChar: Ocaron
-Encoding: 108 465 108
+Encoding: 465 465 108
 GlifName: O_caron
 Width: 2145
 VWidth: 0
@@ -5447,7 +5447,7 @@ Validated: 9
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 109 212 109
+Encoding: 212 212 109
 GlifName: O_circumflex
 Width: 2145
 VWidth: 0
@@ -5503,7 +5503,7 @@ Validated: 9
 EndChar
 
 StartChar: Odblgrave
-Encoding: 110 524 110
+Encoding: 524 524 110
 GlifName: O_dblgrave
 Width: 2145
 VWidth: 0
@@ -5550,7 +5550,7 @@ Validated: 9
 EndChar
 
 StartChar: Odieresis
-Encoding: 111 214 111
+Encoding: 214 214 111
 GlifName: O_dieresis
 Width: 2145
 VWidth: 0
@@ -5608,7 +5608,7 @@ Validated: 9
 EndChar
 
 StartChar: Odotaccent
-Encoding: 112 558 112
+Encoding: 558 558 112
 GlifName: O_dotaccent
 Width: 2145
 VWidth: 0
@@ -5661,7 +5661,7 @@ Validated: 9
 EndChar
 
 StartChar: Ograve
-Encoding: 113 210 113
+Encoding: 210 210 113
 GlifName: O_grave
 Width: 2145
 VWidth: 0
@@ -5713,7 +5713,7 @@ Refer: 298 768 N 1 0 0 1 655 444 2
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 114 336 114
+Encoding: 336 336 114
 GlifName: O_hungarumlaut
 Width: 2145
 VWidth: 0
@@ -5771,7 +5771,7 @@ Validated: 9
 EndChar
 
 StartChar: Oinvertedbreve
-Encoding: 115 526 115
+Encoding: 526 526 115
 GlifName: O_invertedbreve
 Width: 2145
 VWidth: 0
@@ -5828,7 +5828,7 @@ Validated: 9
 EndChar
 
 StartChar: Omacron
-Encoding: 116 332 116
+Encoding: 332 332 116
 GlifName: O_macron
 Width: 2145
 VWidth: 0
@@ -5881,7 +5881,7 @@ Validated: 9
 EndChar
 
 StartChar: Omega
-Encoding: 117 937 117
+Encoding: 937 937 117
 GlifName: O_mega
 Width: 1472
 VWidth: 0
@@ -5947,7 +5947,7 @@ Validated: 9
 EndChar
 
 StartChar: Oogonek
-Encoding: 118 490 118
+Encoding: 490 490 118
 GlifName: O_ogonek
 Width: 2145
 VWidth: 0
@@ -6004,7 +6004,7 @@ Validated: 5
 EndChar
 
 StartChar: Oslash
-Encoding: 119 216 119
+Encoding: 216 216 119
 GlifName: O_slash
 Width: 2145
 VWidth: 0
@@ -6063,7 +6063,7 @@ Validated: 5
 EndChar
 
 StartChar: Oslashacute
-Encoding: 120 510 120
+Encoding: 510 510 120
 GlifName: O_slashacute
 Width: 2145
 VWidth: 0
@@ -6120,7 +6120,7 @@ Refer: 184 769 N 1 0 0 1 657 384 2
 EndChar
 
 StartChar: Otilde
-Encoding: 121 213 121
+Encoding: 213 213 121
 GlifName: O_tilde
 Width: 2145
 VWidth: 0
@@ -6180,7 +6180,7 @@ Validated: 9
 EndChar
 
 StartChar: P
-Encoding: 122 80 122
+Encoding: 80 80 122
 GlifName: P_
 Width: 1991
 VWidth: 0
@@ -6226,7 +6226,7 @@ Kerns2: 1 -158 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Pdotaccent
-Encoding: 123 7766 123
+Encoding: 7766 7766 123
 GlifName: P_dotaccent
 Width: 1991
 VWidth: 0
@@ -6277,7 +6277,7 @@ Validated: 5
 EndChar
 
 StartChar: Q
-Encoding: 124 81 124
+Encoding: 81 81 124
 GlifName: Q_
 Width: 2145
 VWidth: 0
@@ -6336,7 +6336,7 @@ Validated: 5
 EndChar
 
 StartChar: R
-Encoding: 125 82 125
+Encoding: 82 82 125
 GlifName: R_
 Width: 2087
 VWidth: 0
@@ -6373,7 +6373,7 @@ Substitution2: "'ss02' Style Set 2 in Latin lookup 19 subtable" R.ss02
 EndChar
 
 StartChar: R.ss02
-Encoding: 126 -1 126
+Encoding: 1114113 -1 126
 GlifName: R_.ss02
 Width: 2087
 VWidth: 0
@@ -6423,7 +6423,7 @@ Validated: 5
 EndChar
 
 StartChar: Racute
-Encoding: 127 340 127
+Encoding: 340 340 127
 GlifName: R_acute
 Width: 2087
 VWidth: 0
@@ -6478,7 +6478,7 @@ Refer: 184 769 N 1 0 0 1 588 384 2
 EndChar
 
 StartChar: Rcaron
-Encoding: 128 344 128
+Encoding: 344 344 128
 GlifName: R_caron
 Width: 2087
 VWidth: 0
@@ -6537,7 +6537,7 @@ Validated: 9
 EndChar
 
 StartChar: Rcommaaccent
-Encoding: 129 342 129
+Encoding: 342 342 129
 GlifName: R_commaaccent
 Width: 2087
 VWidth: 0
@@ -6593,7 +6593,7 @@ Validated: 9
 EndChar
 
 StartChar: Rdblgrave
-Encoding: 130 528 130
+Encoding: 528 528 130
 GlifName: R_dblgrave
 Width: 2087
 VWidth: 0
@@ -6643,7 +6643,7 @@ Validated: 1
 EndChar
 
 StartChar: Rinvertedbreve
-Encoding: 131 530 131
+Encoding: 530 530 131
 GlifName: R_invertedbreve
 Width: 2087
 VWidth: 0
@@ -6703,7 +6703,7 @@ Validated: 1
 EndChar
 
 StartChar: S
-Encoding: 132 83 132
+Encoding: 83 83 132
 GlifName: S_
 Width: 2142
 VWidth: 0
@@ -6739,7 +6739,7 @@ Validated: 41
 EndChar
 
 StartChar: Sacute
-Encoding: 133 346 133
+Encoding: 346 346 133
 GlifName: S_acute
 Width: 2142
 VWidth: 0
@@ -6796,7 +6796,7 @@ Refer: 184 769 N 1 0 0 1 655 384 2
 EndChar
 
 StartChar: Scaron
-Encoding: 134 352 134
+Encoding: 352 352 134
 GlifName: S_caron
 Width: 2142
 VWidth: 0
@@ -6857,7 +6857,7 @@ Validated: 9
 EndChar
 
 StartChar: Scedilla
-Encoding: 135 350 135
+Encoding: 350 350 135
 GlifName: S_cedilla
 Width: 2142
 VWidth: 0
@@ -6922,7 +6922,7 @@ Substitution2: "locl_latn_1 subtable" Scommaaccent
 EndChar
 
 StartChar: Scircumflex
-Encoding: 136 348 136
+Encoding: 348 348 136
 GlifName: S_circumflex
 Width: 2142
 VWidth: 0
@@ -6983,7 +6983,7 @@ Validated: 9
 EndChar
 
 StartChar: Scommaaccent
-Encoding: 137 536 137
+Encoding: 536 536 137
 GlifName: S_commaaccent
 Width: 2142
 VWidth: 0
@@ -7041,7 +7041,7 @@ Validated: 9
 EndChar
 
 StartChar: Sdotaccent
-Encoding: 138 7776 138
+Encoding: 7776 7776 138
 GlifName: S_dotaccent
 Width: 2142
 VWidth: 0
@@ -7099,7 +7099,7 @@ Validated: 9
 EndChar
 
 StartChar: T
-Encoding: 139 84 139
+Encoding: 84 84 139
 GlifName: T_
 Width: 1916
 VWidth: 0
@@ -7125,7 +7125,7 @@ Kerns2: 1 -326 "'kern' Horizontal Kerning lookup 0 subtable" 1 -512 "kernHorizon
 EndChar
 
 StartChar: Tbar
-Encoding: 140 358 140
+Encoding: 358 358 140
 GlifName: T_bar
 Width: 1916
 VWidth: 0
@@ -7161,7 +7161,7 @@ Validated: 5
 EndChar
 
 StartChar: Tcaron
-Encoding: 141 356 141
+Encoding: 356 356 141
 GlifName: T_caron
 Width: 1916
 VWidth: 0
@@ -7194,7 +7194,7 @@ Validated: 9
 EndChar
 
 StartChar: Tcommaaccent
-Encoding: 142 538 142
+Encoding: 538 538 142
 GlifName: T_commaaccent
 Width: 1916
 VWidth: 0
@@ -7230,7 +7230,7 @@ Validated: 9
 EndChar
 
 StartChar: Tdotaccent
-Encoding: 143 7786 143
+Encoding: 7786 7786 143
 GlifName: T_dotaccent
 Width: 1916
 VWidth: 0
@@ -7260,7 +7260,7 @@ Validated: 9
 EndChar
 
 StartChar: Thorn
-Encoding: 144 222 144
+Encoding: 222 222 144
 GlifName: T_horn
 Width: 1920
 VWidth: 0
@@ -7298,7 +7298,7 @@ Validated: 9
 EndChar
 
 StartChar: U
-Encoding: 145 85 145
+Encoding: 85 85 145
 GlifName: U_
 Width: 2120
 VWidth: 0
@@ -7328,7 +7328,7 @@ Validated: 9
 EndChar
 
 StartChar: Uacute
-Encoding: 146 218 146
+Encoding: 218 218 146
 GlifName: U_acute
 Width: 2120
 VWidth: 0
@@ -7374,7 +7374,7 @@ Refer: 184 769 N 1 0 0 1 644 384 2
 EndChar
 
 StartChar: Ubreve
-Encoding: 147 364 147
+Encoding: 364 364 147
 GlifName: U_breve
 Width: 2120
 VWidth: 0
@@ -7425,7 +7425,7 @@ Validated: 9
 EndChar
 
 StartChar: Ucaron
-Encoding: 148 467 148
+Encoding: 467 467 148
 GlifName: U_caron
 Width: 2120
 VWidth: 0
@@ -7475,7 +7475,7 @@ Validated: 9
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 149 219 149
+Encoding: 219 219 149
 GlifName: U_circumflex
 Width: 2120
 VWidth: 0
@@ -7525,7 +7525,7 @@ Validated: 9
 EndChar
 
 StartChar: Udblgrave
-Encoding: 150 532 150
+Encoding: 532 532 150
 GlifName: U_dblgrave
 Width: 2120
 VWidth: 0
@@ -7566,7 +7566,7 @@ Validated: 9
 EndChar
 
 StartChar: Udieresis
-Encoding: 151 220 151
+Encoding: 220 220 151
 GlifName: U_dieresis
 Width: 2120
 VWidth: 0
@@ -7618,7 +7618,7 @@ Validated: 9
 EndChar
 
 StartChar: Ugrave
-Encoding: 152 217 152
+Encoding: 217 217 152
 GlifName: U_grave
 Width: 2120
 VWidth: 0
@@ -7664,7 +7664,7 @@ Refer: 298 768 N 1 0 0 1 642 444 2
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 153 368 153
+Encoding: 368 368 153
 GlifName: U_hungarumlaut
 Width: 2120
 VWidth: 0
@@ -7716,7 +7716,7 @@ Validated: 9
 EndChar
 
 StartChar: Uinvertedbreve
-Encoding: 154 534 154
+Encoding: 534 534 154
 GlifName: U_invertedbreve
 Width: 2120
 VWidth: 0
@@ -7767,7 +7767,7 @@ Validated: 9
 EndChar
 
 StartChar: Umacron
-Encoding: 155 362 155
+Encoding: 362 362 155
 GlifName: U_macron
 Width: 2120
 VWidth: 0
@@ -7814,7 +7814,7 @@ Validated: 9
 EndChar
 
 StartChar: Uogonek
-Encoding: 156 370 156
+Encoding: 370 370 156
 GlifName: U_ogonek
 Width: 2120
 VWidth: 0
@@ -7865,7 +7865,7 @@ Validated: 5
 EndChar
 
 StartChar: Uring
-Encoding: 157 366 157
+Encoding: 366 366 157
 GlifName: U_ring
 Width: 2120
 VWidth: 0
@@ -7919,7 +7919,7 @@ Validated: 9
 EndChar
 
 StartChar: Utilde
-Encoding: 158 360 158
+Encoding: 360 360 158
 GlifName: U_tilde
 Width: 2120
 VWidth: 0
@@ -7973,7 +7973,7 @@ Validated: 9
 EndChar
 
 StartChar: V
-Encoding: 159 86 159
+Encoding: 86 86 159
 GlifName: V_
 Width: 2048
 VWidth: 0
@@ -7997,7 +7997,7 @@ Validated: 5
 EndChar
 
 StartChar: W
-Encoding: 160 87 160
+Encoding: 87 87 160
 GlifName: W_
 Width: 3328
 VWidth: 0
@@ -8030,7 +8030,7 @@ Kerns2: 1 -138 "'kern' Horizontal Kerning lookup 0 subtable" 177 -256 "'kern' Ho
 EndChar
 
 StartChar: Wacute
-Encoding: 161 7810 161
+Encoding: 7810 7810 161
 GlifName: W_acute
 Width: 3328
 VWidth: 0
@@ -8067,7 +8067,7 @@ Refer: 184 769 N 1 0 0 1 1248 384 2
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 162 372 162
+Encoding: 372 372 162
 GlifName: W_circumflex
 Width: 3328
 VWidth: 0
@@ -8108,7 +8108,7 @@ Validated: 5
 EndChar
 
 StartChar: Wdieresis
-Encoding: 163 7812 163
+Encoding: 7812 7812 163
 GlifName: W_dieresis
 Width: 3328
 VWidth: 0
@@ -8151,7 +8151,7 @@ Validated: 5
 EndChar
 
 StartChar: Wgrave
-Encoding: 164 7808 164
+Encoding: 7808 7808 164
 GlifName: W_grave
 Width: 3328
 VWidth: 0
@@ -8188,7 +8188,7 @@ Refer: 298 768 N 1 0 0 1 1246 444 2
 EndChar
 
 StartChar: X
-Encoding: 165 88 165
+Encoding: 88 88 165
 GlifName: X_
 Width: 2176
 VWidth: 0
@@ -8217,7 +8217,7 @@ Kerns2: 177 -128 "'kern' Horizontal Kerning lookup 0 subtable" 217 -128 "'kern' 
 EndChar
 
 StartChar: Y
-Encoding: 166 89 166
+Encoding: 89 89 166
 GlifName: Y_
 Width: 2176
 VWidth: 0
@@ -8244,7 +8244,7 @@ Kerns2: 1 -296 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Yacute
-Encoding: 167 221 167
+Encoding: 221 221 167
 GlifName: Y_acute
 Width: 2176
 VWidth: 0
@@ -8274,7 +8274,7 @@ Refer: 184 769 N 1 0 0 1 672 384 2
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 168 374 168
+Encoding: 374 374 168
 GlifName: Y_circumflex
 Width: 2176
 VWidth: 0
@@ -8308,7 +8308,7 @@ Validated: 9
 EndChar
 
 StartChar: Ydieresis
-Encoding: 169 376 169
+Encoding: 376 376 169
 GlifName: Y_dieresis
 Width: 2176
 VWidth: 0
@@ -8344,7 +8344,7 @@ Validated: 9
 EndChar
 
 StartChar: Ygrave
-Encoding: 170 7922 170
+Encoding: 7922 7922 170
 GlifName: Y_grave
 Width: 2176
 VWidth: 0
@@ -8374,7 +8374,7 @@ Refer: 298 768 N 1 0 0 1 670 444 2
 EndChar
 
 StartChar: Ymacron
-Encoding: 171 562 171
+Encoding: 562 562 171
 GlifName: Y_macron
 Width: 2176
 VWidth: 0
@@ -8405,7 +8405,7 @@ Validated: 9
 EndChar
 
 StartChar: Ytilde
-Encoding: 172 7928 172
+Encoding: 7928 7928 172
 GlifName: Y_tilde
 Width: 2176
 VWidth: 0
@@ -8443,7 +8443,7 @@ Validated: 9
 EndChar
 
 StartChar: Z
-Encoding: 173 90 173
+Encoding: 90 90 173
 GlifName: Z_
 Width: 2046
 VWidth: 0
@@ -8470,7 +8470,7 @@ Validated: 9
 EndChar
 
 StartChar: Zacute
-Encoding: 174 377 174
+Encoding: 377 377 174
 GlifName: Z_acute
 Width: 2046
 VWidth: 0
@@ -8501,7 +8501,7 @@ Refer: 184 769 N 1 0 0 1 607 384 2
 EndChar
 
 StartChar: Zcaron
-Encoding: 175 381 175
+Encoding: 381 381 175
 GlifName: Z_caron
 Width: 2046
 VWidth: 0
@@ -8536,7 +8536,7 @@ Validated: 9
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 176 379 176
+Encoding: 379 379 176
 GlifName: Z_dotaccent
 Width: 2046
 VWidth: 0
@@ -8568,7 +8568,7 @@ Validated: 9
 EndChar
 
 StartChar: a
-Encoding: 177 97 177
+Encoding: 97 97 177
 GlifName: a
 Width: 1560
 VWidth: 0
@@ -8607,7 +8607,7 @@ Substitution2: "Single Substitution lookup 15 subtable" ordfeminine
 EndChar
 
 StartChar: a.ss01
-Encoding: 178 -1 178
+Encoding: 1114114 -1 178
 GlifName: a.ss01
 Width: 1560
 VWidth: 0
@@ -8643,7 +8643,7 @@ Validated: 37
 EndChar
 
 StartChar: aacute
-Encoding: 179 225 179
+Encoding: 225 225 179
 GlifName: aacute
 Width: 1560
 VWidth: 0
@@ -8684,7 +8684,7 @@ Refer: 184 769 N 1 0 0 1 388 0 2
 EndChar
 
 StartChar: abreve
-Encoding: 180 259 180
+Encoding: 259 259 180
 GlifName: abreve
 Width: 1560
 VWidth: 0
@@ -8730,7 +8730,7 @@ Validated: 5
 EndChar
 
 StartChar: acaron
-Encoding: 181 462 181
+Encoding: 462 462 181
 GlifName: acaron
 Width: 1560
 VWidth: 0
@@ -8775,7 +8775,7 @@ Validated: 5
 EndChar
 
 StartChar: acircumflex
-Encoding: 182 226 182
+Encoding: 226 226 182
 GlifName: acircumflex
 Width: 1560
 VWidth: 0
@@ -8820,7 +8820,7 @@ Validated: 5
 EndChar
 
 StartChar: acute
-Encoding: 183 180 183
+Encoding: 180 180 183
 GlifName: acute
 Width: 960
 VWidth: 0
@@ -8839,7 +8839,7 @@ Refer: 184 769 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: acutecomb
-Encoding: 184 769 184
+Encoding: 769 769 184
 GlifName: acutecomb
 Width: 960
 VWidth: 0
@@ -8858,7 +8858,7 @@ EndSplineSet
 EndChar
 
 StartChar: adblgrave
-Encoding: 185 513 185
+Encoding: 513 513 185
 GlifName: adblgrave
 Width: 1560
 VWidth: 0
@@ -8894,7 +8894,7 @@ Validated: 5
 EndChar
 
 StartChar: adieresis
-Encoding: 186 228 186
+Encoding: 228 228 186
 GlifName: adieresis
 Width: 1560
 VWidth: 0
@@ -8941,7 +8941,7 @@ Validated: 5
 EndChar
 
 StartChar: adotaccent
-Encoding: 187 551 187
+Encoding: 551 551 187
 GlifName: adotaccent
 Width: 1560
 VWidth: 0
@@ -8983,7 +8983,7 @@ Validated: 5
 EndChar
 
 StartChar: ae
-Encoding: 188 230 188
+Encoding: 230 230 188
 GlifName: ae
 Width: 2752
 VWidth: 0
@@ -9045,7 +9045,7 @@ Validated: 9
 EndChar
 
 StartChar: aeacute
-Encoding: 189 509 189
+Encoding: 509 509 189
 GlifName: aeacute
 Width: 2752
 VWidth: 0
@@ -9113,7 +9113,7 @@ Refer: 184 769 N 1 0 0 1 970 0 2
 EndChar
 
 StartChar: aemacron
-Encoding: 190 483 190
+Encoding: 483 483 190
 GlifName: aemacron
 Width: 2752
 VWidth: 0
@@ -9182,7 +9182,7 @@ Validated: 9
 EndChar
 
 StartChar: agrave
-Encoding: 191 224 191
+Encoding: 224 224 191
 GlifName: agrave
 Width: 1560
 VWidth: 0
@@ -9223,7 +9223,7 @@ Refer: 298 768 S 1 0 0 1 386 0 2
 EndChar
 
 StartChar: ainvertedbreve
-Encoding: 192 515 192
+Encoding: 515 515 192
 GlifName: ainvertedbreve
 Width: 1560
 VWidth: 0
@@ -9269,7 +9269,7 @@ Validated: 5
 EndChar
 
 StartChar: amacron
-Encoding: 193 257 193
+Encoding: 257 257 193
 GlifName: amacron
 Width: 1560
 VWidth: 0
@@ -9311,7 +9311,7 @@ Validated: 5
 EndChar
 
 StartChar: ampersand
-Encoding: 194 38 194
+Encoding: 38 38 194
 GlifName: ampersand
 Width: 2432
 VWidth: 0
@@ -9389,7 +9389,7 @@ Validated: 37
 EndChar
 
 StartChar: aogonek
-Encoding: 195 261 195
+Encoding: 261 261 195
 GlifName: aogonek
 Width: 1560
 VWidth: 0
@@ -9435,7 +9435,7 @@ Validated: 5
 EndChar
 
 StartChar: approxequal
-Encoding: 196 8776 196
+Encoding: 8776 8776 196
 GlifName: approxequal
 Width: 1400
 VWidth: 0
@@ -9503,7 +9503,7 @@ Validated: 9
 EndChar
 
 StartChar: aring
-Encoding: 197 229 197
+Encoding: 229 229 197
 GlifName: aring
 Width: 1560
 VWidth: 0
@@ -9552,7 +9552,7 @@ Validated: 5
 EndChar
 
 StartChar: aringacute
-Encoding: 198 507 198
+Encoding: 507 507 198
 GlifName: aringacute
 Width: 1560
 VWidth: 0
@@ -9606,7 +9606,7 @@ Refer: 184 769 N 1 0 0 1 388 738 2
 EndChar
 
 StartChar: asciicircum
-Encoding: 199 94 199
+Encoding: 94 94 199
 GlifName: asciicircum
 Width: 1088
 VWidth: 0
@@ -9638,7 +9638,7 @@ Validated: 9
 EndChar
 
 StartChar: asciitilde
-Encoding: 200 126 200
+Encoding: 126 126 200
 GlifName: asciitilde
 Width: 1400
 VWidth: 0
@@ -9677,7 +9677,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 201 42 201
+Encoding: 42 42 201
 GlifName: asterisk
 Width: 1415
 VWidth: 0
@@ -9725,7 +9725,7 @@ Validated: 9
 EndChar
 
 StartChar: at
-Encoding: 202 64 202
+Encoding: 64 64 202
 GlifName: at
 Width: 2240
 VWidth: 0
@@ -9841,7 +9841,7 @@ Validated: 9
 EndChar
 
 StartChar: atilde
-Encoding: 203 227 203
+Encoding: 227 227 203
 GlifName: atilde
 Width: 1560
 VWidth: 0
@@ -9890,7 +9890,7 @@ Validated: 5
 EndChar
 
 StartChar: b
-Encoding: 204 98 204
+Encoding: 98 98 204
 GlifName: b
 Width: 1638
 VWidth: 0
@@ -9922,7 +9922,7 @@ Kerns2: 479 -64 "'kern' Horizontal Kerning lookup 0 subtable" 484 -96 "'kern' Ho
 EndChar
 
 StartChar: backslash
-Encoding: 205 92 205
+Encoding: 92 92 205
 GlifName: backslash
 Width: 2000
 VWidth: 0
@@ -9942,7 +9942,7 @@ Validated: 17
 EndChar
 
 StartChar: bar
-Encoding: 206 124 206
+Encoding: 124 124 206
 GlifName: bar
 Width: 448
 VWidth: 0
@@ -9960,7 +9960,7 @@ Validated: 9
 EndChar
 
 StartChar: bdotaccent
-Encoding: 207 7683 207
+Encoding: 7683 7683 207
 GlifName: bdotaccent
 Width: 1638
 VWidth: 0
@@ -10006,7 +10006,7 @@ Validated: 9
 EndChar
 
 StartChar: braceleft
-Encoding: 208 123 208
+Encoding: 123 123 208
 GlifName: braceleft
 Width: 960
 VWidth: 0
@@ -10035,7 +10035,7 @@ Validated: 41
 EndChar
 
 StartChar: braceright
-Encoding: 209 125 209
+Encoding: 125 125 209
 GlifName: braceright
 Width: 960
 VWidth: 0
@@ -10070,7 +10070,7 @@ Validated: 17
 EndChar
 
 StartChar: bracketleft
-Encoding: 210 91 210
+Encoding: 91 91 210
 GlifName: bracketleft
 Width: 832
 VWidth: 0
@@ -10092,7 +10092,7 @@ Validated: 9
 EndChar
 
 StartChar: bracketright
-Encoding: 211 93 211
+Encoding: 93 93 211
 GlifName: bracketright
 Width: 832
 VWidth: 0
@@ -10116,7 +10116,7 @@ Validated: 17
 EndChar
 
 StartChar: breve
-Encoding: 212 728 212
+Encoding: 728 728 212
 GlifName: breve
 Width: 1280
 VWidth: 0
@@ -10140,7 +10140,7 @@ Validated: 9
 EndChar
 
 StartChar: brevecomb
-Encoding: 213 774 213
+Encoding: 774 774 213
 GlifName: brevecomb
 Width: 1280
 VWidth: 0
@@ -10164,7 +10164,7 @@ Validated: 9
 EndChar
 
 StartChar: breveinvertedcomb
-Encoding: 214 785 214
+Encoding: 785 785 214
 GlifName: breveinvertedcomb
 Width: 1280
 VWidth: 0
@@ -10190,7 +10190,7 @@ Validated: 17
 EndChar
 
 StartChar: brokenbar
-Encoding: 215 166 215
+Encoding: 166 166 215
 GlifName: brokenbar
 Width: 448
 VWidth: 0
@@ -10226,7 +10226,7 @@ Validated: 9
 EndChar
 
 StartChar: bullet
-Encoding: 216 8226 216
+Encoding: 8226 8226 216
 GlifName: bullet
 Width: 1280
 VWidth: 0
@@ -10252,7 +10252,7 @@ Validated: 9
 EndChar
 
 StartChar: c
-Encoding: 217 99 217
+Encoding: 99 99 217
 GlifName: c
 Width: 1571
 VWidth: 0
@@ -10278,7 +10278,7 @@ Validated: 9
 EndChar
 
 StartChar: cacute
-Encoding: 218 263 218
+Encoding: 263 263 218
 GlifName: cacute
 Width: 1571
 VWidth: 0
@@ -10318,7 +10318,7 @@ Refer: 184 769 N 1 0 0 1 370 0 2
 EndChar
 
 StartChar: caron
-Encoding: 219 711 219
+Encoding: 711 711 219
 GlifName: caron
 Width: 1088
 VWidth: 0
@@ -10341,7 +10341,7 @@ Validated: 9
 EndChar
 
 StartChar: caroncomb
-Encoding: 220 780 220
+Encoding: 780 780 220
 GlifName: caroncomb
 Width: 1088
 VWidth: 0
@@ -10364,7 +10364,7 @@ Validated: 9
 EndChar
 
 StartChar: caroncomb.alt
-Encoding: 221 -1 221
+Encoding: 1114115 -1 221
 GlifName: caroncomb.alt
 Width: 600
 VWidth: 0
@@ -10389,7 +10389,7 @@ s."
 EndChar
 
 StartChar: ccaron
-Encoding: 222 269 222
+Encoding: 269 269 222
 GlifName: ccaron
 Width: 1571
 VWidth: 0
@@ -10433,7 +10433,7 @@ Validated: 9
 EndChar
 
 StartChar: ccedilla
-Encoding: 223 231 223
+Encoding: 231 231 223
 GlifName: ccedilla
 Width: 1571
 VWidth: 0
@@ -10483,7 +10483,7 @@ Validated: 5
 EndChar
 
 StartChar: ccircumflex
-Encoding: 224 265 224
+Encoding: 265 265 224
 GlifName: ccircumflex
 Width: 1571
 VWidth: 0
@@ -10527,7 +10527,7 @@ Validated: 9
 EndChar
 
 StartChar: cdotaccent
-Encoding: 225 267 225
+Encoding: 267 267 225
 GlifName: cdotaccent
 Width: 1571
 VWidth: 0
@@ -10568,7 +10568,7 @@ Validated: 9
 EndChar
 
 StartChar: cedilla
-Encoding: 226 184 226
+Encoding: 184 184 226
 GlifName: cedilla
 Width: 640
 VWidth: 0
@@ -10594,7 +10594,7 @@ Validated: 9
 EndChar
 
 StartChar: cedillacomb
-Encoding: 227 807 227
+Encoding: 807 807 227
 GlifName: cedillacomb
 Width: 640
 VWidth: 0
@@ -10618,7 +10618,7 @@ Validated: 9
 EndChar
 
 StartChar: cent
-Encoding: 228 162 228
+Encoding: 162 162 228
 GlifName: cent
 Width: 1601
 VWidth: 0
@@ -10663,7 +10663,7 @@ Refer: 217 99 N 0.9 0 0 0.9 151 270 2
 EndChar
 
 StartChar: circumflex
-Encoding: 229 710 229
+Encoding: 710 710 229
 GlifName: circumflex
 Width: 1088
 VWidth: 0
@@ -10686,7 +10686,7 @@ Validated: 9
 EndChar
 
 StartChar: circumflexcomb
-Encoding: 230 770 230
+Encoding: 770 770 230
 GlifName: circumflexcomb
 Width: 1088
 VWidth: 0
@@ -10709,7 +10709,7 @@ Validated: 9
 EndChar
 
 StartChar: clickdental
-Encoding: 231 448 231
+Encoding: 448 448 231
 GlifName: clickdental
 Width: 448
 VWidth: 0
@@ -10727,7 +10727,7 @@ s."
 EndChar
 
 StartChar: clicklateral
-Encoding: 232 449 232
+Encoding: 449 449 232
 GlifName: clicklateral
 Width: 896
 VWidth: 0
@@ -10746,7 +10746,7 @@ s."
 EndChar
 
 StartChar: colon
-Encoding: 233 58 233
+Encoding: 58 58 233
 GlifName: colon
 Width: 448
 VWidth: 0
@@ -10782,7 +10782,7 @@ Validated: 9
 EndChar
 
 StartChar: comma
-Encoding: 234 44 234
+Encoding: 44 44 234
 GlifName: comma
 Width: 448
 VWidth: 0
@@ -10808,7 +10808,7 @@ Validated: 9
 EndChar
 
 StartChar: commaaccentcomb
-Encoding: 235 806 235
+Encoding: 806 806 235
 GlifName: commaaccentcomb
 Width: 600
 VWidth: 0
@@ -10834,7 +10834,7 @@ s."
 EndChar
 
 StartChar: commaturnedabovecomb
-Encoding: 236 786 236
+Encoding: 786 786 236
 GlifName: commaturnedabovecomb
 Width: 448
 VWidth: 0
@@ -10860,7 +10860,7 @@ s."
 EndChar
 
 StartChar: copyright
-Encoding: 237 169 237
+Encoding: 169 169 237
 GlifName: copyright
 Width: 1920
 VWidth: 0
@@ -10970,7 +10970,7 @@ Validated: 9
 EndChar
 
 StartChar: currency
-Encoding: 238 164 238
+Encoding: 164 164 238
 GlifName: currency
 Width: 1280
 VWidth: 0
@@ -11038,7 +11038,7 @@ Validated: 9
 EndChar
 
 StartChar: d
-Encoding: 239 100 239
+Encoding: 100 100 239
 GlifName: d
 Width: 1638
 VWidth: 0
@@ -11070,7 +11070,7 @@ Validated: 9
 EndChar
 
 StartChar: dagger
-Encoding: 240 8224 240
+Encoding: 8224 8224 240
 GlifName: dagger
 Width: 960
 VWidth: 0
@@ -11112,7 +11112,7 @@ Validated: 9
 EndChar
 
 StartChar: daggerdbl
-Encoding: 241 8225 241
+Encoding: 8225 8225 241
 GlifName: daggerdbl
 Width: 960
 VWidth: 0
@@ -11170,7 +11170,7 @@ Validated: 9
 EndChar
 
 StartChar: dcaron
-Encoding: 242 271 242
+Encoding: 271 271 242
 GlifName: dcaron
 Width: 1638
 VWidth: 0
@@ -11216,7 +11216,7 @@ Validated: 9
 EndChar
 
 StartChar: dcroat
-Encoding: 243 273 243
+Encoding: 273 273 243
 GlifName: dcroat
 Width: 1664
 VWidth: 0
@@ -11296,7 +11296,7 @@ Validated: 9
 EndChar
 
 StartChar: ddotaccent
-Encoding: 244 7691 244
+Encoding: 7691 7691 244
 GlifName: ddotaccent
 Width: 1638
 VWidth: 0
@@ -11342,7 +11342,7 @@ Validated: 9
 EndChar
 
 StartChar: degree
-Encoding: 245 176 245
+Encoding: 176 176 245
 GlifName: degree
 Width: 1280
 VWidth: 0
@@ -11381,7 +11381,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 246 168 246
+Encoding: 168 168 246
 GlifName: dieresis
 Width: 1088
 VWidth: 0
@@ -11406,7 +11406,7 @@ Validated: 9
 EndChar
 
 StartChar: dieresiscomb
-Encoding: 247 776 247
+Encoding: 776 776 247
 GlifName: dieresiscomb
 Width: 1088
 VWidth: 0
@@ -11431,7 +11431,7 @@ Validated: 9
 EndChar
 
 StartChar: divide
-Encoding: 248 247 248
+Encoding: 247 247 248
 GlifName: divide
 Width: 1400
 VWidth: 0
@@ -11477,7 +11477,7 @@ Validated: 9
 EndChar
 
 StartChar: dollar
-Encoding: 249 36 249
+Encoding: 36 36 249
 GlifName: dollar
 Width: 2142
 VWidth: 0
@@ -11541,7 +11541,7 @@ Validated: 5
 EndChar
 
 StartChar: dotaccent
-Encoding: 250 729 250
+Encoding: 729 729 250
 GlifName: dotaccent
 Width: 448
 VWidth: 0
@@ -11561,7 +11561,7 @@ Validated: 9
 EndChar
 
 StartChar: dotaccentcomb
-Encoding: 251 775 251
+Encoding: 775 775 251
 GlifName: dotaccentcomb
 Width: 448
 VWidth: 0
@@ -11581,7 +11581,7 @@ Validated: 9
 EndChar
 
 StartChar: dz
-Encoding: 252 499 252
+Encoding: 499 499 252
 GlifName: dz
 Width: 3110
 VWidth: 0
@@ -11633,7 +11633,7 @@ Validated: 9
 EndChar
 
 StartChar: dzcaron
-Encoding: 253 454 253
+Encoding: 454 454 253
 GlifName: dzcaron
 Width: 3110
 VWidth: 0
@@ -11694,7 +11694,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" d zcaron
 EndChar
 
 StartChar: e
-Encoding: 254 101 254
+Encoding: 101 101 254
 GlifName: e
 Width: 1567
 VWidth: 0
@@ -11727,7 +11727,7 @@ Kerns2: 479 -64 "'kern' Horizontal Kerning lookup 0 subtable" 484 -96 "'kern' Ho
 EndChar
 
 StartChar: eacute
-Encoding: 255 233 255
+Encoding: 233 233 255
 GlifName: eacute
 Width: 1567
 VWidth: 0
@@ -11774,7 +11774,7 @@ Refer: 184 769 N 1 0 0 1 368 0 2
 EndChar
 
 StartChar: ebreve
-Encoding: 256 277 256
+Encoding: 277 277 256
 GlifName: ebreve
 Width: 1567
 VWidth: 0
@@ -11826,7 +11826,7 @@ Validated: 5
 EndChar
 
 StartChar: ecaron
-Encoding: 257 283 257
+Encoding: 283 283 257
 GlifName: ecaron
 Width: 1567
 VWidth: 0
@@ -11877,7 +11877,7 @@ Validated: 5
 EndChar
 
 StartChar: ecedilla
-Encoding: 258 553 258
+Encoding: 553 553 258
 GlifName: ecedilla
 Width: 1567
 VWidth: 0
@@ -11931,7 +11931,7 @@ Validated: 5
 EndChar
 
 StartChar: ecircumflex
-Encoding: 259 234 259
+Encoding: 234 234 259
 GlifName: ecircumflex
 Width: 1567
 VWidth: 0
@@ -11982,7 +11982,7 @@ Validated: 5
 EndChar
 
 StartChar: edblgrave
-Encoding: 260 517 260
+Encoding: 517 517 260
 GlifName: edblgrave
 Width: 1567
 VWidth: 0
@@ -12024,7 +12024,7 @@ Validated: 5
 EndChar
 
 StartChar: edieresis
-Encoding: 261 235 261
+Encoding: 235 235 261
 GlifName: edieresis
 Width: 1567
 VWidth: 0
@@ -12077,7 +12077,7 @@ Validated: 5
 EndChar
 
 StartChar: edotaccent
-Encoding: 262 279 262
+Encoding: 279 279 262
 GlifName: edotaccent
 Width: 1567
 VWidth: 0
@@ -12125,7 +12125,7 @@ Validated: 5
 EndChar
 
 StartChar: egrave
-Encoding: 263 232 263
+Encoding: 232 232 263
 GlifName: egrave
 Width: 1567
 VWidth: 0
@@ -12172,7 +12172,7 @@ Refer: 298 768 S 1 0 0 1 366 0 2
 EndChar
 
 StartChar: eight
-Encoding: 264 56 264
+Encoding: 56 56 264
 GlifName: eight
 Width: 1948
 VWidth: 0
@@ -12284,7 +12284,7 @@ Validated: 5
 EndChar
 
 StartChar: einvertedbreve
-Encoding: 265 519 265
+Encoding: 519 519 265
 GlifName: einvertedbreve
 Width: 1567
 VWidth: 0
@@ -12336,7 +12336,7 @@ Validated: 5
 EndChar
 
 StartChar: ellipsis
-Encoding: 266 8230 266
+Encoding: 8230 8230 266
 GlifName: ellipsis
 Width: 1344
 VWidth: 0
@@ -12368,7 +12368,7 @@ Validated: 9
 EndChar
 
 StartChar: emacron
-Encoding: 267 275 267
+Encoding: 275 275 267
 GlifName: emacron
 Width: 1567
 VWidth: 0
@@ -12416,7 +12416,7 @@ Validated: 5
 EndChar
 
 StartChar: emdash
-Encoding: 268 8212 268
+Encoding: 8212 8212 268
 GlifName: emdash
 Width: 1088
 VWidth: 0
@@ -12442,7 +12442,7 @@ Validated: 9
 EndChar
 
 StartChar: endash
-Encoding: 269 8211 269
+Encoding: 8211 8211 269
 GlifName: endash
 Width: 1088
 VWidth: 0
@@ -12468,7 +12468,7 @@ Validated: 9
 EndChar
 
 StartChar: eng
-Encoding: 270 331 270
+Encoding: 331 331 270
 GlifName: eng
 Width: 1733
 VWidth: 0
@@ -12499,7 +12499,7 @@ Validated: 9
 EndChar
 
 StartChar: eogonek
-Encoding: 271 281 271
+Encoding: 281 281 271
 GlifName: eogonek
 Width: 1567
 VWidth: 0
@@ -12551,7 +12551,7 @@ Validated: 5
 EndChar
 
 StartChar: equal
-Encoding: 272 61 272
+Encoding: 61 61 272
 GlifName: equal
 Width: 1400
 VWidth: 0
@@ -12574,7 +12574,7 @@ Validated: 9
 EndChar
 
 StartChar: eth
-Encoding: 273 240 273
+Encoding: 240 240 273
 GlifName: eth
 Width: 1984
 VWidth: 0
@@ -12632,7 +12632,7 @@ Validated: 9
 EndChar
 
 StartChar: etilde
-Encoding: 274 7869 274
+Encoding: 7869 7869 274
 GlifName: etilde
 Width: 1567
 VWidth: 0
@@ -12687,7 +12687,7 @@ Validated: 5
 EndChar
 
 StartChar: euro
-Encoding: 275 8364 275
+Encoding: 8364 8364 275
 GlifName: euro
 Width: 2042
 VWidth: 0
@@ -12791,7 +12791,7 @@ Validated: 9
 EndChar
 
 StartChar: exclam
-Encoding: 276 33 276
+Encoding: 33 33 276
 GlifName: exclam
 Width: 568
 VWidth: 0
@@ -12813,7 +12813,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 277 161 277
+Encoding: 161 161 277
 GlifName: exclamdown
 Width: 568
 VWidth: 0
@@ -12837,7 +12837,7 @@ Refer: 276 33 N 1 0 0 -1 0 1249 2
 EndChar
 
 StartChar: f
-Encoding: 278 102 278
+Encoding: 102 102 278
 GlifName: f
 Width: 1056
 VWidth: 0
@@ -12869,7 +12869,7 @@ Validated: 9
 EndChar
 
 StartChar: fdotaccent
-Encoding: 279 7711 279
+Encoding: 7711 7711 279
 GlifName: fdotaccent
 Width: 1056
 VWidth: 0
@@ -12907,7 +12907,7 @@ Validated: 9
 EndChar
 
 StartChar: fi
-Encoding: 280 64257 280
+Encoding: 64257 64257 280
 GlifName: fi
 Width: 1504
 VWidth: 0
@@ -12953,7 +12953,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" f i
 EndChar
 
 StartChar: five
-Encoding: 281 53 281
+Encoding: 53 53 281
 GlifName: five
 Width: 1948
 VWidth: 0
@@ -13028,7 +13028,7 @@ Validated: 9
 EndChar
 
 StartChar: fl
-Encoding: 282 64258 282
+Encoding: 64258 64258 282
 GlifName: fl
 Width: 1632
 VWidth: 0
@@ -13069,7 +13069,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" f l
 EndChar
 
 StartChar: florin
-Encoding: 283 402 283
+Encoding: 402 402 283
 GlifName: florin
 Width: 1184
 VWidth: 0
@@ -13134,7 +13134,7 @@ Validated: 9
 EndChar
 
 StartChar: four
-Encoding: 284 52 284
+Encoding: 52 52 284
 GlifName: four
 Width: 2048
 VWidth: 0
@@ -13185,7 +13185,7 @@ Substitution2: "'sups' Superscript in Latin lookup 10 subtable" foursuperior
 EndChar
 
 StartChar: four.dnom
-Encoding: 285 -1 285
+Encoding: 1114116 -1 285
 GlifName: four.dnom
 Width: 1424
 VWidth: 0
@@ -13214,7 +13214,7 @@ Validated: 9
 EndChar
 
 StartChar: four.numr
-Encoding: 286 -1 286
+Encoding: 1114117 -1 286
 GlifName: four.numr
 Width: 1424
 VWidth: 0
@@ -13226,7 +13226,7 @@ Validated: 9
 EndChar
 
 StartChar: foursuperior
-Encoding: 287 8308 287
+Encoding: 8308 8308 287
 GlifName: foursuperior
 Width: 1424
 VWidth: 0
@@ -13237,7 +13237,7 @@ Refer: 285 -1 S 0.519385 0 0 0.691347 364 793 2
 EndChar
 
 StartChar: fraction
-Encoding: 288 8260 288
+Encoding: 8260 8260 288
 GlifName: fraction
 Width: 756
 VWidth: 0
@@ -13255,7 +13255,7 @@ Validated: 9
 EndChar
 
 StartChar: g
-Encoding: 289 103 289
+Encoding: 103 103 289
 GlifName: g
 Width: 1612
 VWidth: 0
@@ -13289,7 +13289,7 @@ Validated: 9
 EndChar
 
 StartChar: gacute
-Encoding: 290 501 290
+Encoding: 501 501 290
 GlifName: gacute
 Width: 1612
 VWidth: 0
@@ -13343,7 +13343,7 @@ Refer: 184 769 N 1 0 0 1 390 0 2
 EndChar
 
 StartChar: gbreve
-Encoding: 291 287 291
+Encoding: 287 287 291
 GlifName: gbreve
 Width: 1612
 VWidth: 0
@@ -13402,7 +13402,7 @@ Validated: 9
 EndChar
 
 StartChar: gcaron
-Encoding: 292 487 292
+Encoding: 487 487 292
 GlifName: gcaron
 Width: 1612
 VWidth: 0
@@ -13460,7 +13460,7 @@ Validated: 9
 EndChar
 
 StartChar: gcircumflex
-Encoding: 293 285 293
+Encoding: 285 285 293
 GlifName: gcircumflex
 Width: 1612
 VWidth: 0
@@ -13518,7 +13518,7 @@ Validated: 9
 EndChar
 
 StartChar: gcommaaccent
-Encoding: 294 291 294
+Encoding: 291 291 294
 GlifName: gcommaaccent
 Width: 1612
 VWidth: 0
@@ -13573,7 +13573,7 @@ Validated: 9
 EndChar
 
 StartChar: gdotaccent
-Encoding: 295 289 295
+Encoding: 289 289 295
 GlifName: gdotaccent
 Width: 1612
 VWidth: 0
@@ -13628,7 +13628,7 @@ Validated: 9
 EndChar
 
 StartChar: germandbls
-Encoding: 296 223 296
+Encoding: 223 223 296
 GlifName: germandbls
 Width: 2048
 VWidth: 0
@@ -13676,7 +13676,7 @@ Validated: 9
 EndChar
 
 StartChar: grave
-Encoding: 297 96 297
+Encoding: 96 96 297
 GlifName: grave
 Width: 960
 VWidth: 0
@@ -13695,7 +13695,7 @@ Refer: 298 768 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: gravecomb
-Encoding: 298 768 298
+Encoding: 768 768 298
 GlifName: gravecomb
 Width: 960
 VWidth: 0
@@ -13714,7 +13714,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 299 62 299
+Encoding: 62 62 299
 GlifName: greater
 Width: 1400
 VWidth: 0
@@ -13746,7 +13746,7 @@ Validated: 9
 EndChar
 
 StartChar: greaterequal
-Encoding: 300 8805 300
+Encoding: 8805 8805 300
 GlifName: greaterequal
 Width: 1400
 VWidth: 0
@@ -13788,7 +13788,7 @@ Validated: 9
 EndChar
 
 StartChar: guillemetleft
-Encoding: 301 171 301
+Encoding: 171 171 301
 GlifName: guillemetleft
 Width: 1344
 VWidth: 0
@@ -13836,7 +13836,7 @@ Validated: 9
 EndChar
 
 StartChar: guillemetright
-Encoding: 302 187 302
+Encoding: 187 187 302
 GlifName: guillemetright
 Width: 1344
 VWidth: 0
@@ -13884,7 +13884,7 @@ Validated: 9
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 303 8249 303
+Encoding: 8249 8249 303
 GlifName: guilsinglleft
 Width: 896
 VWidth: 0
@@ -13916,7 +13916,7 @@ Validated: 9
 EndChar
 
 StartChar: guilsinglright
-Encoding: 304 8250 304
+Encoding: 8250 8250 304
 GlifName: guilsinglright
 Width: 896
 VWidth: 0
@@ -13948,7 +13948,7 @@ Validated: 9
 EndChar
 
 StartChar: h
-Encoding: 305 104 305
+Encoding: 104 104 305
 GlifName: h
 Width: 1603
 VWidth: 0
@@ -13978,7 +13978,7 @@ Validated: 5
 EndChar
 
 StartChar: hbar
-Encoding: 306 295 306
+Encoding: 295 295 306
 GlifName: hbar
 Width: 1601
 VWidth: 0
@@ -14031,7 +14031,7 @@ Validated: 5
 EndChar
 
 StartChar: hcaron
-Encoding: 307 543 307
+Encoding: 543 543 307
 GlifName: hcaron
 Width: 1603
 VWidth: 0
@@ -14069,7 +14069,7 @@ Validated: 5
 EndChar
 
 StartChar: hcircumflex
-Encoding: 308 293 308
+Encoding: 293 293 308
 GlifName: hcircumflex
 Width: 1603
 VWidth: 0
@@ -14107,7 +14107,7 @@ Validated: 5
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 309 733 309
+Encoding: 733 733 309
 GlifName: hungarumlaut
 Width: 1512
 VWidth: 0
@@ -14132,7 +14132,7 @@ Validated: 9
 EndChar
 
 StartChar: hungarumlautcomb
-Encoding: 310 779 310
+Encoding: 779 779 310
 GlifName: hungarumlautcomb
 Width: 1512
 VWidth: 0
@@ -14157,7 +14157,7 @@ Validated: 9
 EndChar
 
 StartChar: hyphen
-Encoding: 311 45 311
+Encoding: 45 45 311
 GlifName: hyphen
 Width: 1024
 VWidth: 0
@@ -14183,7 +14183,7 @@ Validated: 9
 EndChar
 
 StartChar: i
-Encoding: 312 105 312
+Encoding: 105 105 312
 GlifName: i
 Width: 448
 VWidth: 0
@@ -14213,7 +14213,7 @@ Substitution2: "Single Substitution lookup 1 subtable" idotless
 EndChar
 
 StartChar: iacute
-Encoding: 313 237 313
+Encoding: 237 237 313
 GlifName: iacute
 Width: 448
 VWidth: 0
@@ -14238,7 +14238,7 @@ Refer: 184 769 S 1 0 0 1 -192 -228 2
 EndChar
 
 StartChar: ibreve
-Encoding: 314 301 314
+Encoding: 301 301 314
 GlifName: ibreve
 Width: 448
 VWidth: 0
@@ -14268,7 +14268,7 @@ Validated: 9
 EndChar
 
 StartChar: icaron
-Encoding: 315 464 315
+Encoding: 464 464 315
 GlifName: icaron
 Width: 448
 VWidth: 0
@@ -14297,7 +14297,7 @@ Validated: 9
 EndChar
 
 StartChar: icircumflex
-Encoding: 316 238 316
+Encoding: 238 238 316
 GlifName: icircumflex
 Width: 448
 VWidth: 0
@@ -14326,7 +14326,7 @@ Validated: 9
 EndChar
 
 StartChar: idblgrave
-Encoding: 317 521 317
+Encoding: 521 521 317
 GlifName: idblgrave
 Width: 448
 VWidth: 0
@@ -14346,7 +14346,7 @@ Validated: 9
 EndChar
 
 StartChar: idieresis
-Encoding: 318 239 318
+Encoding: 239 239 318
 GlifName: idieresis
 Width: 448
 VWidth: 0
@@ -14377,7 +14377,7 @@ Validated: 9
 EndChar
 
 StartChar: idotaccent
-Encoding: 319 -1 319
+Encoding: 1114118 -1 319
 GlifName: idotaccent
 Width: 448
 VWidth: 0
@@ -14396,7 +14396,7 @@ s."
 EndChar
 
 StartChar: idotless
-Encoding: 320 305 320
+Encoding: 305 305 320
 GlifName: idotless
 Width: 448
 VWidth: 0
@@ -14417,7 +14417,7 @@ Validated: 9
 EndChar
 
 StartChar: igrave
-Encoding: 321 236 321
+Encoding: 236 236 321
 GlifName: igrave
 Width: 448
 VWidth: 0
@@ -14442,7 +14442,7 @@ Refer: 298 768 S 1 0 0 1 -194 0 2
 EndChar
 
 StartChar: iinvertedbreve
-Encoding: 322 523 322
+Encoding: 523 523 322
 GlifName: iinvertedbreve
 Width: 448
 VWidth: 0
@@ -14472,7 +14472,7 @@ Validated: 9
 EndChar
 
 StartChar: ij
-Encoding: 323 307 323
+Encoding: 307 307 323
 GlifName: ij
 Width: 1120
 VWidth: 0
@@ -14512,7 +14512,7 @@ Validated: 9
 EndChar
 
 StartChar: imacron
-Encoding: 324 299 324
+Encoding: 299 299 324
 GlifName: imacron
 Width: 448
 VWidth: 0
@@ -14538,7 +14538,7 @@ Validated: 9
 EndChar
 
 StartChar: increment
-Encoding: 325 8710 325
+Encoding: 8710 8710 325
 GlifName: increment
 Width: 1664
 VWidth: 0
@@ -14566,7 +14566,7 @@ s."
 EndChar
 
 StartChar: infinity
-Encoding: 326 8734 326
+Encoding: 8734 8734 326
 GlifName: infinity
 Width: 2496
 VWidth: 0
@@ -14638,7 +14638,7 @@ Validated: 9
 EndChar
 
 StartChar: integral
-Encoding: 327 8747 327
+Encoding: 8747 8747 327
 GlifName: integral
 Width: 1089
 VWidth: 0
@@ -14684,7 +14684,7 @@ Validated: 9
 EndChar
 
 StartChar: iogonek
-Encoding: 328 303 328
+Encoding: 303 303 328
 GlifName: iogonek
 Width: 448
 VWidth: 0
@@ -14721,7 +14721,7 @@ MultipleSubs2: "Multiple Substitution lookup 3 subtable" idotless ogonekcomb
 EndChar
 
 StartChar: itilde
-Encoding: 329 297 329
+Encoding: 297 297 329
 GlifName: itilde
 Width: 448
 VWidth: 0
@@ -14754,7 +14754,7 @@ Validated: 9
 EndChar
 
 StartChar: j
-Encoding: 330 106 330
+Encoding: 106 106 330
 GlifName: j
 Width: 672
 VWidth: 0
@@ -14783,7 +14783,7 @@ Substitution2: "Single Substitution lookup 1 subtable" jdotless
 EndChar
 
 StartChar: jcaron
-Encoding: 331 496 331
+Encoding: 496 496 331
 GlifName: jcaron
 Width: 608
 VWidth: 0
@@ -14815,7 +14815,7 @@ Validated: 9
 EndChar
 
 StartChar: jcircumflex
-Encoding: 332 309 332
+Encoding: 309 309 332
 GlifName: jcircumflex
 Width: 608
 VWidth: 0
@@ -14847,7 +14847,7 @@ Validated: 9
 EndChar
 
 StartChar: jdotless
-Encoding: 333 567 333
+Encoding: 567 567 333
 GlifName: jdotless
 Width: 608
 VWidth: 0
@@ -14870,7 +14870,7 @@ Validated: 9
 EndChar
 
 StartChar: k
-Encoding: 334 107 334
+Encoding: 107 107 334
 GlifName: k
 Width: 1414
 VWidth: 0
@@ -14901,7 +14901,7 @@ Kerns2: 177 -96 "'kern' Horizontal Kerning lookup 0 subtable" 217 -96 "'kern' Ho
 EndChar
 
 StartChar: kcaron
-Encoding: 335 489 335
+Encoding: 489 489 335
 GlifName: kcaron
 Width: 1414
 VWidth: 0
@@ -14940,7 +14940,7 @@ Validated: 5
 EndChar
 
 StartChar: kcommaaccent
-Encoding: 336 311 336
+Encoding: 311 311 336
 GlifName: kcommaaccent
 Width: 1414
 VWidth: 0
@@ -14976,7 +14976,7 @@ Validated: 5
 EndChar
 
 StartChar: kgreenlandic
-Encoding: 337 312 337
+Encoding: 312 312 337
 GlifName: kgreenlandic
 Width: 1408
 VWidth: 0
@@ -15005,7 +15005,7 @@ Validated: 9
 EndChar
 
 StartChar: l
-Encoding: 338 108 338
+Encoding: 108 108 338
 GlifName: l
 Width: 576
 VWidth: 0
@@ -15027,7 +15027,7 @@ Validated: 9
 EndChar
 
 StartChar: lacute
-Encoding: 339 314 339
+Encoding: 314 314 339
 GlifName: lacute
 Width: 576
 VWidth: 0
@@ -15052,7 +15052,7 @@ Refer: 184 769 N 1 0 0 1 28 313 2
 EndChar
 
 StartChar: lcaron
-Encoding: 340 318 340
+Encoding: 318 318 340
 GlifName: lcaron
 Width: 576
 VWidth: 0
@@ -15078,7 +15078,7 @@ Validated: 9
 EndChar
 
 StartChar: lcommaaccent
-Encoding: 341 316 341
+Encoding: 316 316 341
 GlifName: lcommaaccent
 Width: 576
 VWidth: 0
@@ -15104,7 +15104,7 @@ Validated: 9
 EndChar
 
 StartChar: ldot
-Encoding: 342 320 342
+Encoding: 320 320 342
 GlifName: ldot
 Width: 769
 VWidth: 0
@@ -15131,7 +15131,7 @@ Ligature2: "Ligature Substitution lookup 8 subtable" l periodcentered
 EndChar
 
 StartChar: less
-Encoding: 343 60 343
+Encoding: 60 60 343
 GlifName: less
 Width: 1400
 VWidth: 0
@@ -15163,7 +15163,7 @@ Validated: 9
 EndChar
 
 StartChar: lessequal
-Encoding: 344 8804 344
+Encoding: 8804 8804 344
 GlifName: lessequal
 Width: 1400
 VWidth: 0
@@ -15205,7 +15205,7 @@ Validated: 9
 EndChar
 
 StartChar: lj
-Encoding: 345 457 345
+Encoding: 457 457 345
 GlifName: lj
 Width: 1248
 VWidth: 0
@@ -15241,7 +15241,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" l j
 EndChar
 
 StartChar: logicalnot
-Encoding: 346 172 346
+Encoding: 172 172 346
 GlifName: logicalnot
 Width: 1400
 VWidth: 0
@@ -15270,7 +15270,7 @@ EndSplineSet
 EndChar
 
 StartChar: lozenge
-Encoding: 347 9674 347
+Encoding: 9674 9674 347
 GlifName: lozenge
 Width: 1280
 VWidth: 0
@@ -15310,7 +15310,7 @@ Validated: 9
 EndChar
 
 StartChar: lslash
-Encoding: 348 322 348
+Encoding: 322 322 348
 GlifName: lslash
 Width: 512
 VWidth: 0
@@ -15346,7 +15346,7 @@ Validated: 5
 EndChar
 
 StartChar: m
-Encoding: 349 109 349
+Encoding: 109 109 349
 GlifName: m
 Width: 2474
 VWidth: 0
@@ -15384,7 +15384,7 @@ Kerns2: 478 -64 "'kern' Horizontal Kerning lookup 0 subtable" 479 -64 "'kern' Ho
 EndChar
 
 StartChar: macron
-Encoding: 350 175 350
+Encoding: 175 175 350
 GlifName: macron
 Width: 1024
 VWidth: 0
@@ -15404,7 +15404,7 @@ Validated: 9
 EndChar
 
 StartChar: macroncomb
-Encoding: 351 772 351
+Encoding: 772 772 351
 GlifName: macroncomb
 Width: 1024
 VWidth: 0
@@ -15424,7 +15424,7 @@ Validated: 9
 EndChar
 
 StartChar: mdotaccent
-Encoding: 352 7745 352
+Encoding: 7745 7745 352
 GlifName: mdotaccent
 Width: 2474
 VWidth: 0
@@ -15468,7 +15468,7 @@ Validated: 5
 EndChar
 
 StartChar: micro
-Encoding: 353 181 353
+Encoding: 181 181 353
 GlifName: micro
 Width: 1601
 VWidth: 0
@@ -15479,7 +15479,7 @@ Refer: 355 956 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: minus
-Encoding: 354 8722 354
+Encoding: 8722 8722 354
 GlifName: minus
 Width: 1400
 VWidth: 0
@@ -15505,7 +15505,7 @@ Validated: 9
 EndChar
 
 StartChar: mu
-Encoding: 355 956 355
+Encoding: 956 956 355
 GlifName: mu
 Width: 1601
 VWidth: 0
@@ -15533,7 +15533,7 @@ EndSplineSet
 EndChar
 
 StartChar: multiply
-Encoding: 356 215 356
+Encoding: 215 215 356
 GlifName: multiply
 Width: 1400
 VWidth: 0
@@ -15575,7 +15575,7 @@ Validated: 9
 EndChar
 
 StartChar: n
-Encoding: 357 110 357
+Encoding: 110 110 357
 GlifName: n
 Width: 1601
 VWidth: 0
@@ -15604,7 +15604,7 @@ Validated: 5
 EndChar
 
 StartChar: nacute
-Encoding: 358 324 358
+Encoding: 324 324 358
 GlifName: nacute
 Width: 1601
 VWidth: 0
@@ -15638,7 +15638,7 @@ Refer: 184 769 N 1 0 0 1 385 0 2
 EndChar
 
 StartChar: napostrophe
-Encoding: 359 329 359
+Encoding: 329 329 359
 GlifName: napostrophe
 Width: 1665
 VWidth: 0
@@ -15682,7 +15682,7 @@ Validated: 5
 EndChar
 
 StartChar: nbspace
-Encoding: 360 160 360
+Encoding: 160 160 360
 GlifName: nbspace
 Width: 582
 VWidth: 0
@@ -15693,7 +15693,7 @@ Validated: 1
 EndChar
 
 StartChar: ncaron
-Encoding: 361 328 361
+Encoding: 328 328 361
 GlifName: ncaron
 Width: 1601
 VWidth: 0
@@ -15731,7 +15731,7 @@ Validated: 5
 EndChar
 
 StartChar: ncommaaccent
-Encoding: 362 326 362
+Encoding: 326 326 362
 GlifName: ncommaaccent
 Width: 1601
 VWidth: 0
@@ -15766,7 +15766,7 @@ Validated: 5
 EndChar
 
 StartChar: ngrave
-Encoding: 363 505 363
+Encoding: 505 505 363
 GlifName: ngrave
 Width: 1601
 VWidth: 0
@@ -15800,7 +15800,7 @@ Refer: 298 768 S 1 0 0 1 383 0 2
 EndChar
 
 StartChar: nine
-Encoding: 364 57 364
+Encoding: 57 57 364
 GlifName: nine
 Width: 1984
 VWidth: 0
@@ -15886,7 +15886,7 @@ Validated: 9
 EndChar
 
 StartChar: nj
-Encoding: 365 460 365
+Encoding: 460 460 365
 GlifName: nj
 Width: 2273
 VWidth: 0
@@ -15931,7 +15931,7 @@ MultipleSubs2: "ccmp_latn_1 subtable" n j
 EndChar
 
 StartChar: notequal
-Encoding: 366 8800 366
+Encoding: 8800 8800 366
 GlifName: notequal
 Width: 1400
 VWidth: 0
@@ -15968,7 +15968,7 @@ Validated: 5
 EndChar
 
 StartChar: ntilde
-Encoding: 367 241 367
+Encoding: 241 241 367
 GlifName: ntilde
 Width: 1601
 VWidth: 0
@@ -16010,7 +16010,7 @@ Validated: 5
 EndChar
 
 StartChar: numbersign
-Encoding: 368 35 368
+Encoding: 35 35 368
 GlifName: numbersign
 Width: 1536
 VWidth: 0
@@ -16066,7 +16066,7 @@ Validated: 5
 EndChar
 
 StartChar: o
-Encoding: 369 111 369
+Encoding: 111 111 369
 GlifName: o
 Width: 1602
 VWidth: 0
@@ -16096,7 +16096,7 @@ Substitution2: "Single Substitution lookup 16 subtable" ordmasculine
 EndChar
 
 StartChar: oacute
-Encoding: 370 243 370
+Encoding: 243 243 370
 GlifName: oacute
 Width: 1602
 VWidth: 0
@@ -16136,7 +16136,7 @@ Refer: 184 769 N 1 0 0 1 385 0 2
 EndChar
 
 StartChar: obreve
-Encoding: 371 335 371
+Encoding: 335 335 371
 GlifName: obreve
 Width: 1602
 VWidth: 0
@@ -16181,7 +16181,7 @@ Validated: 9
 EndChar
 
 StartChar: ocaron
-Encoding: 372 466 372
+Encoding: 466 466 372
 GlifName: ocaron
 Width: 1602
 VWidth: 0
@@ -16225,7 +16225,7 @@ Validated: 9
 EndChar
 
 StartChar: ocircumflex
-Encoding: 373 244 373
+Encoding: 244 244 373
 GlifName: ocircumflex
 Width: 1602
 VWidth: 0
@@ -16269,7 +16269,7 @@ Validated: 9
 EndChar
 
 StartChar: odblgrave
-Encoding: 374 525 374
+Encoding: 525 525 374
 GlifName: odblgrave
 Width: 1602
 VWidth: 0
@@ -16304,7 +16304,7 @@ Validated: 9
 EndChar
 
 StartChar: odieresis
-Encoding: 375 246 375
+Encoding: 246 246 375
 GlifName: odieresis
 Width: 1602
 VWidth: 0
@@ -16350,7 +16350,7 @@ Validated: 9
 EndChar
 
 StartChar: odotaccent
-Encoding: 376 559 376
+Encoding: 559 559 376
 GlifName: odotaccent
 Width: 1602
 VWidth: 0
@@ -16391,7 +16391,7 @@ Validated: 9
 EndChar
 
 StartChar: oe
-Encoding: 377 339 377
+Encoding: 339 339 377
 GlifName: oe
 Width: 2816
 VWidth: 0
@@ -16445,7 +16445,7 @@ Validated: 9
 EndChar
 
 StartChar: ogonek
-Encoding: 378 731 378
+Encoding: 731 731 378
 GlifName: ogonek
 Width: 640
 VWidth: 0
@@ -16469,7 +16469,7 @@ Validated: 9
 EndChar
 
 StartChar: ogonekcomb
-Encoding: 379 808 379
+Encoding: 808 808 379
 GlifName: ogonekcomb
 Width: 640
 VWidth: 0
@@ -16492,7 +16492,7 @@ Validated: 9
 EndChar
 
 StartChar: ograve
-Encoding: 380 242 380
+Encoding: 242 242 380
 GlifName: ograve
 Width: 1602
 VWidth: 0
@@ -16532,7 +16532,7 @@ Refer: 298 768 S 1 0 0 1 383 0 2
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 381 337 381
+Encoding: 337 337 381
 GlifName: ohungarumlaut
 Width: 1602
 VWidth: 0
@@ -16578,7 +16578,7 @@ Validated: 9
 EndChar
 
 StartChar: oinvertedbreve
-Encoding: 382 527 382
+Encoding: 527 527 382
 GlifName: oinvertedbreve
 Width: 1602
 VWidth: 0
@@ -16623,7 +16623,7 @@ Validated: 9
 EndChar
 
 StartChar: omacron
-Encoding: 383 333 383
+Encoding: 333 333 383
 GlifName: omacron
 Width: 1602
 VWidth: 0
@@ -16664,7 +16664,7 @@ Validated: 9
 EndChar
 
 StartChar: one
-Encoding: 384 49 384
+Encoding: 49 49 384
 GlifName: one
 Width: 992
 VWidth: 0
@@ -16705,7 +16705,7 @@ Substitution2: "'sups' Superscript in Latin lookup 10 subtable" onesuperior
 EndChar
 
 StartChar: one.dnom
-Encoding: 385 -1 385
+Encoding: 1114119 -1 385
 GlifName: one.dnom
 Width: 938
 VWidth: 0
@@ -16725,7 +16725,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.numr
-Encoding: 386 -1 386
+Encoding: 1114120 -1 386
 GlifName: one.numr
 Width: 938
 VWidth: 0
@@ -16747,7 +16747,7 @@ Refer: 385 -1 S 1 0 0 1 0 447 2
 EndChar
 
 StartChar: onehalf
-Encoding: 387 189 387
+Encoding: 189 189 387
 GlifName: onehalf
 Width: 3038
 VWidth: 0
@@ -16802,7 +16802,7 @@ Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash two
 EndChar
 
 StartChar: onequarter
-Encoding: 388 188 388
+Encoding: 188 188 388
 GlifName: onequarter
 Width: 2918
 VWidth: 0
@@ -16849,7 +16849,7 @@ Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" one slash fou
 EndChar
 
 StartChar: onesuperior
-Encoding: 389 185 389
+Encoding: 185 185 389
 GlifName: onesuperior
 Width: 938
 VWidth: 0
@@ -16871,7 +16871,7 @@ Refer: 385 -1 S 0.721737 0 0 0.713566 142.916 793.373 2
 EndChar
 
 StartChar: oogonek
-Encoding: 390 491 390
+Encoding: 491 491 390
 GlifName: oogonek
 Width: 1602
 VWidth: 0
@@ -16916,7 +16916,7 @@ Validated: 5
 EndChar
 
 StartChar: ordfeminine
-Encoding: 391 170 391
+Encoding: 170 170 391
 GlifName: ordfeminine
 Width: 1560
 VWidth: 0
@@ -16957,7 +16957,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 392 186 392
+Encoding: 186 186 392
 GlifName: ordmasculine
 Width: 1664
 VWidth: 0
@@ -17015,7 +17015,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 393 248 393
+Encoding: 248 248 393
 GlifName: oslash
 Width: 1602
 VWidth: 0
@@ -17062,7 +17062,7 @@ Validated: 5
 EndChar
 
 StartChar: oslashacute
-Encoding: 394 511 394
+Encoding: 511 511 394
 GlifName: oslashacute
 Width: 1602
 VWidth: 0
@@ -17107,7 +17107,7 @@ Refer: 184 769 N 1 0 0 1 385 0 2
 EndChar
 
 StartChar: otilde
-Encoding: 395 245 395
+Encoding: 245 245 395
 GlifName: otilde
 Width: 1602
 VWidth: 0
@@ -17155,7 +17155,7 @@ Validated: 9
 EndChar
 
 StartChar: p
-Encoding: 396 112 396
+Encoding: 112 112 396
 GlifName: p
 Width: 1638
 VWidth: 0
@@ -17196,7 +17196,7 @@ Kerns2: 479 -64 "'kern' Horizontal Kerning lookup 0 subtable" 484 -96 "'kern' Ho
 EndChar
 
 StartChar: paragraph
-Encoding: 397 182 397
+Encoding: 182 182 397
 GlifName: paragraph
 Width: 1984
 VWidth: 0
@@ -17246,7 +17246,7 @@ Validated: 9
 EndChar
 
 StartChar: parenleft
-Encoding: 398 40 398
+Encoding: 40 40 398
 GlifName: parenleft
 Width: 768
 VWidth: 0
@@ -17273,7 +17273,7 @@ Validated: 9
 EndChar
 
 StartChar: parenright
-Encoding: 399 41 399
+Encoding: 41 41 399
 GlifName: parenright
 Width: 768
 VWidth: 0
@@ -17302,7 +17302,7 @@ Validated: 17
 EndChar
 
 StartChar: partialdiff
-Encoding: 400 8706 400
+Encoding: 8706 8706 400
 GlifName: partialdiff
 Width: 1984
 VWidth: 0
@@ -17394,7 +17394,7 @@ Validated: 9
 EndChar
 
 StartChar: pdotaccent
-Encoding: 401 7767 401
+Encoding: 7767 7767 401
 GlifName: pdotaccent
 Width: 1638
 VWidth: 0
@@ -17440,7 +17440,7 @@ Validated: 5
 EndChar
 
 StartChar: percent
-Encoding: 402 37 402
+Encoding: 37 37 402
 GlifName: percent
 Width: 3869
 VWidth: 0
@@ -17478,7 +17478,7 @@ Validated: 9
 EndChar
 
 StartChar: period
-Encoding: 403 46 403
+Encoding: 46 46 403
 GlifName: period
 Width: 448
 VWidth: 0
@@ -17496,7 +17496,7 @@ Validated: 9
 EndChar
 
 StartChar: periodcentered
-Encoding: 404 183 404
+Encoding: 183 183 404
 GlifName: periodcentered
 Width: 448
 VWidth: 0
@@ -17514,7 +17514,7 @@ Validated: 9
 EndChar
 
 StartChar: perthousand
-Encoding: 405 8240 405
+Encoding: 8240 8240 405
 GlifName: perthousand
 Width: 5459
 VWidth: 0
@@ -17546,7 +17546,7 @@ Validated: 9
 EndChar
 
 StartChar: plus
-Encoding: 406 43 406
+Encoding: 43 43 406
 GlifName: plus
 Width: 1400
 VWidth: 0
@@ -17588,7 +17588,7 @@ Validated: 9
 EndChar
 
 StartChar: plusminus
-Encoding: 407 177 407
+Encoding: 177 177 407
 GlifName: plusminus
 Width: 1400
 VWidth: 0
@@ -17635,7 +17635,7 @@ Validated: 9
 EndChar
 
 StartChar: product
-Encoding: 408 8719 408
+Encoding: 8719 8719 408
 GlifName: product
 Width: 1792
 VWidth: 0
@@ -17669,7 +17669,7 @@ Validated: 9
 EndChar
 
 StartChar: q
-Encoding: 409 113 409
+Encoding: 113 113 409
 GlifName: q
 Width: 1638
 VWidth: 0
@@ -17709,7 +17709,7 @@ Validated: 5
 EndChar
 
 StartChar: question
-Encoding: 410 63 410
+Encoding: 63 63 410
 GlifName: question
 Width: 1856
 VWidth: 0
@@ -17742,7 +17742,7 @@ Validated: 9
 EndChar
 
 StartChar: questiondown
-Encoding: 411 191 411
+Encoding: 191 191 411
 GlifName: questiondown
 Width: 1856
 VWidth: 0
@@ -17777,7 +17777,7 @@ Validated: 9
 EndChar
 
 StartChar: quotedbl
-Encoding: 412 34 412
+Encoding: 34 34 412
 GlifName: quotedbl
 Width: 768
 VWidth: 0
@@ -17813,7 +17813,7 @@ Validated: 9
 EndChar
 
 StartChar: quotedblbase
-Encoding: 413 8222 413
+Encoding: 8222 8222 413
 GlifName: quotedblbase
 Width: 832
 VWidth: 0
@@ -17849,7 +17849,7 @@ Validated: 9
 EndChar
 
 StartChar: quotedblleft
-Encoding: 414 8220 414
+Encoding: 8220 8220 414
 GlifName: quotedblleft
 Width: 768
 VWidth: 0
@@ -17885,7 +17885,7 @@ Validated: 9
 EndChar
 
 StartChar: quotedblright
-Encoding: 415 8221 415
+Encoding: 8221 8221 415
 GlifName: quotedblright
 Width: 832
 VWidth: 0
@@ -17921,7 +17921,7 @@ Validated: 9
 EndChar
 
 StartChar: quoteleft
-Encoding: 416 8216 416
+Encoding: 8216 8216 416
 GlifName: quoteleft
 Width: 512
 VWidth: 0
@@ -17947,7 +17947,7 @@ Validated: 9
 EndChar
 
 StartChar: quoteright
-Encoding: 417 8217 417
+Encoding: 8217 8217 417
 GlifName: quoteright
 Width: 512
 VWidth: 0
@@ -17973,7 +17973,7 @@ Validated: 9
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 418 8218 418
+Encoding: 8218 8218 418
 GlifName: quotesinglbase
 Width: 448
 VWidth: 0
@@ -17999,7 +17999,7 @@ Validated: 9
 EndChar
 
 StartChar: quotesingle
-Encoding: 419 39 419
+Encoding: 39 39 419
 GlifName: quotesingle
 Width: 448
 VWidth: 0
@@ -18025,7 +18025,7 @@ Validated: 9
 EndChar
 
 StartChar: r
-Encoding: 420 114 420
+Encoding: 114 114 420
 GlifName: r
 Width: 1601
 VWidth: 0
@@ -18052,7 +18052,7 @@ Validated: 5
 EndChar
 
 StartChar: racute
-Encoding: 421 341 421
+Encoding: 341 341 421
 GlifName: racute
 Width: 986
 VWidth: 0
@@ -18082,7 +18082,7 @@ Refer: 184 769 N 1 0 0 1 296 0 2
 EndChar
 
 StartChar: radical
-Encoding: 422 8730 422
+Encoding: 8730 8730 422
 GlifName: radical
 Width: 1632
 VWidth: 0
@@ -18114,7 +18114,7 @@ Validated: 9
 EndChar
 
 StartChar: rcaron
-Encoding: 423 345 423
+Encoding: 345 345 423
 GlifName: rcaron
 Width: 1601
 VWidth: 0
@@ -18148,7 +18148,7 @@ Validated: 5
 EndChar
 
 StartChar: rcommaaccent
-Encoding: 424 343 424
+Encoding: 343 343 424
 GlifName: rcommaaccent
 Width: 1601
 VWidth: 0
@@ -18179,7 +18179,7 @@ Validated: 5
 EndChar
 
 StartChar: rdblgrave
-Encoding: 425 529 425
+Encoding: 529 529 425
 GlifName: rdblgrave
 Width: 1601
 VWidth: 0
@@ -18204,7 +18204,7 @@ Validated: 5
 EndChar
 
 StartChar: registered
-Encoding: 426 174 426
+Encoding: 174 174 426
 GlifName: registered
 Width: 1920
 VWidth: 0
@@ -18317,7 +18317,7 @@ Validated: 9
 EndChar
 
 StartChar: ring
-Encoding: 427 730 427
+Encoding: 730 730 427
 GlifName: ring
 Width: 1280
 VWidth: 0
@@ -18344,7 +18344,7 @@ Validated: 9
 EndChar
 
 StartChar: ringcomb
-Encoding: 428 778 428
+Encoding: 778 778 428
 GlifName: ringcomb
 Width: 1280
 VWidth: 0
@@ -18371,7 +18371,7 @@ Validated: 9
 EndChar
 
 StartChar: rinvertedbreve
-Encoding: 429 531 429
+Encoding: 531 531 429
 GlifName: rinvertedbreve
 Width: 1601
 VWidth: 0
@@ -18406,7 +18406,7 @@ Validated: 5
 EndChar
 
 StartChar: s
-Encoding: 430 115 430
+Encoding: 115 115 430
 GlifName: s
 Width: 1589
 VWidth: 0
@@ -18438,7 +18438,7 @@ Validated: 41
 EndChar
 
 StartChar: sacute
-Encoding: 431 347 431
+Encoding: 347 347 431
 GlifName: sacute
 Width: 1589
 VWidth: 0
@@ -18487,7 +18487,7 @@ Refer: 184 769 N 1 0 0 1 379 0 2
 EndChar
 
 StartChar: scaron
-Encoding: 432 353 432
+Encoding: 353 353 432
 GlifName: scaron
 Width: 1589
 VWidth: 0
@@ -18540,7 +18540,7 @@ Validated: 9
 EndChar
 
 StartChar: scedilla
-Encoding: 433 351 433
+Encoding: 351 351 433
 GlifName: scedilla
 Width: 1589
 VWidth: 0
@@ -18597,7 +18597,7 @@ Substitution2: "locl_latn_1 subtable" scommaaccent
 EndChar
 
 StartChar: scircumflex
-Encoding: 434 349 434
+Encoding: 349 349 434
 GlifName: scircumflex
 Width: 1589
 VWidth: 0
@@ -18650,7 +18650,7 @@ Validated: 9
 EndChar
 
 StartChar: scommaaccent
-Encoding: 435 537 435
+Encoding: 537 537 435
 GlifName: scommaaccent
 Width: 1589
 VWidth: 0
@@ -18700,7 +18700,7 @@ Validated: 9
 EndChar
 
 StartChar: sdotaccent
-Encoding: 436 7777 436
+Encoding: 7777 7777 436
 GlifName: sdotaccent
 Width: 1589
 VWidth: 0
@@ -18750,7 +18750,7 @@ Validated: 9
 EndChar
 
 StartChar: section
-Encoding: 437 167 437
+Encoding: 167 167 437
 GlifName: section
 Width: 1504
 VWidth: 0
@@ -18852,7 +18852,7 @@ Validated: 9
 EndChar
 
 StartChar: semicolon
-Encoding: 438 59 438
+Encoding: 59 59 438
 GlifName: semicolon
 Width: 448
 VWidth: 0
@@ -18888,7 +18888,7 @@ Validated: 9
 EndChar
 
 StartChar: seven
-Encoding: 439 55 439
+Encoding: 55 55 439
 GlifName: seven
 Width: 1984
 VWidth: 0
@@ -18920,7 +18920,7 @@ Validated: 9
 EndChar
 
 StartChar: six
-Encoding: 440 54 440
+Encoding: 54 54 440
 GlifName: six
 Width: 1948
 VWidth: 0
@@ -19006,7 +19006,7 @@ Validated: 9
 EndChar
 
 StartChar: slash
-Encoding: 441 47 441
+Encoding: 47 47 441
 GlifName: slash
 Width: 1500
 VWidth: 0
@@ -19032,7 +19032,7 @@ Validated: 9
 EndChar
 
 StartChar: space
-Encoding: 442 32 442
+Encoding: 32 32 442
 GlifName: space
 Width: 582
 VWidth: 0
@@ -19043,7 +19043,7 @@ Validated: 1
 EndChar
 
 StartChar: sterling
-Encoding: 443 163 443
+Encoding: 163 163 443
 GlifName: sterling
 Width: 1663
 VWidth: 0
@@ -19109,7 +19109,7 @@ Validated: 9
 EndChar
 
 StartChar: summation
-Encoding: 444 8721 444
+Encoding: 8721 8721 444
 GlifName: summation
 Width: 1664
 VWidth: 0
@@ -19153,7 +19153,7 @@ Validated: 9
 EndChar
 
 StartChar: t
-Encoding: 445 116 445
+Encoding: 116 116 445
 GlifName: t
 Width: 1297
 VWidth: 0
@@ -19188,7 +19188,7 @@ Kerns2: 177 -64 "'kern' Horizontal Kerning lookup 0 subtable" 217 -64 "'kern' Ho
 EndChar
 
 StartChar: tbar
-Encoding: 446 359 446
+Encoding: 359 359 446
 GlifName: tbar
 Width: 1440
 VWidth: 0
@@ -19228,7 +19228,7 @@ Validated: 5
 EndChar
 
 StartChar: tcaron
-Encoding: 447 357 447
+Encoding: 357 357 447
 GlifName: tcaron
 Width: 1297
 VWidth: 0
@@ -19262,7 +19262,7 @@ Validated: 9
 EndChar
 
 StartChar: tcommaaccent
-Encoding: 448 539 448
+Encoding: 539 539 448
 GlifName: tcommaaccent
 Width: 1297
 VWidth: 0
@@ -19296,7 +19296,7 @@ Validated: 9
 EndChar
 
 StartChar: tdotaccent
-Encoding: 449 7787 449
+Encoding: 7787 7787 449
 GlifName: tdotaccent
 Width: 1297
 VWidth: 0
@@ -19330,7 +19330,7 @@ Validated: 9
 EndChar
 
 StartChar: thorn
-Encoding: 450 254 450
+Encoding: 254 254 450
 GlifName: thorn
 Width: 1600
 VWidth: 0
@@ -19370,7 +19370,7 @@ Validated: 9
 EndChar
 
 StartChar: three
-Encoding: 451 51 451
+Encoding: 51 51 451
 GlifName: three
 Width: 1948
 VWidth: 0
@@ -19465,7 +19465,7 @@ Substitution2: "'sups' Superscript in Latin lookup 10 subtable" threesuperior
 EndChar
 
 StartChar: three.dnom
-Encoding: 452 -1 452
+Encoding: 1114121 -1 452
 GlifName: three.dnom
 Width: 1403
 VWidth: 0
@@ -19505,7 +19505,7 @@ Validated: 41
 EndChar
 
 StartChar: three.numr
-Encoding: 453 -1 453
+Encoding: 1114122 -1 453
 GlifName: three.numr
 Width: 1403
 VWidth: 0
@@ -19547,7 +19547,7 @@ Validated: 9
 EndChar
 
 StartChar: threequarters
-Encoding: 454 190 454
+Encoding: 190 190 454
 GlifName: threequarters
 Width: 3472
 VWidth: 0
@@ -19618,7 +19618,7 @@ Ligature2: "'frac' Diagonal Fractions in Latin lookup 13 subtable" three slash f
 EndChar
 
 StartChar: threesuperior
-Encoding: 455 179 455
+Encoding: 179 179 455
 GlifName: threesuperior
 Width: 1403
 VWidth: 0
@@ -19659,7 +19659,7 @@ Refer: 452 -1 S 0.515106 0 0 0.691623 314 793 2
 EndChar
 
 StartChar: tilde
-Encoding: 456 732 456
+Encoding: 732 732 456
 GlifName: tilde
 Width: 1152
 VWidth: 0
@@ -19686,7 +19686,7 @@ Validated: 9
 EndChar
 
 StartChar: tildecomb
-Encoding: 457 771 457
+Encoding: 771 771 457
 GlifName: tildecomb
 Width: 1152
 VWidth: 0
@@ -19713,7 +19713,7 @@ Validated: 9
 EndChar
 
 StartChar: trademark
-Encoding: 458 8482 458
+Encoding: 8482 8482 458
 GlifName: trademark
 Width: 2752
 VWidth: 0
@@ -19775,7 +19775,7 @@ Validated: 9
 EndChar
 
 StartChar: two
-Encoding: 459 50 459
+Encoding: 50 50 459
 GlifName: two
 Width: 1948
 VWidth: 0
@@ -19848,7 +19848,7 @@ Substitution2: "'sups' Superscript in Latin lookup 10 subtable" twosuperior
 EndChar
 
 StartChar: two.dnom
-Encoding: 460 -1 460
+Encoding: 1114123 -1 460
 GlifName: two.dnom
 Width: 1344
 VWidth: 0
@@ -19882,7 +19882,7 @@ Validated: 9
 EndChar
 
 StartChar: two.numr
-Encoding: 461 -1 461
+Encoding: 1114124 -1 461
 GlifName: two.numr
 Width: 1344
 VWidth: 0
@@ -19921,7 +19921,7 @@ Validated: 9
 EndChar
 
 StartChar: twosuperior
-Encoding: 462 178 462
+Encoding: 178 178 462
 GlifName: twosuperior
 Width: 1344
 VWidth: 0
@@ -19959,7 +19959,7 @@ Refer: 460 -1 S 0.51863 0 0 0.691565 324 793 2
 EndChar
 
 StartChar: u
-Encoding: 463 117 463
+Encoding: 117 117 463
 GlifName: u
 Width: 1601
 VWidth: 0
@@ -19989,7 +19989,7 @@ Validated: 9
 EndChar
 
 StartChar: uacute
-Encoding: 464 250 464
+Encoding: 250 250 464
 GlifName: uacute
 Width: 1601
 VWidth: 0
@@ -20022,7 +20022,7 @@ Refer: 184 769 N 1 0 0 1 385 0 2
 EndChar
 
 StartChar: ubreve
-Encoding: 465 365 465
+Encoding: 365 365 465
 GlifName: ubreve
 Width: 1601
 VWidth: 0
@@ -20060,7 +20060,7 @@ Validated: 9
 EndChar
 
 StartChar: ucaron
-Encoding: 466 468 466
+Encoding: 468 468 466
 GlifName: ucaron
 Width: 1601
 VWidth: 0
@@ -20097,7 +20097,7 @@ Validated: 9
 EndChar
 
 StartChar: ucircumflex
-Encoding: 467 251 467
+Encoding: 251 251 467
 GlifName: ucircumflex
 Width: 1601
 VWidth: 0
@@ -20134,7 +20134,7 @@ Validated: 9
 EndChar
 
 StartChar: udblgrave
-Encoding: 468 533 468
+Encoding: 533 533 468
 GlifName: udblgrave
 Width: 1601
 VWidth: 0
@@ -20162,7 +20162,7 @@ Validated: 9
 EndChar
 
 StartChar: udieresis
-Encoding: 469 252 469
+Encoding: 252 252 469
 GlifName: udieresis
 Width: 1601
 VWidth: 0
@@ -20201,7 +20201,7 @@ Validated: 9
 EndChar
 
 StartChar: ugrave
-Encoding: 470 249 470
+Encoding: 249 249 470
 GlifName: ugrave
 Width: 1601
 VWidth: 0
@@ -20234,7 +20234,7 @@ Refer: 298 768 S 1 0 0 1 383 0 2
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 471 369 471
+Encoding: 369 369 471
 GlifName: uhungarumlaut
 Width: 1601
 VWidth: 0
@@ -20273,7 +20273,7 @@ Validated: 9
 EndChar
 
 StartChar: uinvertedbreve
-Encoding: 472 535 472
+Encoding: 535 535 472
 GlifName: uinvertedbreve
 Width: 1601
 VWidth: 0
@@ -20311,7 +20311,7 @@ Validated: 9
 EndChar
 
 StartChar: umacron
-Encoding: 473 363 473
+Encoding: 363 363 473
 GlifName: umacron
 Width: 1601
 VWidth: 0
@@ -20345,7 +20345,7 @@ Validated: 9
 EndChar
 
 StartChar: underscore
-Encoding: 474 95 474
+Encoding: 95 95 474
 GlifName: underscore
 Width: 1088
 VWidth: 0
@@ -20371,7 +20371,7 @@ Validated: 9
 EndChar
 
 StartChar: uogonek
-Encoding: 475 371 475
+Encoding: 371 371 475
 GlifName: uogonek
 Width: 1601
 VWidth: 0
@@ -20409,7 +20409,7 @@ Validated: 5
 EndChar
 
 StartChar: uring
-Encoding: 476 367 476
+Encoding: 367 367 476
 GlifName: uring
 Width: 1601
 VWidth: 0
@@ -20450,7 +20450,7 @@ Validated: 9
 EndChar
 
 StartChar: utilde
-Encoding: 477 361 477
+Encoding: 361 361 477
 GlifName: utilde
 Width: 1601
 VWidth: 0
@@ -20491,7 +20491,7 @@ Validated: 9
 EndChar
 
 StartChar: v
-Encoding: 478 118 478
+Encoding: 118 118 478
 GlifName: v
 Width: 1588
 VWidth: 0
@@ -20516,7 +20516,7 @@ Kerns2: 177 -64 "'kern' Horizontal Kerning lookup 0 subtable" 217 -64 "'kern' Ho
 EndChar
 
 StartChar: w
-Encoding: 479 119 479
+Encoding: 119 119 479
 GlifName: w
 Width: 2240
 VWidth: 0
@@ -20549,7 +20549,7 @@ Kerns2: 177 -64 "'kern' Horizontal Kerning lookup 0 subtable" 217 -64 "'kern' Ho
 EndChar
 
 StartChar: wacute
-Encoding: 480 7811 480
+Encoding: 7811 7811 480
 GlifName: wacute
 Width: 2240
 VWidth: 0
@@ -20586,7 +20586,7 @@ Refer: 184 769 N 1 0 0 1 704 0 2
 EndChar
 
 StartChar: wcircumflex
-Encoding: 481 373 481
+Encoding: 373 373 481
 GlifName: wcircumflex
 Width: 2240
 VWidth: 0
@@ -20627,7 +20627,7 @@ Validated: 9
 EndChar
 
 StartChar: wdieresis
-Encoding: 482 7813 482
+Encoding: 7813 7813 482
 GlifName: wdieresis
 Width: 2240
 VWidth: 0
@@ -20670,7 +20670,7 @@ Validated: 9
 EndChar
 
 StartChar: wgrave
-Encoding: 483 7809 483
+Encoding: 7809 7809 483
 GlifName: wgrave
 Width: 2240
 VWidth: 0
@@ -20707,7 +20707,7 @@ Refer: 298 768 S 1 0 0 1 702 0 2
 EndChar
 
 StartChar: x
-Encoding: 484 120 484
+Encoding: 120 120 484
 GlifName: x
 Width: 1628
 VWidth: 0
@@ -20736,7 +20736,7 @@ Kerns2: 177 -96 "'kern' Horizontal Kerning lookup 0 subtable" 217 -96 "'kern' Ho
 EndChar
 
 StartChar: y
-Encoding: 485 121 485
+Encoding: 121 121 485
 GlifName: y
 Width: 1568
 VWidth: 0
@@ -20762,7 +20762,7 @@ Kerns2: 177 -64 "'kern' Horizontal Kerning lookup 0 subtable" 217 -64 "'kern' Ho
 EndChar
 
 StartChar: yacute
-Encoding: 486 253 486
+Encoding: 253 253 486
 GlifName: yacute
 Width: 1568
 VWidth: 0
@@ -20793,7 +20793,7 @@ Refer: 184 769 N 1 0 0 1 368 0 2
 EndChar
 
 StartChar: ycircumflex
-Encoding: 487 375 487
+Encoding: 375 375 487
 GlifName: ycircumflex
 Width: 1568
 VWidth: 0
@@ -20827,7 +20827,7 @@ Refer: 230 770 N 1 0 0 1 240 0 2
 EndChar
 
 StartChar: ydieresis
-Encoding: 488 255 488
+Encoding: 255 255 488
 GlifName: ydieresis
 Width: 1568
 VWidth: 0
@@ -20863,7 +20863,7 @@ Refer: 247 776 N 1 0 0 1 240 0 2
 EndChar
 
 StartChar: yen
-Encoding: 489 165 489
+Encoding: 165 165 489
 GlifName: yen
 Width: 2048
 VWidth: 0
@@ -20927,7 +20927,7 @@ Validated: 9
 EndChar
 
 StartChar: ygrave
-Encoding: 490 7923 490
+Encoding: 7923 7923 490
 GlifName: ygrave
 Width: 1568
 VWidth: 0
@@ -20958,7 +20958,7 @@ Refer: 298 768 S 1 0 0 1 366 0 2
 EndChar
 
 StartChar: ymacron
-Encoding: 491 563 491
+Encoding: 563 563 491
 GlifName: ymacron
 Width: 1568
 VWidth: 0
@@ -20989,7 +20989,7 @@ Refer: 351 772 N 1 0 0 1 272 0 2
 EndChar
 
 StartChar: ytilde
-Encoding: 492 7929 492
+Encoding: 7929 7929 492
 GlifName: ytilde
 Width: 1568
 VWidth: 0
@@ -21027,7 +21027,7 @@ Refer: 457 771 N 1 0 0 1 208 0 2
 EndChar
 
 StartChar: z
-Encoding: 493 122 493
+Encoding: 122 122 493
 GlifName: z
 Width: 1472
 VWidth: 0
@@ -21054,7 +21054,7 @@ Validated: 9
 EndChar
 
 StartChar: zacute
-Encoding: 494 378 494
+Encoding: 378 378 494
 GlifName: zacute
 Width: 1472
 VWidth: 0
@@ -21085,7 +21085,7 @@ Refer: 184 769 N 1 0 0 1 320 0 2
 EndChar
 
 StartChar: zcaron
-Encoding: 495 382 495
+Encoding: 382 382 495
 GlifName: zcaron
 Width: 1472
 VWidth: 0
@@ -21120,7 +21120,7 @@ Validated: 9
 EndChar
 
 StartChar: zdotaccent
-Encoding: 496 380 496
+Encoding: 380 380 496
 GlifName: zdotaccent
 Width: 1472
 VWidth: 0
@@ -21152,7 +21152,7 @@ Validated: 9
 EndChar
 
 StartChar: zero
-Encoding: 497 48 497
+Encoding: 48 48 497
 GlifName: zero
 Width: 1948
 VWidth: 0
@@ -21232,7 +21232,7 @@ Validated: 5
 EndChar
 
 StartChar: Tcedilla
-Encoding: 498 354 498
+Encoding: 354 354 498
 Width: 1916
 VWidth: 0
 Flags: HW
@@ -21243,7 +21243,7 @@ Refer: 139 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tcedilla
-Encoding: 499 355 499
+Encoding: 355 355 499
 Width: 1297
 VWidth: 0
 Flags: HW
@@ -21254,7 +21254,7 @@ Refer: 445 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ohm
-Encoding: 500 8486 500
+Encoding: 8486 8486 500
 Width: 1472
 VWidth: 0
 Flags: HW
@@ -21264,7 +21264,7 @@ Refer: 117 937 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: invertedohm
-Encoding: 501 8487 501
+Encoding: 8487 8487 501
 Width: 1472
 VWidth: 0
 Flags: HW

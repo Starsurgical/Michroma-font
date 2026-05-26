@@ -1268,7 +1268,7 @@ NamedP: "f3"
  2048 793 l 1024
 EndSplineSet
 AnchorClass2: "caret_1"""  "topright"""  "topleft"""  "center"""  "top"""  "ogonek"""  "bottom""" 
-BeginChars: 530 502
+BeginChars: 502 502
 
 StartChar: .notdef
 Encoding: 0 -1 0

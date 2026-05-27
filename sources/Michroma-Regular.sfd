@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779835892
+ModificationTime: 1779840209
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1241,7 +1241,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7614 47 19
+WinInfo: 7520 47 19
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -1269,7 +1269,7 @@ NamedP: "f3"
  2048 793 l 1024
 EndSplineSet
 AnchorClass2: "caret_1"""  "topright"""  "topleft"""  "center"""  "top"""  "ogonek"""  "bottom""" 
-BeginChars: 1114125 689
+BeginChars: 1114125 703
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -14181,8 +14181,8 @@ SplineSet
  198 1344 l 257
 EndSplineSet
 Fore
-Refer: 319 305 N 1 0 0 1 0 0 2
-Refer: 250 775 N 1 0 0 1 0 0 2
+Refer: 319 305 S 1 0 0 1 0 0 2
+Refer: 250 775 S 1 0 0 1 0 0 2
 Validated: 9
 Substitution2: "locl_latn_0 subtable" idotaccent
 Substitution2: "Single Substitution lookup 2 subtable" idotless
@@ -23374,6 +23374,146 @@ Fore
 Refer: 350 772 N 1 0 0 1 292 353 2
 Refer: 186 551 N 1 0 0 1 0 0 3
 Validated: 5
+EndChar
+
+StartChar: uni0245
+Encoding: 581 581 689
+Width: 2048
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 158 86 S -1 0 -0 -1 2045 1536 2
+EndChar
+
+StartChar: uni01DD
+Encoding: 477 477 690
+Width: 1567
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 253 101 N -1 0 0 -1 1543 1152 2
+EndChar
+
+StartChar: uni0250
+Encoding: 592 592 691
+Width: 1560
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 176 97 S -1 0 0 -1 1565 1152 2
+EndChar
+
+StartChar: uni028D
+Encoding: 653 653 692
+Width: 2240
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 478 119 N -1 0 0 -1 2240 1152 2
+EndChar
+
+StartChar: uni028C
+Encoding: 652 652 693
+Width: 1588
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 477 118 N -1 0 0 -1 1588 1152 2
+EndChar
+
+StartChar: uni0287
+Encoding: 647 647 694
+Width: 1297
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 444 116 S -1 0 0 -1 1283 1152 2
+EndChar
+
+StartChar: uni0279
+Encoding: 633 633 695
+Width: 1601
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 419 114 S -1 0 0 -1 1412 1152 2
+EndChar
+
+StartChar: uni0258
+Encoding: 600 600 696
+Width: 1567
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 253 101 N -1 0 0 1 1543 0 2
+EndChar
+
+StartChar: uni0265
+Encoding: 613 613 697
+Width: 1603
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 304 104 S -1 0 0 -1 1609 1152 2
+EndChar
+
+StartChar: uni026F
+Encoding: 623 623 698
+Width: 2474
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 348 109 S -1 0 0 -1 2487 1153 2
+EndChar
+
+StartChar: uni028E
+Encoding: 654 654 699
+Width: 1568
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 484 121 S -1 0 0 -1 1546 1156 2
+EndChar
+
+StartChar: uni029E
+Encoding: 670 670 700
+Width: 1414
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 333 107 S -1 0 0 -1 1548 1152 2
+EndChar
+
+StartChar: uni1D02
+Encoding: 7426 7426 701
+Width: 2752
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 187 230 S -1 0 0 -1 2752 1140 2
+EndChar
+
+StartChar: uni1D09
+Encoding: 7433 7433 702
+Width: 448
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 311 105 N -1 0 0 -1 448 1152 2
 EndChar
 EndChars
 EndSplineFont

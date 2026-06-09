@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781035189
+ModificationTime: 1781035445
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1241,7 +1241,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7802 47 19
+WinInfo: 8178 47 19
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -13778,14 +13778,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-890 60 m 261
- 644 688 l 261
- 890 1296 l 261
- 720 1296 l 261
- 506 754 l 261
- 506 622 l 261
- 720 60 l 261
- 890 60 l 261
+890 60 m 257
+ 644 688 l 257
+ 890 1296 l 257
+ 720 1296 l 257
+ 506 754 l 257
+ 506 622 l 257
+ 720 60 l 257
+ 890 60 l 257
 550 60 m 261
  304 688 l 261
  550 1296 l 261
@@ -13847,41 +13847,40 @@ EndChar
 StartChar: guilsinglleft
 Encoding: 8249 8249 302
 GlifName: guilsinglleft
-Width: 896
+Width: 760
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
-768 256 m 257
- 672 128 l 257
- 128 512 l 257
- 128 704 l 257
- 672 1088 l 257
- 768 960 l 257
- 256 608 l 257
- 768 256 l 257
+790 256 m 257
+ 694 128 l 257
+ 150 512 l 257
+ 150 704 l 257
+ 694 1088 l 257
+ 790 960 l 257
+ 278 608 l 257
+ 790 256 l 257
 EndSplineSet
 Fore
 SplineSet
-768 256 m 257
- 256 608 l 257
- 768 960 l 257
- 672 1088 l 257
- 128 704 l 257
- 128 512 l 257
- 672 128 l 257
- 768 256 l 257
+572 60 m 261
+ 326 688 l 261
+ 572 1296 l 261
+ 402 1296 l 261
+ 188 754 l 261
+ 188 622 l 261
+ 402 60 l 261
+ 572 60 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: guilsinglright
 Encoding: 8250 8250 303
 GlifName: guilsinglright
-Width: 896
+Width: 760
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -13896,16 +13895,15 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-768 512 m 257
- 768 704 l 257
- 224 1088 l 257
- 128 960 l 257
- 640 608 l 257
- 128 256 l 257
- 224 128 l 257
- 768 512 l 257
+188 60 m 261
+ 434 688 l 261
+ 188 1296 l 261
+ 358 1296 l 261
+ 572 754 l 261
+ 572 622 l 261
+ 358 60 l 261
+ 188 60 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: h

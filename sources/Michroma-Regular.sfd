@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781034538
+ModificationTime: 1781034778
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1241,7 +1241,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 611 47 19
+WinInfo: 7426 47 19
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -1269,7 +1269,7 @@ NamedP: "f3"
  2048 793 l 1024
 EndSplineSet
 AnchorClass2: "caret_1"""  "topright"""  "topleft"""  "center"""  "top"""  "ogonek"""  "bottom""" 
-BeginChars: 1114125 768
+BeginChars: 1114125 780
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -24058,6 +24058,126 @@ Flags: H
 LayerCount: 3
 Fore
 Refer: 462 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA0
+Encoding: 7840 7840 768
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 249 729 N 1 0 0 1 864 -1658 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA1
+Encoding: 7841 7841 769
+Width: 1560
+Flags: H
+LayerCount: 3
+Fore
+Refer: 249 729 N 1 0 0 1 512 -1680 2
+Refer: 176 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA4
+Encoding: 7844 7844 770
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 183 769 N 1 0 0 1 991 1129 2
+Refer: 8 194 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA5
+Encoding: 7845 7845 771
+Width: 1560
+Flags: H
+LayerCount: 3
+Fore
+Refer: 183 769 N 1 0 0 1 707 745 2
+Refer: 181 226 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA6
+Encoding: 7846 7846 772
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 297 768 N 1 0 0 1 225 1129 2
+Refer: 8 194 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA7
+Encoding: 7847 7847 773
+Width: 1560
+Flags: H
+LayerCount: 3
+Fore
+Refer: 297 768 N 1 0 0 1 -59 745 2
+Refer: 181 226 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAA
+Encoding: 7850 7850 774
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 456 771 N 1 0 0 1 512 1050 2
+Refer: 8 194 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAB
+Encoding: 7851 7851 775
+Width: 1560
+Flags: H
+LayerCount: 3
+Fore
+Refer: 456 771 N 1 0 0 1 228 666 2
+Refer: 181 226 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAC
+Encoding: 7852 7852 776
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 229 770 N 1 0 0 1 544 380 2
+Refer: 768 7840 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAD
+Encoding: 7853 7853 777
+Width: 1560
+Flags: H
+LayerCount: 3
+Fore
+Refer: 229 770 N 1 0 0 1 269 -14 2
+Refer: 769 7841 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB6
+Encoding: 7862 7862 778
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 212 774 N 1 0 0 1 448 383 2
+Refer: 768 7840 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB7
+Encoding: 7863 7863 779
+Width: 1560
+Flags: H
+LayerCount: 3
+Fore
+Refer: 212 774 N 1 0 0 1 173 -11 2
+Refer: 769 7841 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

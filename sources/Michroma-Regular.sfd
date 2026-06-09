@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781034778
+ModificationTime: 1781035189
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1241,7 +1241,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7426 47 19
+WinInfo: 7802 47 19
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -1269,7 +1269,7 @@ NamedP: "f3"
  2048 793 l 1024
 EndSplineSet
 AnchorClass2: "caret_1"""  "topright"""  "topleft"""  "center"""  "top"""  "ogonek"""  "bottom""" 
-BeginChars: 1114125 780
+BeginChars: 1114125 790
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -17422,16 +17422,16 @@ Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-2313 0 m 256
- 2604 0 2779 63 2779 373 c 256
- 2779 683 2604 744 2313 744 c 256
- 2022 744 1846 683 1846 373 c 256
- 1846 63 2022 0 2313 0 c 256
-2313 148 m 256
- 2058 148 2024 194 2024 373 c 256
- 2024 552 2058 597 2313 597 c 256
- 2568 597 2602 552 2602 373 c 256
- 2602 194 2568 148 2313 148 c 256
+2313 0 m 260
+ 2604 0 2779 63 2779 373 c 260
+ 2779 683 2604 744 2313 744 c 260
+ 2022 744 1846 683 1846 373 c 260
+ 1846 63 2022 0 2313 0 c 260
+2313 148 m 260
+ 2058 148 2024 194 2024 373 c 260
+ 2024 552 2058 597 2313 597 c 260
+ 2568 597 2602 552 2602 373 c 260
+ 2602 194 2568 148 2313 148 c 260
 749 792 m 256
  1040 792 1215 855 1215 1165 c 256
  1215 1475 1040 1536 749 1536 c 256
@@ -17485,32 +17485,32 @@ EndChar
 StartChar: perthousand
 Encoding: 8240 8240 404
 GlifName: perthousand
-Width: 5459
+Width: 4458
 VWidth: 0
 Flags: HW
 LayerCount: 3
 Back
 SplineSet
-768 1536 m 257
- 960 1536 l 257
- 256 0 l 257
- 64 0 l 257
- 768 1536 l 257
+886.5 1536 m 257
+ 1078.5 1536 l 257
+ 374.5 0 l 257
+ 182.5 0 l 257
+ 886.5 1536 l 257
 EndSplineSet
 Fore
 SplineSet
-4661 -32 m 256
- 5138 -32 5313 28 5313 526 c 256
- 5313 1018 5138 1082 4661 1082 c 256
- 4185 1082 4010 1018 4010 526 c 256
- 4010 28 4185 -32 4661 -32 c 256
-4661 115 m 256
- 4222 115 4187 160 4187 526 c 256
- 4187 886 4222 934 4661 934 c 256
- 5101 934 5135 886 5135 526 c 256
- 5135 160 5101 115 4661 115 c 256
+3591.5 0 m 256
+ 3882.5 0 4057.5 63 4057.5 373 c 256
+ 4057.5 683 3882.5 744 3591.5 744 c 256
+ 3300.5 744 3124.5 683 3124.5 373 c 256
+ 3124.5 63 3300.5 0 3591.5 0 c 256
+3591.5 148 m 256
+ 3336.5 148 3302.5 194 3302.5 373 c 256
+ 3302.5 552 3336.5 597 3591.5 597 c 256
+ 3846.5 597 3880.5 552 3880.5 373 c 256
+ 3880.5 194 3846.5 148 3591.5 148 c 256
 EndSplineSet
-Refer: 401 37 N 1 0 0 1 0 0 2
+Refer: 401 37 N 1 0 0 1 118.5 0 2
 EndChar
 
 StartChar: plus
@@ -24178,6 +24178,106 @@ LayerCount: 3
 Fore
 Refer: 212 774 N 1 0 0 1 173 -11 2
 Refer: 769 7841 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1F38
+Encoding: 7992 7992 780
+Width: 576
+Flags: H
+LayerCount: 3
+Fore
+Refer: 233 44 N 1 0 0 1 -250 1440 2
+Refer: 708 921 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1F3E
+Encoding: 7998 7998 781
+Width: 576
+Flags: H
+LayerCount: 3
+Fore
+Refer: 455 732 N 1 0 0 1 -250 348 2
+Refer: 780 7992 S 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1F40
+Encoding: 8000 8000 782
+Width: 1602
+Flags: H
+LayerCount: 3
+Fore
+Refer: 233 44 N 1 0 0 1 609 1552 2
+Refer: 719 959 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FB8
+Encoding: 8120 8120 783
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 212 774 N 1 0 0 1 448 383 2
+Refer: 703 913 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FB9
+Encoding: 8121 8121 784
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 350 772 N 1 0 0 1 576 385 2
+Refer: 703 913 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FD8
+Encoding: 8152 8152 785
+Width: 576
+Flags: H
+LayerCount: 3
+Fore
+Refer: 212 774 N 1 0 0 1 -352 383 2
+Refer: 708 921 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FD9
+Encoding: 8153 8153 786
+Width: 576
+Flags: H
+LayerCount: 3
+Fore
+Refer: 350 772 N 1 0 0 1 -224 385 2
+Refer: 708 921 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FE8
+Encoding: 8168 8168 787
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 212 774 N 1 0 0 1 448 383 2
+Refer: 715 933 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1FE9
+Encoding: 8169 8169 788
+Width: 2176
+Flags: H
+LayerCount: 3
+Fore
+Refer: 350 772 N 1 0 0 1 576 385 2
+Refer: 715 933 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: exclamdbl
+Encoding: 8252 8252 789
+Width: 1136
+Flags: H
+LayerCount: 3
+Fore
+Refer: 275 33 N 1 0 0 1 568 0 2
+Refer: 275 33 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

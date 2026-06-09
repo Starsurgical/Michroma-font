@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1779840209
+ModificationTime: 1780999741
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -232,8 +232,8 @@ GroupKern: "y" "o" -64
 GroupKern: "y" "q" -64
 GroupKern: "public.kern1.L_caron" "public.kern2.R_l" 150
 LangName: 1033 "" "" "" "" "" "" "" "Michroma is a trademark of Vernon Adams." "Vernon Adams" "Vernon Adams" "" "http://www.sansoxygen.com" "http://www.sansoxygen.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "https://scripts.sil.org/OFL" "" "MichromaCraft" "Regular"
-OtfFeatName: 'ss01' 1033 "ss01"
 OtfFeatName: 'ss02' 1033 "ss02"
+OtfFeatName: 'ss01' 1033 "ss01"
 PickledDataWithLists: "(dp0
 Vpublic.glyphOrder\\u000d
 p1
@@ -1241,7 +1241,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7520 47 19
+WinInfo: 0 47 19
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -10674,7 +10674,7 @@ SplineSet
  800 1536 l 1
 EndSplineSet
 Refer: 216 99 N 0.9 0 0 0.9 151 270 2
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: circumflex
@@ -11380,18 +11380,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-640 902 m 256
- 808 902 918 964 971 1086 c 256
- 989 1128 998 1177 998 1235 c 256
- 998 1451 860 1568 640 1568 c 256
- 472 1568 362 1506 309 1384 c 256
- 291 1342 282 1293 282 1235 c 256
- 282 1019 420 902 640 902 c 256
-640 1030 m 256
- 503 1030 435 1098 435 1235 c 256
- 435 1373 504 1440 640 1440 c 256
- 772 1440 845 1371 845 1235 c 256
- 845 1098 776 1030 640 1030 c 256
+640 902 m 260
+ 808 902 918 964 971 1086 c 260
+ 989 1128 998 1177 998 1235 c 260
+ 998 1451 860 1568 640 1568 c 260
+ 472 1568 362 1506 309 1384 c 260
+ 291 1342 282 1293 282 1235 c 260
+ 282 1019 420 902 640 902 c 260
+640 1030 m 260
+ 503 1030 435 1098 435 1235 c 260
+ 435 1373 504 1440 640 1440 c 260
+ 772 1440 845 1371 845 1235 c 260
+ 845 1098 776 1030 640 1030 c 260
 EndSplineSet
 Validated: 9
 EndChar
@@ -13221,8 +13221,8 @@ Fore
 SplineSet
 -197 0 m 257
  1153 1536 l 257
- 961 1536 l 257
- -389 0 l 257
+ 961 1536 l 261
+ -389 0 l 261
  -197 0 l 257
 EndSplineSet
 Validated: 9
@@ -17437,39 +17437,34 @@ EndChar
 StartChar: percent
 Encoding: 37 37 401
 GlifName: percent
-Width: 3869
+Width: 3061
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-3071 -32 m 256
- 3548 -32 3723 28 3723 526 c 256
- 3723 1018 3548 1082 3071 1082 c 256
- 2595 1082 2420 1018 2420 526 c 256
- 2420 28 2595 -32 3071 -32 c 256
-798 454 m 256
- 1274 454 1449 514 1449 1012 c 256
- 1449 1505 1274 1568 798 1568 c 256
- 321 1568 146 1505 146 1012 c 256
- 146 514 321 454 798 454 c 256
-798 602 m 256
- 358 602 324 646 324 1012 c 256
- 324 1373 358 1421 798 1421 c 256
- 1237 1421 1272 1373 1272 1012 c 256
- 1272 646 1237 602 798 602 c 256
-1713 0 m 257
- 2417 1536 l 257
- 2225 1536 l 257
- 1521 0 l 257
- 1713 0 l 257
-3071 115 m 256
- 2632 115 2597 160 2597 526 c 256
- 2597 886 2632 934 3071 934 c 256
- 3511 934 3545 886 3545 526 c 256
- 3545 160 3511 115 3071 115 c 256
+2313 0 m 256
+ 2604 0 2779 63 2779 373 c 256
+ 2779 683 2604 744 2313 744 c 256
+ 2022 744 1846 683 1846 373 c 256
+ 1846 63 2022 0 2313 0 c 256
+2313 148 m 256
+ 2058 148 2024 194 2024 373 c 256
+ 2024 552 2058 597 2313 597 c 256
+ 2568 597 2602 552 2602 373 c 256
+ 2602 194 2568 148 2313 148 c 256
+749 792 m 256
+ 1040 792 1215 855 1215 1165 c 256
+ 1215 1475 1040 1536 749 1536 c 256
+ 458 1536 282 1475 282 1165 c 256
+ 282 855 458 792 749 792 c 256
+749 940 m 256
+ 494 940 460 986 460 1165 c 256
+ 460 1344 494 1389 749 1389 c 256
+ 1004 1389 1038 1344 1038 1165 c 256
+ 1038 986 1004 940 749 940 c 256
 EndSplineSet
-Validated: 9
+Refer: 287 8260 N 1 0 0 1 1166 0 2
 EndChar
 
 StartChar: period
@@ -17513,7 +17508,7 @@ Encoding: 8240 8240 404
 GlifName: perthousand
 Width: 5459
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -17537,7 +17532,6 @@ SplineSet
  5135 160 5101 115 4661 115 c 256
 EndSplineSet
 Refer: 401 37 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar
 
 StartChar: plus
@@ -20763,7 +20757,7 @@ SplineSet
  484 -228 526 -129 750 226 c 257
  738 151 l 257
 EndSplineSet
-Validated: 524325
+Validated: 37
 Kerns2: 176 -64 "'kern' Horizontal Kerning lookup 0 subtable" 216 -64 "'kern' Horizontal Kerning lookup 0 subtable" 238 -64 "'kern' Horizontal Kerning lookup 0 subtable" 253 -64 "'kern' Horizontal Kerning lookup 0 subtable" 288 -64 "'kern' Horizontal Kerning lookup 0 subtable" 368 -64 "'kern' Horizontal Kerning lookup 0 subtable" 408 -64 "'kern' Horizontal Kerning lookup 0 subtable" 408 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 368 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 288 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 253 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 238 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 216 -64 "kernHorizontalKerninginLatinloo per glyph data 1" 176 -64 "kernHorizontalKerninginLatinloo per glyph data 1"
 EndChar
 
@@ -21169,7 +21163,7 @@ Encoding: 48 48 496
 GlifName: zero
 Width: 1948
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -21208,40 +21202,39 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1820 788 m 257
- 1820 1467 1677 1568 1077 1568 c 257
- 974 1568 l 257
- 974 1402 l 257
- 1077 1402 l 257
- 1554 1402 1628 1374 1628 788 c 257
- 1820 748 l 257
- 1820 788 l 257
-974 -32 m 257
- 974 134 l 257
- 871 134 l 257
- 394 134 320 182 320 748 c 257
- 320 788 l 257
- 128 748 l 257
- 128 89 271 -32 871 -32 c 257
- 974 -32 l 257
-320 788 m 257
- 320 1374 394 1402 871 1402 c 257
- 974 1402 l 257
- 974 1568 l 257
- 871 1568 l 257
- 271 1568 128 1467 128 788 c 257
- 128 748 l 257
- 320 788 l 257
-1077 -32 m 257
- 1677 -32 1820 89 1820 748 c 257
- 1628 788 l 257
- 1628 748 l 257
- 1628 182 1554 134 1077 134 c 257
- 974 134 l 257
- 974 -32 l 257
- 1077 -32 l 257
+1820 788 m 261
+ 1820 1467 1677 1568 1077 1568 c 261
+ 974 1568 l 261
+ 974 1402 l 261
+ 1077 1402 l 261
+ 1554 1402 1628 1374 1628 788 c 261
+ 1820 748 l 261
+ 1820 788 l 261
+974 -32 m 261
+ 974 134 l 261
+ 871 134 l 261
+ 394 134 320 182 320 748 c 261
+ 320 788 l 261
+ 128 748 l 261
+ 128 89 271 -32 871 -32 c 261
+ 974 -32 l 261
+320 788 m 261
+ 320 1374 394 1402 871 1402 c 261
+ 974 1402 l 261
+ 974 1568 l 261
+ 871 1568 l 261
+ 271 1568 128 1467 128 788 c 261
+ 128 748 l 261
+ 320 788 l 261
+1077 -32 m 261
+ 1677 -32 1820 89 1820 748 c 261
+ 1628 788 l 261
+ 1628 748 l 261
+ 1628 182 1554 134 1077 134 c 261
+ 974 134 l 261
+ 974 -32 l 261
+ 1077 -32 l 261
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: Tcedilla

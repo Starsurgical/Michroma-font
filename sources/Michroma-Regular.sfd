@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1780999741
+ModificationTime: 1781029503
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1312,19 +1312,19 @@ AnchorPoint: "top" 1088 1536 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-288 0 m 261
- 480 352 l 261
- 1696 352 l 261
- 1888 0 l 261
- 2112 0 l 261
- 1216 1536 l 261
- 960 1536 l 261
- 64 0 l 261
- 288 0 l 261
-1088 1408 m 261
- 1600 512 l 261
- 576 512 l 261
- 1088 1408 l 261
+288 0 m 257
+ 480 352 l 257
+ 1696 352 l 257
+ 1888 0 l 257
+ 2112 0 l 257
+ 1216 1536 l 257
+ 960 1536 l 257
+ 64 0 l 257
+ 288 0 l 257
+1088 1408 m 257
+ 1600 512 l 257
+ 576 512 l 257
+ 1088 1408 l 257
 EndSplineSet
 Validated: 9
 Kerns2: 159 -218 "'kern' Horizontal Kerning lookup 0 subtable"
@@ -9694,47 +9694,46 @@ Encoding: 42 42 200
 GlifName: asterisk
 Width: 1415
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
-264 495 m 257
- 628 896 l 257
- 128 1072 l 257
- 228 1250 l 257
- 660 992 l 257
- 612 1536 l 257
- 804 1536 l 257
- 756 992 l 257
- 1187 1250 l 257
- 1287 1072 l 257
- 788 896 l 257
- 1152 495 l 257
- 996 384 l 257
- 708 834 l 257
- 420 384 l 257
- 264 495 l 257
+1680 495 m 257
+ 2044 896 l 257
+ 1544 1072 l 257
+ 1644 1250 l 257
+ 2076 992 l 257
+ 2028 1536 l 257
+ 2220 1536 l 257
+ 2172 992 l 257
+ 2603 1250 l 257
+ 2703 1072 l 257
+ 2204 896 l 257
+ 2568 495 l 257
+ 2412 384 l 257
+ 2124 834 l 257
+ 1836 384 l 257
+ 1680 495 l 257
 EndSplineSet
 Fore
 SplineSet
-708 834 m 257
- 996 384 l 257
- 1152 495 l 257
- 788 896 l 257
- 1287 1072 l 257
- 1187 1250 l 257
- 756 992 l 257
- 804 1536 l 257
- 612 1536 l 257
- 660 992 l 257
- 228 1250 l 257
- 128 1072 l 257
- 628 896 l 257
- 264 495 l 257
- 420 384 l 257
- 708 834 l 257
+708 955 m 257
+ 969 721 l 257
+ 1032 766 l 257
+ 868 1079 l 257
+ 1151 1201 l 257
+ 1131 1271 l 257
+ 804 1271 l 257
+ 746 1536 l 257
+ 670 1536 l 257
+ 612 1271 l 257
+ 284 1271 l 257
+ 264 1201 l 257
+ 548 1079 l 257
+ 384 766 l 257
+ 447 721 l 257
+ 708 955 l 257
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: at
@@ -17439,7 +17438,7 @@ Encoding: 37 37 401
 GlifName: percent
 Width: 3061
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet

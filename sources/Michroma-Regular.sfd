@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781032462
+ModificationTime: 1781033257
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -13753,57 +13753,56 @@ EndChar
 StartChar: guillemetleft
 Encoding: 171 171 300
 GlifName: guillemetleft
-Width: 1344
+Width: 1056
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
-672 128 m 257
- 128 512 l 257
- 128 704 l 257
- 672 1088 l 257
- 768 960 l 257
- 256 608 l 257
- 768 256 l 257
- 672 128 l 257
-1120 128 m 257
- 576 512 l 257
- 576 704 l 257
- 1120 1088 l 257
- 1216 960 l 257
- 704 608 l 257
- 1216 256 l 257
- 1120 128 l 257
+1254 128 m 257
+ 710 512 l 257
+ 710 704 l 257
+ 1254 1088 l 257
+ 1350 960 l 257
+ 838 608 l 257
+ 1350 256 l 257
+ 1254 128 l 257
+1702 128 m 257
+ 1158 512 l 257
+ 1158 704 l 257
+ 1702 1088 l 257
+ 1798 960 l 257
+ 1286 608 l 257
+ 1798 256 l 257
+ 1702 128 l 257
 EndSplineSet
 Fore
 SplineSet
-1216 256 m 257
- 704 608 l 257
- 1216 960 l 257
- 1120 1088 l 257
- 576 704 l 257
- 576 512 l 257
- 1120 128 l 257
- 1216 256 l 257
-768 256 m 257
- 256 608 l 257
- 768 960 l 257
- 672 1088 l 257
- 128 704 l 257
- 128 512 l 257
- 672 128 l 257
- 768 256 l 257
+890 60 m 261
+ 644 688 l 261
+ 890 1296 l 261
+ 720 1296 l 261
+ 506 754 l 261
+ 506 622 l 261
+ 720 60 l 261
+ 890 60 l 261
+550 60 m 261
+ 304 688 l 261
+ 550 1296 l 261
+ 380 1296 l 261
+ 166 754 l 261
+ 166 622 l 261
+ 380 60 l 261
+ 550 60 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: guillemetright
 Encoding: 187 187 301
 GlifName: guillemetright
-Width: 1344
+Width: 1056
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Back
 SplineSet
@@ -13826,24 +13825,23 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1216 512 m 257
- 1216 704 l 257
- 672 1088 l 257
- 576 960 l 257
- 1088 608 l 257
- 576 256 l 257
- 672 128 l 257
- 1216 512 l 257
-768 512 m 257
- 768 704 l 257
- 224 1088 l 257
- 128 960 l 257
- 640 608 l 257
- 128 256 l 257
- 224 128 l 257
- 768 512 l 257
+166 60 m 261
+ 412 688 l 261
+ 166 1296 l 261
+ 336 1296 l 261
+ 550 754 l 261
+ 550 622 l 261
+ 336 60 l 261
+ 166 60 l 261
+506 60 m 261
+ 752 688 l 261
+ 506 1296 l 261
+ 676 1296 l 261
+ 890 754 l 261
+ 890 622 l 261
+ 676 60 l 261
+ 506 60 l 261
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: guilsinglleft

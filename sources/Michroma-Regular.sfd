@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781031826
+ModificationTime: 1781032106
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -19031,7 +19031,7 @@ Encoding: 163 163 442
 GlifName: sterling
 Width: 1663
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20863,7 +20863,7 @@ Encoding: 165 165 488
 GlifName: yen
 Width: 2048
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -20895,31 +20895,30 @@ EndSplineSet
 Fore
 SplineSet
 1120 0 m 257
- 1120 256 l 257
- 1632 256 l 257
- 1632 416 l 257
- 1120 416 l 257
- 1120 640 l 257
- 1632 640 l 257
- 1632 800 l 257
- 1274 800 l 257
- 1984 1536 l 257
- 1728 1536 l 257
- 1024 768 l 257
- 320 1536 l 257
- 64 1536 l 257
- 773 800 l 257
- 416 800 l 257
- 416 640 l 257
- 928 640 l 257
- 928 416 l 257
- 416 416 l 257
- 416 256 l 257
- 928 256 l 257
+ 1120 401 l 257
+ 1632 401 l 257
+ 1632 561 l 257
+ 1120 561 l 257
+ 1120 665 l 257
+ 1632 665 l 257
+ 1632 825 l 257
+ 1234 825 l 257
+ 1672 1536 l 257
+ 1456 1536 l 257
+ 1024 793 l 257
+ 592 1536 l 257
+ 376 1536 l 257
+ 813 825 l 257
+ 416 825 l 257
+ 416 665 l 257
+ 928 665 l 257
+ 928 561 l 257
+ 416 561 l 257
+ 416 401 l 257
+ 928 401 l 257
  928 0 l 257
  1120 0 l 257
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: ygrave

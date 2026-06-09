@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781035445
+ModificationTime: 1781035793
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1241,7 +1241,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8178 47 19
+WinInfo: 10998 47 19
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -13711,9 +13711,8 @@ EndChar
 StartChar: greaterequal
 Encoding: 8805 8805 299
 GlifName: greaterequal
-Width: 1400
-VWidth: 0
-Flags: W
+Width: 2048
+Flags: H
 LayerCount: 3
 Back
 SplineSet
@@ -13731,23 +13730,6 @@ SplineSet
  128 128 l 257
  1022 128 l 257
 EndSplineSet
-Fore
-SplineSet
-1148 736 m 257
- 1148 928 l 257
- 252 1472 l 257
- 252 1216 l 257
- 1004 832 l 257
- 252 448 l 257
- 252 192 l 257
- 1148 736 l 257
-1146 -32 m 257
- 1146 128 l 257
- 252 128 l 257
- 252 -32 l 257
- 1146 -32 l 257
-EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: guillemetleft
@@ -13880,7 +13862,7 @@ Encoding: 8250 8250 303
 GlifName: guilsinglright
 Width: 760
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15123,9 +15105,8 @@ EndChar
 StartChar: lessequal
 Encoding: 8804 8804 343
 GlifName: lessequal
-Width: 1400
-VWidth: 0
-Flags: W
+Width: 2048
+Flags: H
 LayerCount: 3
 Back
 SplineSet
@@ -15143,23 +15124,6 @@ SplineSet
  128 128 l 257
  1022 128 l 257
 EndSplineSet
-Fore
-SplineSet
-1148 448 m 257
- 396 832 l 257
- 1148 1216 l 257
- 1148 1472 l 257
- 252 928 l 257
- 252 736 l 257
- 1148 192 l 257
- 1148 448 l 257
-1146 -32 m 257
- 1146 128 l 257
- 252 128 l 257
- 252 -32 l 257
- 1146 -32 l 257
-EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: lj
@@ -15920,11 +15884,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1075 1320 m 257
- 915 1384 l 257
- 348 163 l 257
- 508 99 l 257
- 1075 1320 l 257
+1098 1317 m 261
+ 951 1408 l 261
+ 295 436 l 261
+ 442 345 l 261
+ 1098 1317 l 261
 EndSplineSet
 Refer: 271 61 N 1 0 0 1 0 0 2
 EndChar

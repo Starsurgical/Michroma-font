@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1779678478
-ModificationTime: 1781030386
+ModificationTime: 1781030669
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -12572,22 +12572,21 @@ Encoding: 61 61 271
 GlifName: equal
 Width: 1400
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-1203 893 m 257
- 1203 1053 l 257
- 197 1053 l 257
- 197 893 l 257
- 1203 893 l 257
-1203 460 m 257
- 1203 620 l 257
- 197 620 l 257
- 197 460 l 257
- 1203 460 l 257
+1203 979 m 257
+ 1203 1139 l 257
+ 197 1139 l 257
+ 197 979 l 257
+ 1203 979 l 257
+1203 659 m 257
+ 1203 819 l 257
+ 197 819 l 257
+ 197 659 l 257
+ 1203 659 l 257
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: eth
@@ -13694,7 +13693,7 @@ Encoding: 62 62 298
 GlifName: greater
 Width: 1400
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -13709,14 +13708,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-272 448 m 261
- 1004 792 l 261
- 272 1136 l 261
- 272 1334 l 261
- 1148 888 l 261
- 1148 696 l 261
- 272 250 l 261
- 272 448 l 261
+272 448 m 257
+ 1004 792 l 257
+ 272 1136 l 257
+ 272 1334 l 257
+ 1148 888 l 257
+ 1148 696 l 257
+ 272 250 l 257
+ 272 448 l 257
 EndSplineSet
 EndChar
 
@@ -15915,7 +15914,7 @@ Encoding: 8800 8800 365
 GlifName: notequal
 Width: 1400
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -15944,7 +15943,6 @@ SplineSet
  1075 1320 l 257
 EndSplineSet
 Refer: 271 61 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: ntilde
